@@ -1,0 +1,56 @@
+
+# Lección 7.- "Movimientos melódicos disjuntos: 3as, 4as, 5as, etc. (Do3 a Re4)"
+
+
+
+Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª, o sea, los de 3ª, 4ª, 5ª, etc. En este curso no iremos más allá de los dos primeros, es decir, los de 3ª y 4ª. Excepcionalmente es posible que aparezcan saltos de 5ª o 6ª, pero son muy raros en los temas escolares.
+
+EJERCICIOS
+
+1. Con audio de acompañamiento. 
+
+**Forma de realización**
+
+- Estudiar primero sin audio.
+
+- Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.
+
+- Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
+
+<img src="img/EjerFla_GradosDisj_3as_4as.gif" alt="Grados disjuntos (3as y 4as)" title="Grados disjuntos (3as y 4as)" />
+
+Armonización y edición audio: R. Páez Perza
+
+[EjerFla_GradosDisjuntos_1.mp3](EjerFla_GradosDisjuntos_1.mp3)</audio>
+
+CLICAR Y TOCAR
+
+2. Sin audio de acompañamiento. 
+
+<img src="img/EjerFla_GradosDisjuntos_2.gif" alt="Grados disjuntos 2" title="Grados disjuntos 2" />
+
+
+
+## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+
+1. Estudia y realiza el siguiente tema popular con su correspondiente audio de acompañamiento.
+
+<img src="img/Frere_Jacques_(flauta).gif" height="255" alt="Frere Jacques (flauta)" title="Frere Jacques (flauta)" />
+
+Armonización y edición audio: R.Páez Perza
+
+[TF_FrereJacques.mp3](TF_FrereJacques.mp3)</audio>
+
+CLICAR Y TOCAR
+
+2. Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
+
+.<img src="img/L7_MoonRiver_GrDisjuntos_GRIS.gif" alt="Moon river (Flauta)" title="Moon river (Flauta)" />
+
+[Fla_MonRiver_INCOMPLETO.mp3](Fla_MonRiver_INCOMPLETO.mp3)</audio>
+
+
+
+NOTA.- En** ****[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)** encontrarás algunos de estos audios de acompañamiento completos.
+
+

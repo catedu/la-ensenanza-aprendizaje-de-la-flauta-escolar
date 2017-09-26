@@ -39,7 +39,7 @@ EJERCICIOS
 
 Armonización y edición audio: R.Páez Perza
 
-[L2_EjerFla_PrimerasNociones_EscalaDoM.mp3](L2_EjerFla_PrimerasNociones_EscalaDoM.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090288&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 1 -&gt; CLICAR Y TOCAR
 
@@ -49,7 +49,7 @@ Acompañamiento ejercicio 1 -&gt; CLICAR Y TOCAR
 
 Armonización y edición audio: R.Páez Perza
 
-[L2_EjerFla_PrimerasNociones_EscalaDoM.mp3](L2_EjerFla_PrimerasNociones_EscalaDoM.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090288&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 2 -&gt; CLICAR Y TOCAR (el audio es el mismo que el del ejercicio 1)
 
@@ -59,7 +59,7 @@ Acompañamiento ejercicio 2 -&gt; CLICAR Y TOCAR (el audio es el mismo que el de
 
 Armonización y edición audio: R.Páez Perza
 
-[L5_GrConj_3.mp3](L5_GrConj_3.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090295&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
@@ -69,7 +69,7 @@ CLICAR Y TOCAR
 
 Armonización y edición audio: R.Páez Perza
 
-[Ejer4_MovMelGraConj_Modulo2.mp3](Ejer4_MovMelGraConj_Modulo2.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090235&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
@@ -79,7 +79,7 @@ CLICAR Y TOCAR
 
 Armonización y edición audio: R.Páez Perza
 
-[L5_GrConj_2.mp3](L5_GrConj_2.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090294&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
@@ -89,7 +89,7 @@ CLICAR Y TOCAR
 
 Armonización y edición audio: R.Páez Perza
 
-[L3_EjerFla_GradosConjuntos3.mp3](L3_EjerFla_GradosConjuntos3.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090289&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
@@ -99,7 +99,7 @@ CLICAR Y TOCAR
 
 Armonización y edición audio: R.Páez Perza
 
-### [L5_GrConj_Duo_7.mp3](L5_GrConj_Duo_7.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090296&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 

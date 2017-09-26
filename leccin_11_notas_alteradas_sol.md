@@ -1,6 +1,8 @@
 
 # Lección 11.- "Notas alteradas: Sol#"
 
+![](img/Posicion_Sol_num_.gif)
+
 **EJERCICIOS**
 
 **Forma de realización**
@@ -12,6 +14,33 @@
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
 <img src="img/Sol_num__Ejer_1.jpg" alt="Sol# - Ejercicio 1" title="Sol# - Ejercicio 1" height="114" />
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090250&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+
+![](img/Sol_num__Ejer_2.jpg)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090251&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+![](img/Sol_num__Ejer_3.jpg)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090252&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+![](img/Sol_num__Ejer_4.gif)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090253&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+![](img/Sol_num__Ejer_5.jpg)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090254&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+![](img/Sol_num__Ejer_6.jpg)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090256&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+![](img/Sol_num__Ejer_7.jpg)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090257&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 
 ## Realiza
 
@@ -19,11 +48,11 @@
 
 Arreglo y edición audio: R. Páez Perza
 
-[VidaBella_Sol#.mp3](VidaBella_Sol_num_.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090305&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
-NOTA.- En** [www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)** encontrarás algunos de estos audios de acompañamiento completos.
+NOTA.- En ** [www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)** encontrarás algunos de estos audios de acompañamiento completos.
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

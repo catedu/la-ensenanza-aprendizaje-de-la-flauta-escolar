@@ -1,7 +1,9 @@
 
 # Lección 10.- "Notas alteradas: Fa#"
 
-******EJERCICIOS**
+![](img/Posicion_Fa_num_.gif)
+
+**EJERCICIOS**
 
 **Forma de realización**
 
@@ -11,19 +13,21 @@
 
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
-[EjerFla_Alteracion_Fa_sost_1.mp3](EjerFla_Alteracion_Fa_sost_1.mp3)</audio>
+![](img/L10_Fa_num__Ejercicio_1.jpg)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090236&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
 <img src="img/L10_Fa_num__Ejercicio_2.jpg" alt="Ejercicio Fa# 2" title="Ejercicio Fa# 2" />
 
-[EjerFla_Alteracion_Fa_sost_2.mp3](EjerFla_Alteracion_Fa_sost_2.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090238&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
 <img src="img/L10_Fa_num__Ejercicio_3.jpg" alt="Ejercicio Fa# 3" title="Ejercicio Fa# 3" />
 
-[EjerFla_Alteracion_Fa_sost_3.mp3](EjerFla_Alteracion_Fa_sost_3.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090239&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
 
@@ -31,13 +35,13 @@ CLICAR Y TOCAR
 
 <img src="img/L10_Fa_num__Ejercicio_4.jpg" alt="Ejercicio Fa# 4" title="Ejercicio Fa# 4" />
 
-[EjerFla_Alteracion_Fa_sost_4.mp3](EjerFla_Alteracion_Fa_sost_4.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090242&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
 <img src="img/L10_Fa_num__Ejercicio_5.jpg" alt="Ejercicio Fa# 5" title="Ejercicio Fa# 5" />
 
-[EjerFla_Alteracion_Fa_sost_5.mp3](EjerFla_Alteracion_Fa_sost_5.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090245&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
@@ -47,7 +51,7 @@ CLICAR Y TOCAR
 
 Arreglo y edición audio: R. Páez Perza
 
-[OboeGabriel_Fa#_.mp3](OboeGabriel_Fa_num__.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090301&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 

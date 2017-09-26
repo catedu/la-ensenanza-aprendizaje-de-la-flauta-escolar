@@ -21,7 +21,7 @@ EJERCICIOS
 
 Armonización y edición audio: R. Páez Perza
 
-[EjerFla_GradosDisjuntos_1.mp3](EjerFla_GradosDisjuntos_1.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090259&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
@@ -39,18 +39,14 @@ CLICAR Y TOCAR
 
 Armonización y edición audio: R.Páez Perza
 
-[TF_FrereJacques.mp3](TF_FrereJacques.mp3)</audio>
-
-CLICAR Y TOCAR
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090303&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 2. Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
 
 .<img src="img/L7_MoonRiver_GrDisjuntos_GRIS.gif" alt="Moon river (Flauta)" title="Moon river (Flauta)" />
 
-[Fla_MonRiver_INCOMPLETO.mp3](Fla_MonRiver_INCOMPLETO.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090265&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-
-
-NOTA.- En** ****[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)** encontrarás algunos de estos audios de acompañamiento completos.
+NOTA.- En **[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)** encontrarás algunos de estos audios de acompañamiento completos.
 
 

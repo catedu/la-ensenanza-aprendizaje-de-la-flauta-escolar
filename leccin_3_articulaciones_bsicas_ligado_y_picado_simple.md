@@ -13,7 +13,7 @@ El "**legato**" o **ligado** consiste en interpretar dos o más notas seguidas c
 
 <img src="img/L4_1_Legato.jpg" alt="Legato o ligado" title="Legato o ligado" height="188" />
 
-[Ligado.mp3](Ligado.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090298&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 COMENTARIO.- La primera ligadura deberá iniciarse con la sílaba 'TU' (golpe de lengua para emitir) y prolongar el soplo o columna de aire durante ocho tiempos o pulsos (4 negras + 2 blancas) de manera ininterrumpida mientras los dedos evolucionan según el ritmo y altura de las notas. Lo segunda y tercera ligaduras funcionarán de la misma manera.
 
@@ -21,7 +21,7 @@ El **picado** se interpreta articulando o emitiendo cada una de las notas con la
 
 <img src="img/L4_2_Picado.jpg" alt="Picado" height="85" title="Picado" />
 
-[Picado.mp3](Picado.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090302&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 EJERCICIOS
 
@@ -33,14 +33,13 @@ Realiza los ejercicios siguientes empleando el ligado opcional (ligaduras discon
 
 Armonización y edición audio: R.Páez Perza
 
-[L3_EjerFla_Sol-La-Si.mp3](L3_EjerFla_Sol-La-Si.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090291&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Audio ejercicios 1, 2 y 3 -&gt; CLICAR Y TOCAR
 
 <img src="img/L3_3.PicadoLigado_Ejercicios_4-12.gif" alt="L3_Ejercicios_4-12" title="L3_Ejercicios_4-12" />
 
-[L3_Metronomo_80p.mp3](L3_Metronomo_80p.mp3)</audio> 
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090293&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 
 
@@ -58,8 +57,7 @@ Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 **Actividades de ampliación 1**
 
 <img src="img/L3_Picado_Do-Fa-Sol-Do.gif" alt="Picado simple (acordes Do-Fa-Sol)" title="Picado simple (acordes Do-Fa-Sol)" />
-
-[http://www.adarmus.com/Miscelanea_UU/AcordesFla1_ESTATICO.mp3](http://www.adarmus.com/Miscelanea_UU/AcordesFla1_ESTATICO.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344092892&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
 

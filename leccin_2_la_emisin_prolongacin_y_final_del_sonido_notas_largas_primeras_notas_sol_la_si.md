@@ -27,6 +27,7 @@ Emisión, prolongación y final de las notas Sol - La - Si
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090282&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090284&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Audios
 
 La práctica de notas largas debe ser un trabajo habitual en el estudio de la flauta. Aunque parezca una práctica simple, forma parte del trabajo diario de los instrumentistas profesionales para conseguir **calidad sonora**. Evidentemente introducen algunas variables: diferentes intensidades, "crescendo y diminuendo", vibrato, diferentes tipos de ataque al emitir la nota, etc.
 

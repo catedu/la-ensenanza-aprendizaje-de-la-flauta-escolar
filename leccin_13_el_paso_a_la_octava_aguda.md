@@ -17,7 +17,7 @@ En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u o
 
 Armonización y edición audio: R. Páez Perza
 
-[EjerFla_OctavaAlta1_1.mp3](EjerFla_OctavaAlta1_1.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090260&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR /Ejer. 1)
 
@@ -27,11 +27,13 @@ CLICAR Y TOCAR /Ejer. 1)
 
 Armonización y edición audio: R. Páez Perza
 
-[EjerFla_OctavaAlta1_2.mp3](EjerFla_OctavaAlta1_2.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090261&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR (Ejer. 2)
 
-[EjerFla_OctavaAlta1_3.mp3](EjerFla_OctavaAlta1_3.mp3)</audio>
+![](img/L13_Paso_8a_3.jpg)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090262&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR (Ejer. 3)
 
@@ -41,9 +43,9 @@ CLICAR Y TOCAR (Ejer. 3)
 
 Armonización y edición audio: R. Páez Perza
 
-[EjerFla_OctavaAlta1_4_.mp3](EjerFla_OctavaAlta1_4_.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090263&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-### CLICAR Y TOCAR (Ejer. 4)
+CLICAR Y TOCAR (Ejer. 4)
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

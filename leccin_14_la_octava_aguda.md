@@ -37,7 +37,7 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 Armonización y edición audio: R. Páez Perza
 
-[Frase_1_8ªaguda_Ac+Metro.mp3](Frase_1_8aaguda_AcMetro.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090266&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 
@@ -49,7 +49,7 @@ CLICAR Y TOCAR
 
 Armonización y edición audio: R. Páez Perza
 
-[Frase_2_8ªaguda_Acordes.mp3](Frase_2_8aaguda_Acordes.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 CLICAR Y TOCAR
 

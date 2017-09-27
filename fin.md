@@ -13,8 +13,8 @@ Espero que este curso os haya sido útil.
 - **Amplificación para escuchar los audios.**
 - **Pantalla de vídeo para visualizar los ejercicios o bien disponer de ellos en partitura.**
 
-<strong style="font-size: medium; text-align: center;">Rafael Páez Perza**
+<strong style="font-size: medium; text-align: center;">Rafael Páez Perza
 
-<strong style="font-size: medium; text-align: center;">FIN<br />**
+<strong style="font-size: medium; text-align: center;">FIN<br />
 
 

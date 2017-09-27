@@ -17,11 +17,11 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 
 Arreglo, armonización y edición audio: R. Páez Perza
 
-[L_15_RrMercedes.mp3](L_15_RrMercedes.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090297&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
 
-Ø
+
 
 **2. "Carros de fuego"**
 
@@ -29,7 +29,7 @@ Clicar y tocar
 
 Arreglo, armonización y edición audio: R. Páez Perza
 
-[L15_Carros_Fragmento.mp3](L15_Carros_Fragmento.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090272&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
 
@@ -41,11 +41,10 @@ Clicar y tocar
 
 Arreglo, armonización y edición audio: R. Páez Perza
 
-[L15_MusicAlone_Fragmento.mp3](L15_MusicAlone_Fragmento.mp3)</audio>
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Clicar y tocar
 
-Ø
+
 
 **4. "Oh! When the Saints"**
 
@@ -53,11 +52,9 @@ Clicar y tocar
 
 Arreglo, armonización y edición audio: R. Páez Perza
 
-[L15_WhenSaints_Fragmento.mp3](L15_WhenSaints_Fragmento.mp3)</audio>
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Clicar y tocar
 
-Ø
 
 **5. "Primavera" (Vivaldi)**
 
@@ -65,7 +62,7 @@ Clicar y tocar
 
 Arreglo, armonización y edición audio: R. Páez Perza
 
-[L15_Primavera_Fragmento.mp3](L15_Primavera_Fragmento.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090278&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
 
@@ -75,8 +72,7 @@ Clicar y tocar
 
 Arreglo y edición audio: R. Páez Perza<br />
 
-[L15_Manton_Fragment.mp3](L15_Manton_Fragment.mp3)</audio>
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090274&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Clicar y tocar
 
 OBSERVACIONES
@@ -93,17 +89,17 @@ OBSERVACIONES
 
 Arreglo, armonización y edición audio: R. Páez Perza
 
-[L15_StªMª_Fragment.mp3](L15_StaMa_Fragment.mp3)</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
 
-Ø
+
 
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
 
-Ø
 
-NOTA.- En ** ****[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)**  encontrarás algunos de estos audios de acompañamiento completos.<strong style="color: #800000; font-size: medium;">**
+
+NOTA.- En **[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)**  encontrarás algunos de estos audios de acompañamiento completos.<strong style="color: #800000; font-size: medium;">
 
  
 

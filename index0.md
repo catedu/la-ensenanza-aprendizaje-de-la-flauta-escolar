@@ -8,7 +8,7 @@ MÓDULO I
 - La emisión, prolongación y final del sonido con notas largas. Primeras notas: Sol, La, Si
 - Articulaciones básicas (ligado y picado)
 
-## Objetivos
+## Objetivos 
 
 1. Conocer el contexto histórico de este instrumento.
 

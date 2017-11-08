@@ -37,10 +37,10 @@ La mejor manera de estudiar la técnica respiratoria es observar a los grandes 
 
 {% youtube %}https://www.youtube.com/watch?v=0XiHU8To1d0&feature=youtu.be{% endyoutube %}
 
-Flautín
+Giovanni Antonini (Concierto para flautín en Do mayor de Vivaldi)
 
 {% youtube %}https://www.youtube.com/watch?v=CZhMAUJuYZc&feature=youtu.be{% endyoutube %}
 
-Flautas de pico poco frecuentes en estilo clásico y contemporáneo
+Flautas de pico poco frecuentes en estilo clásico y contemporáneo (13'25'' a 22'02'')
 
 

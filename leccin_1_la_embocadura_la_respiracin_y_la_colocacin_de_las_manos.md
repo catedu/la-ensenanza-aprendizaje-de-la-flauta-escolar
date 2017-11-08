@@ -35,11 +35,11 @@ La mejor manera de estudiar la técnica respiratoria es observar a los grandes 
 
 ## Observa como respiran los intérpretes
 
-<iframe width="100%" height="492" src="//www.youtube.com/embed/0XiHU8To1d0" frameborder="0"></iframe>
+{% youtube %}https://www.youtube.com/watch?v=0XiHU8To1d0&feature=youtu.be{% endyoutube %}
 
 Flautín
 
-<iframe width="100%" height="492" src="//www.youtube.com/embed/CZhMAUJuYZc" frameborder="0"></iframe>
+{% youtube %}https://www.youtube.com/watch?v=CZhMAUJuYZc&feature=youtu.be{% endyoutube %}
 
 Flautas de pico poco frecuentes en estilo clásico y contemporáneo
 

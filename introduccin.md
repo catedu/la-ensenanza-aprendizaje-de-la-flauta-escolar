@@ -7,7 +7,7 @@ Todos los ejercicios y actividades que se plantean en este curso pueden a su vez
 
 La flauta de pico fue empleada hasta la época barroca (Bach, Haendel, Vivaldi). Posteriormente fue sustituida por la flauta travesera de mejor sonoridad y con mejores posibilidades técnico-interpretativas. 
 
-<iframe width="100%" height="350" src="//www.youtube.com/embed/sAz9Dz1LiPU" frameborder="0"></iframe>
+{% youtube %}https://www.youtube.com/watch?v=sAz9Dz1LiPU&feature=youtu.be{% endyoutube %}
 
 Adagio y Allegro de la Sonata I de G.F. Haendel interpretado por Lenka Molcanyiova
 

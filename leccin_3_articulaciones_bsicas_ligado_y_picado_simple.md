@@ -35,7 +35,7 @@ Armonización y edición audio: R.Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090291&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Audio ejercicios 1, 2 y 3 -&gt; CLICAR Y TOCAR
+Audios para los ejercicios 1, 2 y 3 -&gt; 
 
 <img src="img/L3_3.PicadoLigado_Ejercicios_4-12.gif" alt="L3_Ejercicios_4-12" title="L3_Ejercicios_4-12" />
 
@@ -59,7 +59,6 @@ Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 <img src="img/L3_Picado_Do-Fa-Sol-Do.gif" alt="Picado simple (acordes Do-Fa-Sol)" title="Picado simple (acordes Do-Fa-Sol)" />
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344092892&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Clicar y tocar
 
 Objetivos:
 
@@ -75,9 +74,9 @@ FORMA DE REALIZACIÓN
 
 1. Dividir la clase en tres grupos de alumnos de manera que:
 
-1. A la voz o parte inferior (flauta 3) le corresponda el 50% de los alumnos-as.
-1. A parte intermedia (flauta 2) el 30 - 35% de alumnos-as
-1. A la parte superior (flauta 1) el 15 - 20% de los alumnos-as
+ - A la voz o parte inferior (flauta 3) le corresponda el 50% de los alumnos-as.
+ - A parte intermedia (flauta 2) el 30 - 35% de alumnos-as
+ - A la parte superior (flauta 1) el 15 - 20% de los alumnos-as
 
        De esta manera compensaremos el aumento natural de intensidad conforme ascendemos hacia el registro agudo.
 

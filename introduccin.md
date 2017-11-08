@@ -11,7 +11,7 @@ La flauta de pico fue empleada hasta la época barroca (Bach, Haendel, Vivaldi).
 
 "Adagio y Allegro" de la Sonata I de G.F.Haendel interpretado por Lenka Molcanyiova
 
-La mayor parte del público en general cree que se trata de un instrumento escolar de fácil manejo y esto es cierto sólo para melodías muy sencillas con un ámbito reducido y en Do mayor. Si el tono cambia o el ámbito melódico supera la 8ª, las dificultades aumentan considerablemente.
+La mayor parte de los docentes que incluyen la flauta como actividad creen que se trata de un instrumento escolar de fácil manejo y esto es cierto sólo para melodías muy sencillas con un ámbito reducido y en Do mayor. Si el tono cambia (alteraciones) o el ámbito melódico supera la 8ª, las dificultades aumentan considerablemente.
 
 Las razones para emplear la flauta dulce o de pico en el ámbito escolar, desde mi punto de vista, son:
 
@@ -23,7 +23,7 @@ Las razones para emplear la flauta dulce o de pico en el ámbito escolar, desde
 
 En este primer módulo (Lecciones 1, 2 y 3) comenzaremos con el aprendizaje de los conceptos básicos sobre embocadura, emisión, respiración, etc., que aplicaremos a las notas Sol - La - Si, de fácil emisión y digitación. En los módulos II, III y IV iremos profundizando en otros aspectos técnico-instrumentales necesarios para poder realizar melodías y temas escolares sencillos en DoM, FaM (Sib), SolM (Fa#) y Lam (Sol#).
 
-La mayor parte de los temas escolares están en do mayor, no obstante, en ocasiones aparecen temas en alguno de los tonos vecinos (SolM, FaM, Lam) por lo que es necesario el aprendizaje de algunas notas alteradas: Fa#, Sib y Sol#. La realización melódica más allá de estas tonalidades vecinas resulta prácticamente imposible en el ámbito escolar. La aparición de notas alteradas complica bastante la realización melódica. El mayor o menor grado de complejidad y/o dificultad en la flauta escolar viene dado por (de menor a mayor):
+La mayor parte de los temas escolares están en do mayor, no obstante, en ocasiones aparecen temas en alguno de los tonos vecinos (SolM, FaM, Lam) por lo que es necesario el aprendizaje de sus respectivas notas alteradas: Fa#, Sib y Sol#. La realización melódica más allá de estas tonalidades vecinas resulta prácticamente imposible en el ámbito escolar. La aparición de notas alteradas complica bastante la realización melódica. El mayor o menor grado de complejidad y/o dificultad en la flauta escolar viene dado por (de menor a mayor):
 
 1. La** tonalidad:** DoM, Lam, FaM, SolM
 1. El** ámbito melódico:** Inferior a la 8ª (5ª, 6ª, 7ª) // Superior a la 8ª (9ª, 10ª,...)
@@ -32,7 +32,7 @@ La mayor parte de los temas escolares están en do mayor, no obstante, en ocasio
 1. El** tempo**: Moderado / Rápido / Lento
 1. El** compás**: Simple (2/4, 3/4 y 4/4) // Compuesto (6/8, 9/8, 12/8)
 
-La flauta que emplearemos es la denominada "**flauta escolar**" (moderna), la cual no hay que confundir con la "flauta barroca", dado que ambas parecen similares pero no lo son. La flauta barroca presenta una mayor dificultad técnica dado que las posiciones de algunas notas son distintas y bastante más complicadas, motivo por el que no la recomiendo.
+La flauta que emplearemos es la denominada "**flauta escolar**" (moderna), la cual no hay que confundir con la "**flauta barroca**", dado que ambas parecen similares pero no lo son. La flauta barroca presenta una mayor dificultad técnica dado que las posiciones de algunas notas son distintas y bastante más complicadas (Fa de "horquilla" por ejemplo), motivo por el que no la recomiendo.
 
 Veamos cómo distinguirlas:
 
@@ -44,9 +44,10 @@ Diferencias entre la flauta barroca y la escolar (moderna)
 
 En cuanto a su **tesitura**, la flauta escolar (soprano) es un instrumento transpositor a la 8ª, es decir, que sus sonidos reales suenan una 8ª más agudos de como aparecen escritos en partitura. No obstante, siempre que se haga referencia a la altura de una determinada nota se emplearán los subíndices sonoros en relación a su posición en el pentagrama y no a su sonido real. Por ejemplo, si se menciona Do3 se hace referencia a la nota inicial de la flauta escolar (soprano) y no a su sonido real (Do4).
 
-En el Módulo IV aparece una serie de temas muy conocidos que han sido seleccionados de diferentes fuentes (folclore, temas de cine, etc.) y que nos dan una idea bastante aproximada de las dificultades técnicas que deberemos superar.
+En el Módulo IV (Lección 15) aparece una serie de temas muy conocidos que han sido seleccionados de diferentes fuentes (folclore, temas de cine, etc.) y que nos dan una idea bastante aproximada de las dificultades técnicas que deberemos superar.
 
-Indicar por último, que la mayoría de los ejercicios se podrán realizar con su acompañamiento rítmico-armónico en formato Mp3, de manera que el alumno-a aprenderá técnica básica como si estuviera en un grupo de cámara. Estos acompañamientos han sido arreglados, armonizados, instrumentados y editados expresamente con este fin. Solo hay que clicar sobre el audio y realizar el ejercicio o actividad que corresponda. Los ejercicios así realizados son mucho más amenos, divertidos y motivadores. Como actividad final del curso (Lección 15) se  incluyen una serie de temas muy conocidos que han sido seleccionados de diferentes fuentes (folclore, temas de cine, etc.).
+Indicar por último, que la mayoría de los ejercicios se podrán realizar con su correspondiente acompañamiento rítmico-armónico en formato Mp3, de manera que el alumno-a aprenderá la técnica básica de la flauta escolar como si estuviera inmerso en un grupo de cámara. Estos acompañamientos han sido arreglados, armonizados, instrumentados y editados expresamente con este fin. Solo hay que clicar sobre el audio y realizar el ejercicio o actividad que corresponda. Los ejercicios así realizados son mucho más amenos, divertidos y motivadores.
+
 **IMPORTANTE**
 a) Los ejercicios y actividades de ampliación son opcionales.
 b) Los ejercicios y actividades de este curso pueden también ser empleados con nuestros alumnos-as con el mismo objetivo fundamental: adquirir la técnica necesaria para interpretar melodías sencillas.

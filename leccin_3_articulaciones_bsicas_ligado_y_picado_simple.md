@@ -60,8 +60,7 @@ Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344092892&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
-Objetivos:
-
+OBJETIVOS
 - Practicar el picado simple. Realizar monódicamente: primero el pentagrama inferior, luego el central y finalmente el superior.
 - Realizar polifónicamente de manera simultánea, agrupando los alumnos-as de tres en tres (trío) o bien dividiendo el grupo clase en tres subgrupos.
 - Coordinarse con el audio (tempo).
@@ -83,8 +82,8 @@ FORMA DE REALIZACIÓN
 2. Aplicar uno de los diseños rítmicos (hay 5, pero pueden crearse otros) a todas las partes (flauta 1, 2 y 3).
 
 3. He aquí otras opciones armónicas sobre las que aplicar los diferentes diseños rítmicos:
+![](/assets/PicadoSimple_Secuencias.gif)
 
-<img src="img/PicadoSimple_Secuencias.gif" alt="Picado simple - Secuencias" title="Picado simple - Secuencias" height="563" />
 
 OBJETIVOS
 
@@ -92,7 +91,7 @@ OBJETIVOS
 - Experimentar la realización polifónica (secuencias de acordes -conclusivas y/o suspensivas-) en grupo.
 - Acostumbrarse a seguir el pulso en actividades grupales.
 
-Ø
+
 
 **Actividades de ampliación 3**
 
@@ -106,6 +105,4 @@ Escucha atentamente el audio del siguiente vídeo y trata de reconocer los dos t
 
 <iframe width="100%" height="384" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/fkzxxoGqrh8?rel=0&amp;wmode=transparent"></iframe>
 
-Concerto Fa mayor (Allegro) de G. Sammartini interpretado por Lenka Molcanyiova
-
-
+Concerto en Fa mayor (Allegro) de G. Sammartini interpretado por Lenka Molcanyiova

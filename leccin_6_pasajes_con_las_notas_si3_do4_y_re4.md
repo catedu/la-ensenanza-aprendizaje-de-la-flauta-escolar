@@ -9,12 +9,11 @@ EJERCICIOS
 
 <img src="img/L7_Pasajes_con_Si3-Do4-Re4.gif" alt="Pasajes con Si-Do-Re" title="Pasajes con Si-Do-Re" />
 
-RECORDAR 
-
 - La primera nota de un grupo ligado debe articularse (golpe de lengua que permite el paso del aire -&gt; TU). El resto de notas ligadas no, por lo tanto habrá que seguir enviando aire y moviendo los dedos a la posición de la nota que corresponda. La última nota de las ligadas debe acabar interrumpiendo con la lengua el paso del aire. Este procedimiento que en principio parece complejo, con la práctica se hace automático y resulta imprescindible para el control de los sonidos largos y de los grupos de notas ligadas.
 
 - Las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
+POSICIÓN ALTERNATIVA DEL Si3
 Existe una posición alternativa para el Si3 que conviene emplear cuando este se dirige al Re4 y viceversa. Esta posición alternativa facilita mucho la realización de estos pasajes. También conviene emplearla cuando se realiza la bordadura o floreo inferior del Do4 (Do-Si-Do).
 
 <img src="img/EjerFla_Si_alternativo.gif" alt="Posición Si alternativo" title="Posición Si alternativo" height="229" />
@@ -29,9 +28,7 @@ Existe una posición alternativa para el Si3 que conviene emplear cuando este se
 
 2. Realiza los ejercicios siguientes empleando la posición del Si3 alternativo.
 
-<script type="text/javascript">var feedback18_42_6text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-18_42_6" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
-
-### Retroalimentación
+### El Si3 alternativo
 
 - Recuerda que cuando la melodía contiene en su diseño el salto del Si3 al Re4 o viceversa, hay que emplear la posición del "Si alternativo". Ello permite facilitar la realización del pasaje, el cual resultaría mucho más difícil empleando su posición habitual.
 

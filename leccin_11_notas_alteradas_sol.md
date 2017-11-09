@@ -55,7 +55,6 @@ Arreglo y edición audio: R. Páez Perza
 
 CLICAR Y TOCAR
 
-NOTA.- En ** [www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)** encontrarás algunos de estos audios de acompañamiento completos.
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
@@ -63,7 +62,6 @@ NOTA.- En ** [www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)** encon
 
 <img src="img/EjerFla_VitaBella_18jul15.gif" alt='Ejercicios del tema "La vida es bella"' title='Ejercicios del tema "La vida es bella"' />
 
-Ø
 
 **Actividad de ampliación 2**
 

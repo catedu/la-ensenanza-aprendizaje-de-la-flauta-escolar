@@ -44,7 +44,7 @@ Armonización y edición audio: R.Páez Perza
 2. Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
 
 .<img src="img/L7_MoonRiver_GrDisjuntos_GRIS.gif" alt="Moon river (Flauta)" title="Moon river (Flauta)" />
-
+Arreglo y edición audio: R.Páez Perza
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090265&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 

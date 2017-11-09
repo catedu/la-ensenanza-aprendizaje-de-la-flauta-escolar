@@ -96,7 +96,6 @@ OBJETIVOS
 <img src="img/5.PicadoLigado_SIN.gif" alt="Picado - Ligado (II)" title="Picado - Ligado (II)" />
 
 
-
 ## Audición
 
 Escucha atentamente el audio del siguiente vídeo y trata de reconocer los dos tipos de articulación que hemos aprendido en esta lección.

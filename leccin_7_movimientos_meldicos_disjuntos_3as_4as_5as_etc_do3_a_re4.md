@@ -29,8 +29,7 @@ CLICAR Y TOCAR
   - Todo ligado
   - Todo picado (notas sueltas)
   - Aplicar las ligaduras discontinuas
-  
-  Puede ser conveniente la utilización de un metrónomo para asegurar el tempo.
+ - Puede ser conveniente la utilización de un metrónomo para asegurar el tempo.
 
 <img src="img/EjerFla_GradosDisjuntos_2.gif" alt="Grados disjuntos 2" title="Grados disjuntos 2" />
 

@@ -16,37 +16,34 @@
 <img src="img/Sol_num__Ejer_1.jpg" alt="Sol# - Ejercicio 1" title="Sol# - Ejercicio 1" height="114" />
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090250&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Audio de acompañamiento del ejercicio 1 -> CLICAR Y TOCAR
-
 ![](img/Sol_num__Ejer_2.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090251&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Audio de acompañamiento del ejercicio 2 -> CLICAR Y TOCAR
+
 
 ![](img/Sol_num__Ejer_3.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090252&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Audio de acompañamiento del ejercicio 3 -> CLICAR Y TOCAR
+
 
 ![](img/Sol_num__Ejer_4.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090253&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Audio de acompañamiento del ejercicio 4 -> CLICAR Y TOCAR
+
 
 ![](img/Sol_num__Ejer_5.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090254&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Audio de acompañamiento del ejercicio 5 -> CLICAR Y TOCAR
 
 ![](img/Sol_num__Ejer_6.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090256&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Audio de acompañamiento del ejercicio 6 -> CLICAR Y TOCAR
+
 
 ![](img/Sol_num__Ejer_7.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090257&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Audio de acompañamiento del ejercicio 7 -> CLICAR Y TOCAR
+
 
 ## Realiza / Interpreta
 

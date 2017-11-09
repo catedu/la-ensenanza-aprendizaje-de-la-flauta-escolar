@@ -33,7 +33,7 @@ Arreglo, armonización y edición audio: R. Páez Perza
 
 Clicar y tocar
 
-Ø
+
 
 **3. "Music alone shall live"**
 
@@ -81,7 +81,7 @@ OBSERVACIONES
 
 - Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.
 
-Ø
+
 
 **7. "Sancta Maria strela do dia" (Alfonso X El Sabio)**
 

@@ -10,6 +10,7 @@ Las notas que emplearemos en este curso son, principalmente, las de la escala Do
 ![](/assets/AlteracionesTonosVecinos_DoM.gif)
 
 **LA EMISIÓN, PROLONGACIÓN Y FINAL DEL SONIDO**
+
 En esta lección aprenderemos a emitir (comenzar) un sonido, prolongarlo y finalizarlo correctamente. Emplearemos para ello las notas Sol, La y Si (sonidos 8, 10 y 12 de la tabla). 
 Para **emitir un sonido** en un instrumento de viento es necesario el empleo de la lengua como válvula que da paso al aire. Antes de emitir un sonido, Sol por ejemplo, hay que tomar aire y taponar con la lengua su paso. La flauta no emitirá ningún sonido. A continuación retiramos la lengua y el aire retenido se introducirá en el tubo y producirá el sonido de una forma controlada y precisa - en muchos métodos para instrumentos de viento se dice que es muy parecido a "pronunciar" la sílaba TU. Seguidamente hay que controlar la calidad del sonido prolongado de manera que no fluctúe, que permanezca "quieto", sin cambios de altura ni de intensidad, homogéneo. Finalmente terminaremos el sonido de manera inversa a como lo comenzamos, o sea, taponando nuevamente con la lengua el paso del aire.
 

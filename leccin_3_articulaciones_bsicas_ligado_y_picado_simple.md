@@ -15,7 +15,8 @@ El "**legato**" o **ligado** consiste en interpretar dos o más notas seguidas c
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090298&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-COMENTARIO.- La primera ligadura deberá iniciarse con la sílaba 'TU' (golpe de lengua para emitir) y prolongar el soplo o columna de aire durante ocho tiempos o pulsos (4 negras + 2 blancas) de manera ininterrumpida mientras los dedos evolucionan según el ritmo y altura de las notas. Lo segunda y tercera ligaduras funcionarán de la misma manera.
+COMENTARIO.- 
+La primera ligadura deberá iniciarse con la sílaba 'TU' (golpe de lengua para emitir) y prolongar el soplo o columna de aire durante ocho tiempos o pulsos (4 negras + 2 blancas) de manera ininterrumpida mientras los dedos evolucionan según el ritmo y altura de las notas. Lo segunda y tercera ligaduras funcionarán de la misma manera.
 
 El **picado** se interpreta articulando o emitiendo cada una de las notas con la sílaba TU. Las notas deben "picarse" siempre que no aparezcan ligadas. Una vez picadas o articuladas hay que darles el valor rítmico que cada una tiene (blanca, negra, etc.).
 
@@ -25,7 +26,7 @@ El **picado** se interpreta articulando o emitiendo cada una de las notas con la
 
 EJERCICIOS
 
-Realiza los ejercicios siguientes empleando el ligado opcional (ligaduras discontinuas) y/o el picado simple. Para ello emplearemos las tres notas que ya conocemos: Sol - La - Si
+Realiza los ejercicios siguientes empleando el ligado opcional (ligaduras discontinuas) y/o el picado simple. Para ello emplearemos las tres notas que ya conocemos: Sol - La - Si. Recuerda que la primera nota de un grupo ligado debe articularse (golpe de lengua que permite el paso del aire -> TU). El resto de notas ligadas no, por lo tanto habrá que seguir enviando aire y moviendo los dedos a la posición de la nota que corresponda. La última nota de las ligadas debe acabar interrumpiendo con la lengua el paso del aire. Este procedimiento que en principio parece complejo, con la práctica se hace automático y resulta imprescindible para el control de los sonidos largos y de los grupos de notas ligadas.
 
 <img src="img/Posicion_Sol-La-Si.gif" alt="Posiciones Sol - La Si" title="Posiciones Sol - La Si" />
 

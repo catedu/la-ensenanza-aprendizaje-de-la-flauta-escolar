@@ -33,6 +33,7 @@ CLICAR Y TOCAR (¡Ojo! Comienza en compás 11, casilla de 2ª)
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
+
 Realizar solo los que incluyen el Sib
 
 <img src="img/EjerFla_Titanic.gif" alt='Ejercicios del tema "Titanic"' title='Ejercicios del tema "Titanic"' />
@@ -42,10 +43,12 @@ Realizar solo los que incluyen el Sib
 
 
 **Actividad de ampliación 3**
+
 Realizar los ejercicios del Tema 6 cambiando todos los Si (naturales) por Sib.
 
 
 **Actividad de ampliación 4**
+
 Realiza nuevamente los ejercicios de la Lección 8 que contengan la nota Si y sustitúyelas por Sib. 
 
 ** **

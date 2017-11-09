@@ -8,21 +8,12 @@ Evolucionar melódicamente por grados conjuntos significa ir desde una nota a la
 En este tipo de movimiento melódico y dentro del ámbito más habitual de la flauta escolar (Do3 -&gt; Re4) sólo hay que mover un dedo para cambiar de nota. 
 
 Mencionar, por último, algunos pasos de especial dificultad dentro del ámbito melódico Do3 -&gt; Re4 como son todos aquellos pasajes en los que interviene el Do3 (nota más grave de la flauta) y las notas Si3, Do4 y Re4 (ver "Subíndices sonoros" al principio de cada "Módulo o Bloque de contenidos"). El Do3 conviene practicarlo de una manera aislada hasta conseguir emitirlo de manera segura. Las notas Si3, Do4 y Re4 son algo más difíciles de realizar por varias razones:
-
-a) Son notas cercanas al registro agudo y que, por tanto, hay que controlar (calidad  sonora, exceso de intensidad, afinación).
-
-b) La relación entre Si3-Do4 y Do4-Re4 ofrece algunas dificultades de digitación que se comprobarán al realizar los ejercicios.
+ - Son notas cercanas al registro agudo y que, por tanto, hay que controlar (calidad  sonora, exceso de intensidad, afinación).
+ - La relación entre Si3-Do4 y Do4-Re4 ofrece algunas dificultades de digitación que se comprobarán al realizar los ejercicios.
 
 Estos pasajes de especial dificultad se verán en las lecciones 6 y 7.
 
-EJERCICIOS
-
-
-
-**Forma de realización**
-
-
-
+**Forma de realización de los ejercicios**
 - Estudiar primero sin audio.
 
 
@@ -61,7 +52,8 @@ Armonización y edición audio: R.Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090295&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+
+Acompañamiento ejercicio 3 -&gt; CLICAR Y TOCAR
 
 **Ejercicio 4**<br />
 
@@ -71,7 +63,8 @@ Armonización y edición audio: R.Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090235&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+
+Acompañamiento ejercicio 4 -&gt; CLICAR Y TOCAR
 
 **Ejercicio 5**
 
@@ -81,7 +74,8 @@ Armonización y edición audio: R.Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090294&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+
+Acompañamiento ejercicio 5 -&gt; CLICAR Y TOCAR
 
 **Ejercicio 6**
 
@@ -91,7 +85,8 @@ Armonización y edición audio: R.Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090289&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+
+Acompañamiento ejercicio 6 -&gt; CLICAR Y TOCAR
 
 **Ejercicio 7**
 
@@ -101,7 +96,8 @@ Armonización y edición audio: R.Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090296&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+
+Acompañamiento ejercicio 7 -&gt; CLICAR Y TOCAR
 
 
 

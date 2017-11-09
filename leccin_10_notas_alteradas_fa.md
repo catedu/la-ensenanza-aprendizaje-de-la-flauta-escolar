@@ -63,11 +63,8 @@ CLICAR Y TOCAR
 
 **Actividad de ampliación 2**
 
-
-
 <img src="img/Ampliacion_Fa_num_.1.gif" height="388" alt="Activ. ampliación Fa#" title="Activ. ampliación Fa#" />
 
-**Ø**
 
 **Actividad de ampliación 3**
 

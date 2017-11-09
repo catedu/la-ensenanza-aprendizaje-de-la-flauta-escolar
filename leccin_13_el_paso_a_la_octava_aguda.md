@@ -14,7 +14,7 @@ En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u o
 
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
-<img src="img/L13_Paso_8a_1.jpg" height="142" alt="Paso 8ª aguda (1)" title="Paso 8ª aguda (1)" />
+<img src="img/L13_Paso_8a_1.jpg" height="100" alt="Paso 8ª aguda (1)" title="Paso 8ª aguda (1)" />
 
 Armonización y edición audio: R. Páez Perza
 

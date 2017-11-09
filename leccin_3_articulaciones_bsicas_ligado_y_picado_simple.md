@@ -54,8 +54,8 @@ Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 
 **Nota.- **Dado que estos ejercicios y actividades emplean notas que todavía no se han practicado, parece conveniente realizarlos después de haber completado la lección 6. No obstante, sí pueden practicarse los ejercicios que empleen las notas Sol, La, Si.
 
-**Actividades de ampliación 1**
 
+**Actividades de ampliación 1**
 <img src="img/L3_Picado_Do-Fa-Sol-Do.gif" alt="Picado simple (acordes Do-Fa-Sol)" title="Picado simple (acordes Do-Fa-Sol)" />
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344092892&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -74,10 +74,8 @@ FORMA DE REALIZACIÓN
 1. Dividir la clase en tres grupos de alumnos de manera que:
 
  - A la voz o parte inferior (flauta 3) le corresponda el 50% de los alumnos-as.
- - A parte intermedia (flauta 2) el 30 - 35% de alumnos-as
- - A la parte superior (flauta 1) el 15 - 20% de los alumnos-as
-
-       De esta manera compensaremos el aumento natural de intensidad conforme ascendemos hacia el registro agudo.
+ - A parte intermedia (flauta 2) el 30 - 35% de alumnos-as.
+ - A la parte superior (flauta 1) el 15 - 20% de los alumnos-as. De esta manera compensaremos el aumento natural de intensidad que se produce de manera natural conforme ascendemos hacia el registro agudo y que descompensaría los grupos si se forman con el mismo número de integrantes.
 
 2. Aplicar uno de los diseños rítmicos (hay 5, pero pueden crearse otros) a todas las partes (flauta 1, 2 y 3).
 

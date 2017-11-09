@@ -49,9 +49,10 @@ En el Módulo IV (Lección 15) aparece una serie de temas muy conocidos que han 
 Indicar por último, que la mayoría de los ejercicios se podrán realizar con su correspondiente acompañamiento rítmico-armónico en formato Mp3, de manera que el alumno-a aprenderá la técnica básica de la flauta escolar como si estuviera inmerso en un grupo de cámara. Estos acompañamientos han sido arreglados, armonizados, instrumentados y editados expresamente con este fin. Solo hay que clicar sobre el audio y realizar el ejercicio o actividad que corresponda. Los ejercicios así realizados son mucho más amenos, divertidos y motivadores.
 
 **IMPORTANTE**
-a) Los ejercicios y actividades de ampliación son opcionales.
-b) Los ejercicios y actividades de este curso pueden también ser empleados con nuestros alumnos-as con el mismo objetivo fundamental: adquirir la técnica necesaria para interpretar melodías sencillas.
-c) A continuación se dan algunas orientaciones sobre como afrontar el estudio instrumental.
+
+ - Los ejercicios y actividades de ampliación son opcionales.
+ - Los ejercicios y actividades de este curso pueden también ser empleados con nuestros alumnos-as con el mismo objetivo fundamental: adquirir la técnica necesaria para interpretar melodías sencillas.
+ - A continuación se dan algunas orientaciones sobre como afrontar el estudio instrumental.
 
 ## Algunas consideraciones sobre el estudio instrumental
 
@@ -74,4 +75,3 @@ A nivel rítmico (figuras y silencios. A nivel melódico (notas). Otros: armadur
  - Ir uniendo fragmentos cada vez mayores hasta lograr realizar la actividad o ejercicio completo.
  - Se dice que un ejercicio, tema o pieza está completamente superada cuando somos capaces de interpretarla de memoria.
 3. El progreso en la adquisición de técnica instrumental es proporcional al tiempo que se le dedica.
-</ul>

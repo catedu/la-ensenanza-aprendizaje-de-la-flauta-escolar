@@ -7,7 +7,7 @@ En esta lección aprenderemos a emitir (comenzar) un sonido, prolongarlo y final
 
 Las notas que emplearemos en este curso son, principalmente, las de la escala Do mayor y las notas alteradas Sib, el Fa# y el Sol# de la primera octava (Do3 a Re4). En el módulo IV (Lecciones 12, 13 y 14) ampliaremos el número de notas a la segunda octava u octava alta (Do3 a Do5).
 
-![](/assets/Tonos_vecinos_Do_M.gif)
+![](/assets/AlteracionesTonosVecinos_DoM.gif)
 
 **LA EMISIÓN, PROLONGACIÓN Y FINAL DEL SONIDO**
 En esta lección aprenderemos a emitir (comenzar) un sonido, prolongarlo y finalizarlo correctamente. Emplearemos para ello las notas Sol, La y Si (sonidos 8, 10 y 12 de la tabla). 

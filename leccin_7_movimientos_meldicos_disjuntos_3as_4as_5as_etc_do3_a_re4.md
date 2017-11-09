@@ -7,15 +7,13 @@ Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª,
 
 EJERCICIOS
 
-1. Con audio de acompañamiento. 
+**Forma de realización con audio de acompañamiento** 
 
-**Forma de realización**
+ - Estudiar primero sin audio.
 
-- Estudiar primero sin audio.
+ - Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.
 
-- Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.
-
-- Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
+ - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
 <img src="img/EjerFla_GradosDisj_3as_4as.gif" alt="Grados disjuntos (3as y 4as)" title="Grados disjuntos (3as y 4as)" />
 
@@ -25,7 +23,14 @@ Armonización y edición audio: R. Páez Perza
 
 CLICAR Y TOCAR
 
-2. Sin audio de acompañamiento. 
+**Forma de realización sin audio de acompañamiento**
+ - Estudiar cada ejercicio comenzando lentamente e ir ganando velocidad (tempo) poco a poco. La velocidad máxima no debe superar las 100 pulsaciones por minuto.
+ - Aplicar diferentes articulaciones:
+  - Todo ligado
+  - Todo picado (notas sueltas)
+  - Aplicar las ligaduras discontinuas
+  
+  Puede ser conveniente la utilización de un metrónomo para asegurar el tempo.
 
 <img src="img/EjerFla_GradosDisjuntos_2.gif" alt="Grados disjuntos 2" title="Grados disjuntos 2" />
 

@@ -99,7 +99,6 @@ OBJETIVOS
 ## Audición
 
 Escucha atentamente el audio del siguiente vídeo y trata de reconocer los dos tipos de articulación que hemos aprendido en esta lección.
-[](https://youtu.be/fkzxxoGqrh8)
 
 <iframe width="100%" height="384" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/fkzxxoGqrh8?rel=0&amp;wmode=transparent"></iframe>
 

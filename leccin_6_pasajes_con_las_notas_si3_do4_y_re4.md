@@ -24,7 +24,7 @@ POSICIÓN ALTERNATIVA DEL Si3
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
-PRACTICA DEL Si3 ALTERNATIVO
+PRÁCTICA DEL Si3 ALTERNATIVO
 1. Observa los ejercicios 8, 9, 10, 11 y 15 y comprobarás que contienen el paso Si3 a Re4 o viceversa. Realiza-estudia estos ejercicios empleando la posición alternativa para el Si3.
 
 2. Realiza los ejercicios que aparecen a continuación (1 a 4) empleando la posición del Si3 alternativo. Recuerda que cuando la melodía contiene en su diseño el salto del Si3 al Re4 o viceversa, hay que emplear la posición del "Si alternativo". Ello permite facilitar la realización del pasaje, el cual resultaría mucho más difícil empleando su posición habitual.

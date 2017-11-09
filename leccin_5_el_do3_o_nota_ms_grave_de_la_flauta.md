@@ -11,7 +11,7 @@ La nota Do3 o nota más grave de la flauta escolar ofrece ciertas dificultades q
 EJERCICIOS
 
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
-![](/assets/M2_L5_Do3_(1a4).gif)
+
 <img src="img/L6_Pasajes_con_Do3.gif" alt="Pasajes con Do3 o nota más grave" title="Pasajes con Do3 o nota más grave" />
 
 

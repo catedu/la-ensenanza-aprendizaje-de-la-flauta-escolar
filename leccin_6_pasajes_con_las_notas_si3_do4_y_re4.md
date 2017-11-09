@@ -11,11 +11,9 @@ EJERCICIOS
 
 RECORDAR 
 
-- La primera nota de un grupo ligado debe articularse (golpe de lengua que permite el paso del aire -&gt; TU). El resto de notas ligadas no, por lo tanto habrá que seguir enviando aire y moviendo los dedos a la posición de la nota que corresponda. La última nota de las ligadas debe acabar interrumpiendo con la lengua el paso del aire. Este procedimiento que en principio parece complejo, con la práctica se hace automático y resulta imprescindible para el control de los sonidos largos y de los grupos de notas ligadas.Ø
+- La primera nota de un grupo ligado debe articularse (golpe de lengua que permite el paso del aire -&gt; TU). El resto de notas ligadas no, por lo tanto habrá que seguir enviando aire y moviendo los dedos a la posición de la nota que corresponda. La última nota de las ligadas debe acabar interrumpiendo con la lengua el paso del aire. Este procedimiento que en principio parece complejo, con la práctica se hace automático y resulta imprescindible para el control de los sonidos largos y de los grupos de notas ligadas.
 
 - Las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
-
-Ø
 
 Existe una posición alternativa para el Si3 que conviene emplear cuando este se dirige al Re4 y viceversa. Esta posición alternativa facilita mucho la realización de estos pasajes. También conviene emplearla cuando se realiza la bordadura o floreo inferior del Do4 (Do-Si-Do).
 
@@ -30,8 +28,6 @@ Existe una posición alternativa para el Si3 que conviene emplear cuando este se
 1. Observa los ejercicios 8, 9, 10, 11 y 15 y comprobarás que contienen el paso Si3 a Re4 o viceversa. Realiza-estudia estos ejercicios empleando la posición alternativa para el Si3.
 
 2. Realiza los ejercicios siguientes empleando la posición del Si3 alternativo.
-
-
 
 <script type="text/javascript">var feedback18_42_6text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-18_42_6" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 

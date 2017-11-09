@@ -103,11 +103,11 @@ Acompañamiento ejercicio 7 -&gt; CLICAR Y TOCAR
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
-**Actividad 1**
+**Actividad de ampliación 1**
 
 En la Lección 15 encontrarás una canción del folclore popular cuya melodía puede considerarse que evoluciona por grados conjuntos con la excepción de algún mínimo salto de 3ª. Se trata del "Romance de la reina Mercedes" (melodía principal).
 
-**Actividad 2**
+**Actividad de ampliación 2**
 
 Realiza-estudia-practica con los siguientes ejercicios. 
 

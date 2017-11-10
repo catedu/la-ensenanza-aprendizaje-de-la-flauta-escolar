@@ -9,6 +9,31 @@ La nota Do3 o nota más grave de la flauta escolar ofrece ciertas dificultades q
 1. Al moverse hacia otras notas, especialmente por grados disjuntos (intervalos superiores al de 2ª), acciona los dedos anular y meñique de manera simultánea, dedos considerados como los "más torpes" de movimiento. 
 
 EJERCICIOS <br /> Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
+
+![](/assets/M2_L5_Do3_(1a4).gif)
+
+Audio para los ejercicios 1 a 4 (en preparación)
+
+![](/assets/M2_L5_Do3_(5a7).gif)
+
+Audio para los ejercicios 5 a 7 (en preparación)
+
+![](/assets/M2_L5_Do3_(8a10).gif)
+
+Audio para los ejercicios 8 a 10 (en preparación)
+
+
+![](/assets/M2_L5_Do3_(11a13).gif)
+
+Audio para los ejercicios 11 a 13 (en preparación)
+
+
+![](/assets/M2_L5_Do3_(14a16).gif)
+
+Audio para los ejercicios 14 a 16 (en preparación)
+
+
+EJERCICIOS SIN AUDIO
 <img src="img/L6_Pasajes_con_Do3.gif" alt="Pasajes con Do3 o nota más grave" title="Pasajes con Do3 o nota más grave" />
 
 

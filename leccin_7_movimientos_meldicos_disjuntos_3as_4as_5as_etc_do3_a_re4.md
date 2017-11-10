@@ -45,10 +45,10 @@ Arreglo y edición audio e imagen: R.Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090303&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+<br />
 
-**Actividad de ampliación 2**
 
-Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
+**Actividad de ampliación 2**<br /> Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
 
 ![Moon river flauta](img/L7_MoonRiver_GrDisjuntos_GRIS.gif)
 Arreglo y edición audio e imagen: R.Páez Perza

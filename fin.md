@@ -7,14 +7,14 @@ Espero que este curso os haya sido útil.
 
 **Una última observación**
 
-**Los ejercicios y actividades de este curso pueden ser empleados también con vuestros alumnos-as. Para ello es imprescindible disponer en el aula de:**
+Los ejercicios y actividades de este curso pueden ser empleados también con vuestros alumnos-as. Para ello es imprescindible disponer en el aula de:
 
-- **Ordenador y acceso a Internet**
-- **Amplificación para escuchar los audios.**
-- **Pantalla de vídeo para visualizar los ejercicios o bien disponer de ellos en partitura.**
+- Ordenador y acceso a Internet
+- Amplificación para escuchar los audios.
+- Pantalla de vídeo para visualizar los ejercicios o bien disponer de ellos en partitura.
 
-<strong style="font-size: medium; text-align: center;">Rafael Páez Perza
+<br /> **RAFAEL PÁEZ PERZA**<br /> Profesor Música del I.E.S. "La Llitera"<br /> Tamarite de Litera (Huesca)
 
-<strong style="font-size: medium; text-align: center;">FIN<br />
+<strong style="font-size: medium; text-align: center;">
 
 

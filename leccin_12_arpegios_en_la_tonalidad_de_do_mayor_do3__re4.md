@@ -5,6 +5,51 @@
 
 Se denomina arpegio al despliegue melódico de un acorde. Los arpegios que se estudiarán a continuación pertenecen todos a la tonalidad de Do mayor y no superan el Re4. Se trata de los diferentes acordes tríadas y cuatríadas que se forman con cada una de las notas de la escala de Do mayor.
 
+Arpegio DoM
+![](/assets/EjerFla_Arpegio1_DoM.gif)
+Audio para acompañar arpegios DoM (en preparación)
+
+Arpegio FaM
+![](/assets/EjerFla_Arpegio2_FaM.gif)
+Audio para acompañar arpegios FaM(en preparación)
+
+Arpegio La-
+![](/assets/EjerFla_Arpegio3_Lam.gif)
+Audio para acompañar arpegios La-(en preparación)
+
+Arpegio Re-7
+![](/assets/EjerFla_Arpegio4_Re-7.gif)
+Audio para acompañar arpegios Re-7(en preparación)
+
+Arpegio Re-
+![](/assets/EjerFla_Arpegio5_Re-.gif)
+Audio para acompañar arpegios Re-(en preparación)
+
+Arpegio Si-7 b5
+![](/assets/EjerFla_Arpegio6_Si-7b5.gif)
+Audio para acompañar arpegios Si-7 b5(en preparación) 
+
+Arpegio SolM
+![](/assets/EjerFla_Arpegio7_SolM.gif)
+Audio para acompañar arpegios SolM(en preparación) 
+
+Arpegio Mi-7
+![](/assets/EjerFla_Arpegio8_Mi-7.gif)
+Audio para acompañar arpegios Mi-7(en preparación)
+
+Arpegio Sol7
+![](/assets/EjerFla_Arpegio9_Sol7.gif)
+Audio para acompañar arpegios Sol7(en preparación)
+
+Arpegio Mi-
+![](/assets/EjerFla_Arpegio10_Mi-.gif)
+Audio para acompañar arpegios Mi-(en preparación)
+
+**Armonización y edición audios**: Rafael Páez Perza
+
+
+
+ARPEGIOS SIN ACOMPAÑAMIENTO
 <img src="img/3.SaltosArpegios_SIN.gif" height="1060" alt="Arpegios 1" title="Arpegios 1" />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

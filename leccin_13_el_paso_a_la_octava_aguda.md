@@ -3,7 +3,7 @@
 
 En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u octava aguda. El Mi4 es la primera nota perteneciente a la 8ª alta o aguda. Para emitirla correctamente hay que abrir parcialmente el orificio del pulgar (un cuarto o un tercio aproximadamente). Con esto es suficiente pues la posición de los restantes dedos es la misma que para el Mi3 de la 8ª inferior.
 
-![](/assets/Pulgar_flauta.jpg)
+![](/assets/L13_Pulgar_flauta.gif)
 
 **EJERCICIOS**
 

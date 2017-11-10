@@ -10,25 +10,25 @@ La nota Do3 o nota más grave de la flauta escolar ofrece ciertas dificultades q
 
 EJERCICIOS <br /> Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
-![](/assets/M2_L5_Do3_(1a4).gif)
+![](/assets/M2_L5_Do3_1a4.gif)
 
 Audio para los ejercicios 1 a 4 (en preparación)
 
-![](/assets/M2_L5_Do3_(5a7).gif)
+![](/assets/M2_L5_Do3_5a7.gif)
 
 Audio para los ejercicios 5 a 7 (en preparación)
 
-![](/assets/M2_L5_Do3_(8a10).gif)
+![](/assets/M2_L5_Do3_8a10.gif)
 
 Audio para los ejercicios 8 a 10 (en preparación)
 
 
-![](/assets/M2_L5_Do3_(11a13).gif)
+![](/assets/M2_L5_Do3_11a13.gif)
 
 Audio para los ejercicios 11 a 13 (en preparación)
 
 
-![](/assets/M2_L5_Do3_(14a16).gif)
+![](/assets/M2_L5_Do3_14a16.gif)
 
 Audio para los ejercicios 14 a 16 (en preparación)
 

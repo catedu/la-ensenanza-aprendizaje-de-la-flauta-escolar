@@ -5,7 +5,7 @@
 
 Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª, o sea, los de 3ª, 4ª, 5ª, etc. En este curso no iremos más allá de los dos primeros, es decir, los de 3ª y 4ª. Excepcionalmente es posible que aparezcan saltos de 5ª o 6ª, pero son muy raros en los temas escolares.
 
-EJERCICIOS
+### EJERCICIOS
 
 **Forma de realización con audio de acompañamiento** 
 
@@ -15,13 +15,11 @@ EJERCICIOS
 
  - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
-<img src="img/EjerFla_GradosDisj_3as_4as.gif" alt="Grados disjuntos (3as y 4as)" title="Grados disjuntos (3as y 4as)" />
+![Grados disjuntos 3as y 4as](img/EjerFla_GradosDisj_3as_4as.gif)
 
 Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090259&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-CLICAR Y TOCAR
 
 **Forma de realización sin audio de acompañamiento**
  - Estudiar cada ejercicio comenzando lentamente e ir ganando velocidad (tempo) poco a poco. La velocidad máxima no debe superar las 100 pulsaciones por minuto.
@@ -35,7 +33,7 @@ CLICAR Y TOCAR
 
 
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
 Estudia y realiza el siguiente tema popular con su correspondiente audio de acompañamiento.
@@ -49,7 +47,7 @@ Arreglo y edición audio e imagen: R.Páez Perza
 **Actividad de ampliación 2**
 Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
 
-.<img src="img/L7_MoonRiver_GrDisjuntos_GRIS.gif" alt="Moon river (Flauta)" title="Moon river (Flauta)" />
+![Moon river flauta](img/L7_MoonRiver_GrDisjuntos_GRIS.gif)
 Arreglo y edición audio e imagen: R.Páez Perza
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090265&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 

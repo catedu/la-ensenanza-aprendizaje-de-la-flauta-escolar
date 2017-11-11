@@ -11,14 +11,14 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
-**1. "Frere Jacques"**
+**1. "FRERE JACQUES"**
 ![](/assets/L15_Frere_Jacques.gif)
 Armonización y edición audios: R. Páez Perza<br />
 Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección 7")<br />                
 Versión 2 -> Se han añadido 4 compases de 'INTRO' (en preparación)
 <br />
 
-**2. "Romance de la reina Mercedes"**
+**2. "ROMANCE DE LA REINA MERCEDES"**
 
 <img src="img/Romance_de_la_reina_Mercedes_(flauta).gif" alt="Romance de la reina Mercedes (flauta)" title="Romance de la reina Mercedes (flauta)" />
 
@@ -29,7 +29,8 @@ Armonización y edición audio: R. Páez Perza
 Clicar y tocar
 <br />
 
-**3. "Carros de fuego"**
+**3. "CARROS DE FUEGO"**
+
 ![](/assets/L15_Carros de fuego.gif)
 
 Arreglo y edición audio: R. Páez Perza

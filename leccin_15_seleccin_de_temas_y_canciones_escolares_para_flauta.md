@@ -54,8 +54,7 @@ Clicar y tocar
 <br />
 
 
-**5."WHEN THE SAINTS"**<br />
-
+**5."WHEN THE SAINTS"**
 ![](/assets/L15_WhenTheSaints.gif)
 <br />
 

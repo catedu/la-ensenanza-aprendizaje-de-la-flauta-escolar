@@ -11,91 +11,134 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
-**1. "Romance de la reina Mercedes"**
+**1. "Frere Jacques"**
+![](/assets/L15_Frere_Jacques.gif)
+Armonización y edición audios: R. Páez Perza<br />
+Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección 7")<br />                
+Versión 2 -> Se han añadido 4 compases de 'INTRO' (en preparación)
+<br />
+
+**2. "Romance de la reina Mercedes"**
 
 <img src="img/Romance_de_la_reina_Mercedes_(flauta).gif" alt="Romance de la reina Mercedes (flauta)" title="Romance de la reina Mercedes (flauta)" />
 
-Arreglo, armonización y edición audio: R. Páez Perza
+Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090297&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
+<br />
 
+**3. "Carros de fuego"**
+![](/assets/L15_Carros de fuego.gif)
 
-
-**2. "Carros de fuego"**
-
-**<img src="img/L15_Carros_de_fuego_(flauta)_GRIS.gif" height="356" alt="Carros de fuego (flauta)" title="Carros de fuego (flauta)" />**
-
-Arreglo, armonización y edición audio: R. Páez Perza
+Arreglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090272&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
+<br />
 
-
-
-**3. "Music alone shall live"**
+**4. "Music alone shall live"**
 
 **<img src="img/L15_Music_Alone_GRIS.gif" alt="Music Alone (flautas)" title="Music Alone (flautas)" />**
 
-Arreglo, armonización y edición audio: R. Páez Perza
+Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Clicar y tocar
+<br />
 
+**5. "Oh! When the Saints"**
+![](/assets/L15_When_the_Saint.gif)
 
-
-**4. "Oh! When the Saints"**
-
-**<img src="img/L15_When_the_Saint_(flauta)_GRIS.gif" alt="When the Saint (flauta)" title="When the Saint (flauta)" />**
-
-Arreglo, armonización y edición audio: R. Páez Perza
+Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Clicar y tocar
+<br />
 
+**6. "Primavera" (Vivaldi)**
+![](/assets/L15_Primavera_Vivaldi.gif)
 
-**5. "Primavera" (Vivaldi)**
-
-**<img src="img/L15_La_primavera_de_Vivaldi_GRIS.gif" alt="Primavera de Vivaldi (flauta) " title="Primavera de Vivaldi (flauta) " />**
-
-Arreglo, armonización y edición audio: R. Páez Perza
+Arreglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090278&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Clicar y tocar
+Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se han añadido 5 compases de 'INTRO' (en preparación)
+<br />
 
-**6. "La del mantón de Manila" (T. Bretón)**
+
+**7. "La del mantón de Manila" (T. Bretón)**
 
 **<img src="img/L15_5_MantonManila_GRIS.gif" alt="La del mantón de Manila (flauta) " title="La del mantón de Manila (flauta) " />**
 
 Arreglo y edición audio: R. Páez Perza<br />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090274&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Clicar y tocar
+Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha añadido una entrada de preaviso de 2 compases (en preparación)
+<br /> OBSERVACIONES
 
-OBSERVACIONES
-
-- Aunque aparentemente parece difícil de realizar con la flauta, en realidad no lo es.
+- Aunque aparentemente parece difícil de realizar en realidad no lo es.
 
 - Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.
+<br />
 
-
-
-**7. "Sancta Maria strela do dia" (Alfonso X El Sabio)**
+**8. "Sancta Maria strela do dia" (Alfonso X El Sabio)**
 
 **<img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />**
 
-Arreglo, armonización y edición audio: R. Páez Perza
+Areglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
 
 
-
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
+
+**9. "Moon river"**<br />
+![](/assets/L15_MoonRiver.gif)
+Armonización y edición audio: R. Páez Perza
+
+Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación)
+<br />
+
+**10. "Titanic"**<br />
+![](/assets/L15_Titanic.gif)
+Areglo y edición audio: R. Páez Perza
+
+Clicar y tocar (en preparación)
+<br />
+
+**11. "El oboe de Gabriel"**<br />
+![](/assets/L15_OboeGabriel.gif)
+Armonización y edición audio: R. Páez Perza
+
+Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 4 compases (en preparación)
+<br />
+
+**12. "La vida es bella"**<br />
+![](/assets/L15_La_vida_es_bella.gif)
+Arrglo y edición audio: R. Páez Perza
+
+Clicar y tocar (en preparación)<br />
+
+**13. "La lambada"**<br />
+![](/assets/L15_Lambada.gif)
+Arreglo y edición audio: R. Páez Perza
+
+Clicar y tocar (en preparación)<br />
+
+**14. "Minuetto"**<br />
+![](/assets/L15_Minuetto_Bach.gif)
+Arreglo y edición audio: R. Páez Perza<br />
+
+Clicar y tocar (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.
+<br />
+
+
+
 
 
 

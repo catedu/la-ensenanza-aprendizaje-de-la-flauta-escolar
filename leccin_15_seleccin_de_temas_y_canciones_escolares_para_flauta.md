@@ -54,9 +54,9 @@ Clicar y tocar
 <br />
 
 
-**5. "Oh! WHEN THE SAINTS"**
-![](/assets/L15_WhenTheSaints.gif)
+**5. "WHEN THE SAINTS"**
 
+![](/assets/L15_WhenTheSaints.gif)
 
 Armonización y edición audio: R. Páez Perza
 

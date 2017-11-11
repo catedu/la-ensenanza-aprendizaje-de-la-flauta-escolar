@@ -28,9 +28,10 @@ Armonización y edición audio: R. Páez Perza
 
 Clicar y tocar
 <br />
+<br />
+
 
 **3. "CARROS DE FUEGO"**
-
 ![](/assets/L15_Carros de fuego.gif)
 
 Arreglo y edición audio: R. Páez Perza
@@ -40,8 +41,7 @@ Arreglo y edición audio: R. Páez Perza
 Clicar y tocar
 <br />
 
-**4. "Music alone shall live"**
-
+**4. "MUSIC ALONE"**
 **<img src="img/L15_Music_Alone_GRIS.gif" alt="Music Alone (flautas)" title="Music Alone (flautas)" />**
 
 Armonización y edición audio: R. Páez Perza

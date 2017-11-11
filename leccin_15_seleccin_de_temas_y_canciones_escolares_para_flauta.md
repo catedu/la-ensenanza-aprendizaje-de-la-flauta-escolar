@@ -68,7 +68,6 @@ Clicar y tocar
 <br />
 
 **6. "PRIMAVERA" (Vivaldi)**
-
 ![](/assets/L15_Primavera_Vivaldi.gif)
 
 Arreglo y edición audio: R. Páez Perza
@@ -94,26 +93,22 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 
 - Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.
 <br />
+<br />
 
 **8."SANCTA MARIA STRELA DO DIA**
-
 **<img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />**
-
 Areglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Clicar y tocar
 
-
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
 <br />
 <br />
 
 
-
 **9. "MOON RIVER"**
-
 ![](/assets/L15_MoonRiver.gif)
 Armonización y edición audio: R. Páez Perza
 
@@ -122,48 +117,53 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 <br />
 
 
-**10. "Titanic"**<br />
-
+**10. "Titanic"**
 ![](/assets/L15_Titanic.gif)
 Areglo y edición audio: R. Páez Perza
 
 Clicar y tocar (en preparación)
 <br />
+<br />
 
-**11. "El oboe de Gabriel"**<br />
 
+**11. "EL OBOE DE GABRIEL"**
 ![](/assets/L15_OboeGabriel.gif)
 Armonización y edición audio: R. Páez Perza
 
 Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 4 compases (en preparación)
 <br />
+<br />
 
-**12. "La vida es bella"**<br />
 
+**12. "LA VIDA ES BELLA"**
 ![](/assets/L15_La_vida_es_bella.gif)
 Arrglo y edición audio: R. Páez Perza
 
 Clicar y tocar (en preparación)<br />
-
-**13. "La lambada"**<br />
-
-![](/assets/L15_Lambada.gif)
-Arreglo y edición audio: R. Páez Perza
-
-Clicar y tocar (en preparación)<br />
-
-**14. "Minuetto"**<br />
-
-![](/assets/L15_Minuetto_Bach.gif)
-Arreglo y edición audio: R. Páez Perza<br />
-
-Clicar y tocar (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.
+<br />
 <br />
 
 
 
+**13. "LA LAMBADA"**
+![](/assets/L15_Lambada.gif)
+
+Arreglo y edición audio: R. Páez Perza
+
+Clicar y tocar (en preparación)<br />
+<br />
+<br />
 
 
+
+**14. "MINUETTO"**
+![](/assets/L15_Minuetto_Bach.gif)
+
+Arreglo y edición audio: R. Páez Perza<br />
+
+Clicar y tocar (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.
+<br />
+<br />
 
 NOTA.- En **[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)**  encontrarás algunos de estos audios de acompañamiento completos.<strong style="color: #800000; font-size: medium;">
 

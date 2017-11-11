@@ -53,9 +53,9 @@ Acompañamiento de "Music alone" (clicar y tocar)
 <br />
 <br />
 
-**5."WHEN THE SAINTS"**
+**5. "WHEN THE SAINTS"**
 
-**![](/assets/L15_WhenTheSaints.gif)**
+![](/assets/L15_WhenSaints.gif)
 
 Armonización y edición audio: R. Páez Perza
 

@@ -14,8 +14,7 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 **1. "FRERE JACQUES"**
 ![](/assets/L15_Frere_Jacques.gif)
 Armonización y edición audios: R. Páez Perza<br />
-Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección 7")<br />                
-Versión 2 -> Se han añadido 4 compases de 'INTRO' (en preparación)
+Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección 7")<br /> Versión 2 -> Se han añadido 4 compases de 'INTRO' (en preparación)
 <br />
 
 **2. "ROMANCE DE LA REINA MERCEDES"**

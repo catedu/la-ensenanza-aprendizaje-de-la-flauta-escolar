@@ -8,36 +8,54 @@ Se denomina arpegio al despliegue melódico de un acorde. Los arpegios que se es
 ![](/assets/EjerFla_Arpegio1_DoM.gif)
 Audio para acompañar arpegios DoM (en preparación)
 <br />
+<br />
+
+
 
 
 
 ![](/assets/EjerFla_Arpegio2_FaM.gif)
 Audio para acompañar arpegios FaM (en preparación)
 <br />
+<br />
+
+
 
 
 
 ![](/assets/EjerFla_Arpegio3_Lam.gif)
 Audio para acompañar arpegios La-(en preparación)
 <br />
+<br />
+
+
 
 
 
 ![](/assets/EjerFla_Arpegio4_Re-7.gif)
 Audio para acompañar arpegios Re-7 (en preparación)
 <br />
+<br />
+
+
 
 
 
 ![](/assets/EjerFla_Arpegio5_Re-.gif)
 Audio para acompañar arpegios Re- (en preparación)
 <br />
+<br />
+
+
 
 
 
 ![](/assets/EjerFla_Arpegio6_Si-7b5.gif)
 Audio para acompañar arpegios Si-7 b5 (en preparación) 
 <br />
+<br />
+
+
 
 
 
@@ -50,12 +68,18 @@ Audio para acompañar arpegios SolM (en preparación)
 ![](/assets/EjerFla_Arpegio8_Mi-7.gif)
 Audio para acompañar arpegios Mi-7 (en preparación)
 <br />
+<br />
+
+
 
 
 
 ![](/assets/EjerFla_Arpegio9_Sol7.gif)
 Audio para acompañar arpegios Sol7 (en preparación)
 <br />
+<br />
+
+
 
 
 

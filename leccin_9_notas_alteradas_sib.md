@@ -14,17 +14,17 @@
 <img src="img/L8_Ejer_Sib2.gif" alt="EjerFla Sib - 1" title="EjerFla Sib - 1" />
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090246&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Audio de acompañamiento del ejercicio 1
+Audio de acompañamiento del ejercicio 1 (clicar y tocar)
 
 ![](img/L8_Ejer_Sib3.gif)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090248&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Audio de acompañamiento del ejercicio 2
+Audio de acompañamiento del ejercicio 2 (clicar y tocar)
 
 ![](img/L8_Ejer_Sib4.gif)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090249&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Audio de acompañamiento del ejercicio 3
+Audio de acompañamiento del ejercicio 3 (clicar y tocar)
 
 ## Realiza
 

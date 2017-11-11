@@ -67,7 +67,6 @@ Armonización y edición audio: R. Páez Perza
 Acompañamiento del ejercicio 4 (clicar y tocar)
 
 <br />
-<br />
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

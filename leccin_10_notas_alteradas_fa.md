@@ -17,13 +17,13 @@
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090236&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Acompañamiento del ejercicio 1 (clicar y tocar)
 
 <img src="img/L10_Fa_num__Ejercicio_2.jpg" alt="Ejercicio Fa# 2" title="Ejercicio Fa# 2" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090238&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Acompañamiento del ejercicio 2 (clicar y tocar)
 
 <img src="img/L10_Fa_num__Ejercicio_3.jpg" alt="Ejercicio Fa# 3" title="Ejercicio Fa# 3" />
 
@@ -31,19 +31,25 @@ CLICAR Y TOCAR
 
 
 
-CLICAR Y TOCAR
+Acompañamiento del ejercicio 3 (clicar y tocar)
+
+
 
 <img src="img/L10_Fa_num__Ejercicio_4.jpg" alt="Ejercicio Fa# 4" title="Ejercicio Fa# 4" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090242&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Acompañamiento del ejercicio 4 (clicar y tocar)
+
+
 
 <img src="img/L10_Fa_num__Ejercicio_5.jpg" alt="Ejercicio Fa# 5" title="Ejercicio Fa# 5" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090245&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Acompañamiento del ejercicio 5 (clicar y tocar)
+
+
 
 Armonización y edición audios: R.Páez Perza
 ## Realiza

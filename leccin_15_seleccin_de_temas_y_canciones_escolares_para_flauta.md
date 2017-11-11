@@ -1,4 +1,4 @@
-![](/assets/L15_WhenTheSaints.gif)
+
 # Lección 15.- "Selección de temas y canciones escolares para flauta"
 
 A estas alturas del curso, si todas las lecciones se han practicado correctamente, ya podemos disfrutar de temas melódicos extraídos de diferentes fuentes (folclore, cine, pop, etc.)
@@ -55,7 +55,7 @@ Clicar y tocar
 
 **5."WHEN THE SAINTS"**
 
-**![](/assets/L15_WhenTheSaints.gif)**
+![](/assets/L15_WhenTheSaints.gif)
 
 Armonización y edición audio: R. Páez Perza
 

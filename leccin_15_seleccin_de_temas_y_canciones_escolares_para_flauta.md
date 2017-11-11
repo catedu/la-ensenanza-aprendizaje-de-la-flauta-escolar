@@ -80,7 +80,8 @@ Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se h
 
 
 **7. "LA DEL MANTÓN DE MANILA"**
-**<img src="img/L15_5_MantonManila_GRIS.gif" alt="La del mantón de Manila (flauta) " title="La del mantón de Manila (flauta) " />**
+
+<img src="img/L15_5_MantonManila_GRIS.gif" alt="La del mantón de Manila (flauta) " title="La del mantón de Manila (flauta) " />**
 
 
 Arreglo y edición audio: R. Páez Perza<br />

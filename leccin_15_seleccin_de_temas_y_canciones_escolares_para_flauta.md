@@ -49,7 +49,8 @@ Armonización y edición audio: R. Páez Perza
 Clicar y tocar
 <br />
 
-**5. "Oh! When the Saints"**
+**5. "Oh! When the Saints"**<br />
+
 ![](/assets/L15_When_the_Saint.gif)
 
 Armonización y edición audio: R. Páez Perza
@@ -58,7 +59,9 @@ Armonización y edición audio: R. Páez Perza
 Clicar y tocar
 <br />
 
-**6. "Primavera" (Vivaldi)**
+**6. "Primavera" (Vivaldi)**<br />
+
+
 ![](/assets/L15_Primavera_Vivaldi.gif)
 
 Arreglo y edición audio: R. Páez Perza
@@ -69,9 +72,12 @@ Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se h
 <br />
 
 
-**7. "La del mantón de Manila" (T. Bretón)**
+**7. "La del mantón de Manila" (T. Bretón)**<br />
+
+
 
 **<img src="img/L15_5_MantonManila_GRIS.gif" alt="La del mantón de Manila (flauta) " title="La del mantón de Manila (flauta) " />**
+
 
 Arreglo y edición audio: R. Páez Perza<br />
 
@@ -86,6 +92,7 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 
 **8. "Sancta Maria strela do dia" (Alfonso X El Sabio)**
 
+
 **<img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />**
 
 Areglo y edición audio: R. Páez Perza
@@ -98,6 +105,7 @@ Clicar y tocar
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
 
 **9. "Moon river"**<br />
+
 ![](/assets/L15_MoonRiver.gif)
 Armonización y edición audio: R. Páez Perza
 
@@ -105,6 +113,7 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 <br />
 
 **10. "Titanic"**<br />
+
 ![](/assets/L15_Titanic.gif)
 Areglo y edición audio: R. Páez Perza
 
@@ -112,6 +121,7 @@ Clicar y tocar (en preparación)
 <br />
 
 **11. "El oboe de Gabriel"**<br />
+
 ![](/assets/L15_OboeGabriel.gif)
 Armonización y edición audio: R. Páez Perza
 
@@ -119,18 +129,21 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 <br />
 
 **12. "La vida es bella"**<br />
+
 ![](/assets/L15_La_vida_es_bella.gif)
 Arrglo y edición audio: R. Páez Perza
 
 Clicar y tocar (en preparación)<br />
 
 **13. "La lambada"**<br />
+
 ![](/assets/L15_Lambada.gif)
 Arreglo y edición audio: R. Páez Perza
 
 Clicar y tocar (en preparación)<br />
 
 **14. "Minuetto"**<br />
+
 ![](/assets/L15_Minuetto_Bach.gif)
 Arreglo y edición audio: R. Páez Perza<br />
 

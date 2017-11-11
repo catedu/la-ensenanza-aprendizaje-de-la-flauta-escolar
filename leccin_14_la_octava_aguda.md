@@ -25,23 +25,19 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 ## Ejercicios
 ![](/assets/L14_Ejer1a4_8ªAlta.gif)
-Armonía y edición audios: R. PÁEZ PERZA
-Audios de acompañamiento ejercicios 1 a 4 (en preparación)
+Armonía y edición audios: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 1 a 4 (en preparación)
 <br />
 
 ![](/assets/L14_Ejer5a9_OctAlta.gif)
-Armonía y edición audios: R. PÁEZ PERZA
-Audios de acompañamiento ejercicios 5 a 9 (en preparación)
+Armonía y edición audios: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 5 a 9 (en preparación)
 <br />
 
 ![](/assets/L14_Ejer10a13_OctAlta.gif)
-Armonía y edición audios: R. PÁEZ PERZA
-Audios de acompañamiento ejercicios 10 a 13 (en preparación)
+Armonía y edición audios: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 10 a 13 (en preparación)
 <br />
 
 ![](/assets/L14_Ejer14a16_OctAlta.gif)
-Armonía y edición audios: R. PÁEZ PERZA
-Audios de acompañamiento ejercicios 14 a 16 (en preparación)
+Armonía y edición audios: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 14 a 16 (en preparación)
 <br />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

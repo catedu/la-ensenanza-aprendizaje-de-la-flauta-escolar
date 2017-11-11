@@ -26,7 +26,7 @@ Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090297&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Clicar y tocar
+Acompañamiento del "Romance de la reina Mercedes" (clicar y tocar)
 <br />
 <br />
 
@@ -38,7 +38,7 @@ Arreglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090272&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Clicar y tocar
+Acompañamiento de "Carros de fuego" (clicar y tocar)
 <br />
 <br />
 
@@ -49,18 +49,20 @@ Clicar y tocar
 Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Clicar y tocar
+Acompañamiento de "Music alone" (clicar y tocar)
 <br />
 <br />
 
 **5."WHEN THE SAINTS"**
+
 ![](/assets/L15_WhenTheSaints.gif)
 
 Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Clicar y tocar
+Acompañamiento de "Oh When the Saints" (clicar y tocar)
+
 <br />
 <br />
 
@@ -100,7 +102,7 @@ Areglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Clicar y tocar
+Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)
 <br />
 <br />
 
@@ -123,7 +125,7 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 ![](/assets/L15_Titanic.gif)
 Areglo y edición audio: R. Páez Perza
 
-Clicar y tocar (en preparación)
+Acompañamiento de "Titanic" (en preparación)
 <br />
 <br />
 
@@ -141,7 +143,7 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 ![](/assets/L15_La_vida_es_bella.gif)
 Arrglo y edición audio: R. Páez Perza
 
-Clicar y tocar (en preparación)<br />
+Acompañamiento de "La vida es bella" (en preparación)<br />
 <br />
 <br />
 
@@ -152,7 +154,7 @@ Clicar y tocar (en preparación)<br />
 
 Arreglo y edición audio: R. Páez Perza
 
-Clicar y tocar (en preparación)<br />
+Acompañamiento de "La lambada" (en preparación)
 <br />
 <br />
 
@@ -163,7 +165,7 @@ Clicar y tocar (en preparación)<br />
 
 Arreglo y edición audio: R. Páez Perza<br />
 
-Clicar y tocar (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.
+Acompañamiento del "Minuetto de Bach" (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.
 <br />
 <br />
 

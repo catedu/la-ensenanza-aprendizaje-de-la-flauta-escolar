@@ -96,7 +96,8 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 <br />
 
 **8."SANCTA MARIA STRELA DO DIA**
-**<img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />**
+
+<img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />**
 Areglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -117,7 +118,7 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 <br />
 
 
-**10. "Titanic"**
+**10. "TITANIC"**
 ![](/assets/L15_Titanic.gif)
 Areglo y edición audio: R. Páez Perza
 

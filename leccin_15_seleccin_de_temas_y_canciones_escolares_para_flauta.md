@@ -77,12 +77,10 @@ Arreglo y edición audio: R. Páez Perza
 
 Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se han añadido 5 compases de 'INTRO' (en preparación)
 <br />
+<br />
 
 
-**7. "La del mantón de Manila" (T. Bretón)**<br />
-
-
-
+**7. "LA DEL MANTÓN DE MANILA"**
 **<img src="img/L15_5_MantonManila_GRIS.gif" alt="La del mantón de Manila (flauta) " title="La del mantón de Manila (flauta) " />**
 
 
@@ -97,8 +95,7 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 - Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.
 <br />
 
-**8. "Sancta Maria strela do dia" (Alfonso X El Sabio)**
-
+**8."SANCTA MARIA STRELA DO DIA**
 
 **<img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />**
 
@@ -110,14 +107,20 @@ Clicar y tocar
 
 
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
+<br />
+<br />
 
-**9. "Moon river"**<br />
+
+
+**9. "MOON RIVER"**
 
 ![](/assets/L15_MoonRiver.gif)
 Armonización y edición audio: R. Páez Perza
 
 Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación)
 <br />
+<br />
+
 
 **10. "Titanic"**<br />
 

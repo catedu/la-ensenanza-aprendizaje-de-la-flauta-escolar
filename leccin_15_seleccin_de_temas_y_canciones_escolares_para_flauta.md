@@ -53,7 +53,6 @@ Clicar y tocar
 <br />
 <br />
 
-
 **5."WHEN THE SAINTS"**
 ![](/assets/L15_WhenTheSaints.gif)
 <br />

@@ -10,11 +10,11 @@ Tocar en el registro agudo o segunda octava dentro del ámbito escolar resulta b
 1. Registro poco "cálido", incluso estridente si no se domina.
 1. La intensidad de la flauta se duplica o triplica
 
-Como ya se mencionó en las primeras lecciones, el registro habitual en el ámbito escolar es el que va del Do3 al Re4 y de manera excepcional del Do3 al Mi4 (con posibilidad de llegar al La4). Llegar a notas más altas resulta excepcional, problemático y no es aconsejable a menos que se domine este registro. 
+Como ya se mencionó en las primeras lecciones, el registro habitual en el ámbito escolar es el que va del Do3 al Re4 y de manera excepcional del Do3 al Mi4. Llegar a notas más altas resulta excepcional, problemático y no es aconsejable a menos que se domine este registro. 
 
 En cuanto a las características del registro agudo es conveniente saber que:
 
-- El La4 ofrece ciertas dificultades de para mantener su sonido estable. Suele "fallar" y es de difícil emisión directa.
+- El La4 ofrece ciertas dificultades para mantener su sonido estable. Suele "fallar" y es de difícil emisión directa.
 - Las notas de este registro requieren algo más de presión de la columna de aire y tienen mucha mayor intensidad.
 - Las posiciones hasta el La4 son las mismas que en el registro grave, abriendo ligeramente el orificio del pulgar izquierdo.
 - Las notas Si4 y Do5 no coinciden con las posiciones de la octava inferior. Y lo mismo cabe decir de las notas alteradas.
@@ -24,8 +24,21 @@ En cuanto a las características del registro agudo es conveniente saber que:
 <img src="img/Posiciones_8a_aguda.gif" height="439" alt="Posiciones 8ª aguda" title="Posiciones 8ª aguda" />
 
 ## Ejercicios
+![](/assets/L14_Ejer1a4_8ªAlta.gif)
+Armonía y edición audios: R. PÁEZ PERZA
+Audios de acompañamiento ejercicios 1 a 4 (en preparación)
 
-<img src="img/Ejercicios_8a_aguda.gif" alt="Ejercicios 8ª aguda" title="Ejercicios 8ª aguda" />
+![](/assets/L14_Ejer5a9_OctAlta.gif)
+Armonía y edición audios: R. PÁEZ PERZA
+Audios de acompañamiento ejercicios 5 a 9 (en preparación)
+
+![](/assets/L14_Ejer10a13_OctAlta.gif)
+Armonía y edición audios: R. PÁEZ PERZA
+Audios de acompañamiento ejercicios 10 a 13 (en preparación)
+
+![](/assets/L14_Ejer14a16_OctAlta.gif)
+Armonía y edición audios: R. PÁEZ PERZA
+Audios de acompañamiento ejercicios 14 a 16 (en preparación)
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

@@ -31,8 +31,34 @@ Armonización y edición audio: R. Páez Perza
   - Aplicar las ligaduras discontinuas
  - Puede ser conveniente la utilización de un metrónomo para asegurar el tempo.
 
-<img src="img/EjerFla_GradosDisjuntos_2.gif" alt="Grados disjuntos 2" title="Grados disjuntos 2" />
+![](/assets/L7_GraDisjEjer2_1-2.gif)
+Audio para acompañar los ejercicios 1 y 2 (en preparación)
+<br />
 
+![](/assets/L7_GraDisjEjer2_3-4.gif)
+Audio para acompañar los ejercicios 3 y 4 (en preparación)
+<br />
+
+![](/assets/L7_GraDisjEjer2_5-6.gif)
+Audio para acompañar los ejercicios 5 y 6 (en preparación)
+<br />
+
+![](/assets/L7_GraDisjEjer2_7-8.gif)
+Audio para acompañar los ejercicios 7 y 8 (en preparación)
+<br />
+
+![](/assets/L7_GraDisjEjer2_9-10.gif)
+Audio para acompañar los ejercicios 9 y 10 (en preparación)
+<br />
+
+![](/assets/L7_GraDisjEjer2_11-12.gif)
+Audio para acompañar los ejercicios 11 y 12 (en preparación)
+<br />
+
+![](/assets/L7_GraDisj2_13-14.gif)
+Audio para acompañar los ejercicios 13 y 14 (en preparación)
+Armonización y edición audios: R.Páez Perza
+<br />
 
 
 ### ACTIVIDADES DE AMPLIACIÓN (opcionales)

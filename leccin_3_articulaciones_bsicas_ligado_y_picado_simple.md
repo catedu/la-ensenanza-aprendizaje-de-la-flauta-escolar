@@ -39,9 +39,8 @@ Audios para los ejercicios 1, 2 y 3
 <img src="img/L3_3.PicadoLigado_Ejercicios_4-12.gif" alt="L3_Ejercicios_4-12" title="L3_Ejercicios_4-12" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090293&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 
-Armonización y edición audios: R.Páez Perza
+Metrónomo opcional para los ejercicios 4 al 12 (90 p/m)<br /> Armonización y edición audios: R.Páez Perza
 <br />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

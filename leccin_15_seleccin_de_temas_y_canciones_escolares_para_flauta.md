@@ -43,8 +43,9 @@ Acompañamiento de "Carros de fuego" (clicar y tocar)
 <br />
 
 
-**4. "MUSIC ALONE"**
-**<img src="img/L15_Music_Alone_GRIS.gif" alt="Music Alone (flautas)" title="Music Alone (flautas)" />**
+**4. "MUSIC ALONE"**<br />
+
+![](/assets/L15_WhenSaints.gif)
 
 Armonización y edición audio: R. Páez Perza
 

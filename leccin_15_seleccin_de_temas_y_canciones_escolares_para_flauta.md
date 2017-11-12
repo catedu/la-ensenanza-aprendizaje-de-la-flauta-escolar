@@ -34,7 +34,7 @@ Acompañamiento del "Romance de la reina Mercedes" (clicar y tocar)<br /> Armoni
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090272&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Acompañamiento de "Carros de fuego" (clicar y tocar)<br /> Armonización y edición audio: R. Páez Perza
+Acompañamiento de "Carros de fuego" (clicar y tocar)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
 
@@ -49,7 +49,6 @@ Acompañamiento de "Music alone" (clicar y tocar)<br /> Armonización y edición
 **5. "WHEN THE SAINTS""**
 <br />
 ![](/assets/L15_WhenSaints.gif)
-<br /> Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -60,23 +59,15 @@ Acompañamiento de "Oh When the Saints" (clicar y tocar)<br /> Armonización y e
 **6. "PRIMAVERA" (Vivaldi)**
 ![](/assets/L15_Primavera_Vivaldi.gif)
 
-Arreglo y edición audio: R. Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090278&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se han añadido 5 compases de 'INTRO' (en preparación)<br /> Armonización y edición audio: R. Páez Perza
+Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se han añadido 5 compases de 'INTRO' (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
-
-
-
 
 **7. "LA DEL MANTÓN DE MANILA"**
 
 <img src="img/L15_5_MantonManila_GRIS.gif" alt="La del mantón de Manila (flauta) " title="La del mantón de Manila (flauta) " />
-
-
-Arreglo y edición audio: R. Páez Perza<br />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090274&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha añadido una entrada de preaviso de 2 compases (en preparación)
@@ -84,7 +75,7 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 
 - Aunque aparentemente parece difícil de realizar en realidad no lo es.
 
-- Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.<br /> Armonización y edición audio: R. Páez Perza
+- Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
 

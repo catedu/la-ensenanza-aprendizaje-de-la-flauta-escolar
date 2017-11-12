@@ -31,7 +31,10 @@ Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª,
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090259&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Armonización y edición audio: R. Páez Perza<br />
+Armonización y edición audio: R. Páez Perza
+<br />
+<br />
+
 **EJERCICIO 2 (1 al 14)**
 ![](/assets/L7_GraDisjEjer2_1-2.gif)
 Audio para acompañar los ejercicios 1 y 2 (en preparación)

@@ -21,10 +21,7 @@ En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u o
 
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
-
 <img src="img/L13_Paso_8a_1.jpg" height="142" alt="Paso 8ª aguda (1)" title="Paso 8ª aguda (1)" />
-
-Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090260&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -32,42 +29,27 @@ Acompañamiento del ejercicio 1 (clicar y tocar)
 <br />
 <br />
 
-
 <img src="img/L13_Paso_8a_2.jpg" height="144" alt="Paso 8ª alta (2)" title="Paso 8ª alta (2)" />
-
-
-
-Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090261&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento del ejercicio 2 (clicar y tocar)
-
 <br />
 <br />
-
 
 ![](img/L13_Paso_8a_3.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090262&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento del ejercicio 3 (clicar y tocar)
-
 <br />
 <br />
 
 <img src="img/L13_Paso_8a_4.jpg" height="122" alt="Paso 8ª aguda (4)" title="Paso 8ª aguda (4)" />
 
-
-
-Armonización y edición audio: R. Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090263&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Acompañamiento del ejercicio 4 (clicar y tocar)
-
-<br />
-
+Acompañamiento del ejercicio 4 (clicar y tocar)<br /> Armonización y edición audios: R. Páez Perza
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

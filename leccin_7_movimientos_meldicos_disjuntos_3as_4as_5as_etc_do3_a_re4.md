@@ -13,16 +13,8 @@ Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª,
 
  - Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.
 
- - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
-
-![Grados disjuntos 3as y 4as](img/EjerFla_GradosDisj_3as_4as.gif)
-
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090259&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Armonización y edición audio: R. Páez Perza
-<br />
-
+ - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.<br />
+ 
 **Forma de realización sin audio de acompañamiento**
  - Estudiar cada ejercicio comenzando lentamente e ir ganando velocidad (tempo) poco a poco. La velocidad máxima no debe superar las 100 pulsaciones por minuto.
  - Aplicar diferentes articulaciones:
@@ -31,33 +23,49 @@ Armonización y edición audio: R. Páez Perza
   - Aplicar las ligaduras discontinuas
  - Puede ser conveniente la utilización de un metrónomo para asegurar el tempo.
 
+
+
+**EJERCICIO 1 (A - B)**
+![Grados disjuntos 3as y 4as](img/EjerFla_GradosDisj_3as_4as.gif)
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090259&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+Armonización y edición audio: R. Páez Perza<br />
+**EJERCICIO 2 (1 al 14)**
 ![](/assets/L7_GraDisjEjer2_1-2.gif)
 Audio para acompañar los ejercicios 1 y 2 (en preparación)
+<br />
 <br />
 
 ![](/assets/L7_GraDisjEjer2_3-4.gif)
 Audio para acompañar los ejercicios 3 y 4 (en preparación)
 <br />
+<br />
 
 ![](/assets/L7_GraDisjEjer2_5-6.gif)
 Audio para acompañar los ejercicios 5 y 6 (en preparación)
+<br />
 <br />
 
 ![](/assets/L7_GraDisjEjer2_7-8.gif)
 Audio para acompañar los ejercicios 7 y 8 (en preparación)
 <br />
+<br />
 
 ![](/assets/L7_GraDisjEjer2_9-10.gif)
 Audio para acompañar los ejercicios 9 y 10 (en preparación)
 <br />
+<br />
+
 
 ![](/assets/L7_GraDisjEjer2_11-12.gif)
 Audio para acompañar los ejercicios 11 y 12 (en preparación)
 <br />
+<br />
 
 ![](/assets/L7_GraDisj2_13-14.gif)
-Audio para acompañar los ejercicios 13 y 14 (en preparación)
-Armonización y edición audios: R.Páez Perza
+Audio para acompañar los ejercicios 13 y 14 (en preparación)<br /> Armonización y edición audios: R.Páez Perza
 <br />
 
 

@@ -33,10 +33,6 @@ Audio para los ejercicios 11 a 13 (en preparación)
 Audio para los ejercicios 14 a 16 (en preparación)
 
 
-EJERCICIOS SIN AUDIO
-<img src="img/L6_Pasajes_con_Do3.gif" alt="Pasajes con Do3 o nota más grave" title="Pasajes con Do3 o nota más grave" />
-
-
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

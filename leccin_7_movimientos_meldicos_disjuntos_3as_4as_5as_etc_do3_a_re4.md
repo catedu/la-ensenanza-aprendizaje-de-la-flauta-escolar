@@ -85,7 +85,8 @@ Estudia y realiza el siguiente tema popular con su correspondiente audio de acom
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090303&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Armonización y edición audio: R.Páez Perza
 <br />
-
+<br />
+<br />
 
 **Actividad de ampliación 2**<br />Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
 <br />

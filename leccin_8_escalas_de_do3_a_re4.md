@@ -5,10 +5,11 @@ Debido al ámbito melódico tan reducido que hemos visto hasta ahora (Do3-Re4), 
 
 ### Escalas
 
-<img src="img/Escalas_Do3-Re4.gif" alt="Escalas fragmentadas Do3-Re4" title="Escalas fragmentadas Do3-Re4" />í&tilde;
+<img src="img/Escalas_Do3-Re4.gif" alt="Escalas fragmentadas Do3-Re4" title="Escalas fragmentadas Do3-Re4" />
+
+
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
-
 
 
 Modifica las articulaciones de los ejercicios anteriores. Por ejemplo:

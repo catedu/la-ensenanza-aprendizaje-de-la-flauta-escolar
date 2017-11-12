@@ -44,8 +44,8 @@ Acompañamiento de "Carros de fuego" (clicar y tocar)
 
 
 **4. "MUSIC ALONE"**<br />
+![](/assets/L15_MusicAlone.gif)
 
-![](/assets/L15_WhenSaints.gif)
 
 Armonización y edición audio: R. Páez Perza
 

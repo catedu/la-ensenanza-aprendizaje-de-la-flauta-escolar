@@ -35,7 +35,9 @@ Armonización y edición audio: R. Páez Perza
 <br />
 <br />
 
-**EJERCICIO 2 (1 al 14)**
+**EJERCICIO 2 (1 al 14)**<br />
+
+
 ![](/assets/L7_GraDisjEjer2_1-2.gif)
 Audio para acompañar los ejercicios 1 y 2 (en preparación)
 <br />
@@ -80,15 +82,13 @@ Estudia y realiza el siguiente tema popular con su correspondiente audio de acom
 
 <img src="img/Frere_Jacques_(flauta).gif" height="255" alt="Frere Jacques (flauta)" title="Frere Jacques (flauta)" />
 
-Arreglo y edición audio e imagen: R.Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090303&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
+Armonización y edición audio: R.Páez Perza
 <br />
 
 
 **Actividad de ampliación 2**<br /> Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
 
 ![Moon river flauta](img/L7_MoonRiver_GrDisjuntos_GRIS.gif)
-Arreglo y edición audio e imagen: R.Páez Perza
+Arreglo y edición audio: R.Páez Perza
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090265&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

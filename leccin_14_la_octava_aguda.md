@@ -29,7 +29,6 @@ En cuanto a las características del registro agudo es conveniente saber que:
 ![](/assets/L14_Ejer1_OctAlta.gif)
 Audio del ejercicio 1 (en preparación)
 <br />
-<br />
 ![](/assets/L14_Ejer2_OctAlta.gif)
 Audio del ejercicio 2 (en preparación)
 <br />

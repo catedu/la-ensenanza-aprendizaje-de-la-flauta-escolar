@@ -93,7 +93,7 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 <br />
 <br />
 
-**8."SANCTA MARIA STRELA DO DIA**
+**8. "SANCTA MARIA STRELA DO DIA"**
 
 <img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />
 Areglo y edición audio: R. Páez Perza
@@ -110,7 +110,9 @@ Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)
 <br />
 
 
-**9. "MOON RIVER"**
+**9. "MOON RIVER"**<br />
+
+
 ![](/assets/L15_MoonRiver.gif)
 Armonización y edición audio: R. Páez Perza
 

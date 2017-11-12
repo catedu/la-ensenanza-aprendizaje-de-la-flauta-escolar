@@ -73,9 +73,8 @@ Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se h
 Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha añadido una entrada de preaviso de 2 compases (en preparación)
 <br /> OBSERVACIONES
 
-- Aunque aparentemente parece difícil de realizar en realidad no lo es.
-
-- Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.<br /> Arreglo y edición audio: R. Páez Perza
+ - Aunque aparentemente parece difícil de realizar en realidad no lo es.
+ - Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
 

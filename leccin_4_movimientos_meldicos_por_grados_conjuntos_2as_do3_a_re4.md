@@ -79,9 +79,7 @@ Acompañamiento ejercicio 6 -&gt; CLICAR Y TOCAR
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090296&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Acompañamiento ejercicio 7 -&gt; CLICAR Y TOCAR
-
-Armonización y edición audios: R.Páez Perza
+Acompañamiento ejercicio 7 -&gt; CLICAR Y TOCAR<br /> Armonización y edición audios: R.Páez Perza
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

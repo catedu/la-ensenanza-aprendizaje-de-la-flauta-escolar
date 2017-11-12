@@ -42,6 +42,7 @@ Audios para los ejercicios 1, 2 y 3
 Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 
 Armonización y edición audios: R.Páez Perza
+<br />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

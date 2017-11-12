@@ -28,39 +28,39 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 ![](/assets/L14_Ejer1_OctAlta.gif)
 Audio del ejercicio 1 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer2_OctAlta.gif)
 Audio del ejercicio 2 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer3_OctAlta.gif)
 Audio del ejercicio 3 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer4_OctAlta.gif)
 Audio del ejercicio 4 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer5_OctAlta.gif)
 Audio del ejercicio 5 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer6_OctAlta.gif)<br /> Audio del ejercicio 6 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer7_OctAlta.gif)<br /> Audio del ejercicio 7 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer8_OctAlta.gif)<br /> Audio del ejercicio 8 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer9_OctAlta.gif)<br /> Audio del ejercicio 9 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer10_OctAlta.gif)<br /> Audio del ejercicio 10 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer11_OctAlta.gif)<br /> Audio del ejercicio 11 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer12_OctAlta.gif)<br /> Audio del ejercicio 12 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer13_OctAlta.gif)<br /> Audio del ejercicio 13 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer14_OctAlta.gif)<br /> Audio del ejercicio 14 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer15_OctAlta.gif)<br /> Audio del ejercicio 15 (en preparación)
-
+<br /> 
 ![](/assets/L14_Ejer16_OctAlta.gif)<br /> Audio del ejercicio 16 (en preparación)
 
 Armonía y edición audios: R. Páez Perza

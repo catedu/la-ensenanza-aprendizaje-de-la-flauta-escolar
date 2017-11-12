@@ -25,61 +25,60 @@ Estos pasajes de especial dificultad se verán en las lecciones 6 y 7.
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
 **Ejercicio 1**
-
 <img src="img/GrConj._Escala_DoM_Do3-Re4.gif" height="174" alt="Grados conjuntos - Escala Do3-Re4" title="Grados conjuntos - Escala Do3-Re4" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090288&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 1 -&gt; CLICAR Y TOCAR
 <br />
+<br />
 
 **Ejercicio 2**
-
 <img src="img/L5_2_VarEsc_DoM.jpg" alt="Grados conjuntos 2 - Variación escala DoM" title="Grados conjuntos 2 - Variación escala DoM" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090288&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 2 -&gt; CLICAR Y TOCAR (el audio es el mismo que el del ejercicio 1)
 <br />
+<br />
 
 **Ejercicio 3**
-
 <img src="img/L5_3.jpg" alt="Grados conjuntos 3" title="Grados conjuntos 3" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090295&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 3 -&gt; CLICAR Y TOCAR
 <br />
+<br />
 
-**Ejercicio 4**<br />
-
+**Ejercicio 4**
 <img src="img/L5_4.jpg" alt="Grados conjuntos 4" title="Grados conjuntos 4" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090235&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 4 -&gt; CLICAR Y TOCAR
 <br />
+<br />
 
 **Ejercicio 5**
-
 <img src="img/L5_5.jpg" alt="Grados conjuntos 5" title="Grados conjuntos 5" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090294&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 5 -&gt; CLICAR Y TOCAR
 <br />
+<br />
 
 **Ejercicio 6**
-
 <img src="img/L5_7_Duo.jpg" alt="Grados conjuntos 6 (duo)" title="Grados conjuntos 6 (duo)" height="196" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090289&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 6 -&gt; CLICAR Y TOCAR
 <br />
+<br />
 
 **Ejercicio 7**
-
 <img src="img/L5_8_Duo.jpg" alt="Grados conjuntos 7 (dúo 2)" title="Grados conjuntos 7 (dúo 2)" height="197" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090296&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

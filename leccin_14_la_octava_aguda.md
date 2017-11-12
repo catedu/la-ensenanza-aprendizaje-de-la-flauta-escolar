@@ -24,32 +24,48 @@ En cuanto a las características del registro agudo es conveniente saber que:
 <img src="img/Posiciones_8a_aguda.gif" height="439" alt="Posiciones 8ª aguda" title="Posiciones 8ª aguda" />
 
 ## Ejercicios
-![](/assets/L14_Ejer1a4_8ªAlta.gif)
-Armonía y edición audio: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 1 a 4 (en preparación)
-<br />
-<br />
 
-![](/assets/L14_Ejer5a9_OctAlta.gif)
-Armonía y edición audio: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 5 a 9 (en preparación)
-<br />
-<br />
 
-![](/assets/L14_Ejer10a13_OctAlta.gif)
-Armonía y edición audio: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 10 a 13 (en preparación)
-<br />
-<br />
+![](/assets/L14_Ejer1_OctAlta.gif)
+Audio del ejercicio 1 (en preparación)
+![](/assets/L14_Ejer2_OctAlta.gif)
+Audio del ejercicio 2 (en preparación)
+![](/assets/L14_Ejer3_OctAlta.gif)
+Audio del ejercicio 3 (en preparación)
+![](/assets/L14_Ejer4_OctAlta.gif)
+Audio del ejercicio 4 (en preparación)
+![](/assets/L14_Ejer5_OctAlta.gif)
+Audio del ejercicio 5 (en preparación)
+![](/assets/L14_Ejer6_OctAlta.gif)
+Audio del ejercicio 6 (en preparación)
+![](/assets/L14_Ejer7_OctAlta.gif)
+Audio del ejercicio 7 (en preparación)
+![](/assets/L14_Ejer8_OctAlta.gif)
+Audio del ejercicio 8 (en preparación)
+![](/assets/L14_Ejer9_OctAlta.gif)
+Audio del ejercicio 9 (en preparación)
+![](/assets/L14_Ejer10_OctAlta.gif)
+Audio del ejercicio 10 (en preparación)
+![](/assets/L14_Ejer11_OctAlta.gif)
+Audio del ejercicio 11 (en preparación)
+![](/assets/L14_Ejer12_OctAlta.gif)
+Audio del ejercicio 12 (en preparación)
+![](/assets/L14_Ejer13_OctAlta.gif)
+Audio del ejercicio 13 (en preparación)
+![](/assets/L14_Ejer14_OctAlta.gif)
+Audio del ejercicio 14 (en preparación)
+![](/assets/L14_Ejer15_OctAlta.gif)
+Audio del ejercicio 15 (en preparación)
+![](/assets/L14_Ejer16_OctAlta.gif)
+Audio del ejercicio 16 (en preparación)
+Armonía y edición audios: R. Páez Perza
 
-![](/assets/L14_Ejer14a16_OctAlta.gif)
-Armonía y edición audio: R. PÁEZ PERZA<br /> Audios de acompañamiento ejercicios 14 a 16 (en preparación)
-<br />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
-**Actividad de ampliación 1**
+**Actividad de ampliación 1**<br /> Realiza, estudia, interpreta la siguiente frase melódica:
 
 **<img src="img/Frase_1_8a_aguda.gif" alt="Frase 1 (8ª aguda)" title="Frase 1 (8ª aguda)" />**
-
-
 
 Armonización y edición audio: R. Páez Perza
 
@@ -57,20 +73,15 @@ Armonización y edición audio: R. Páez Perza
 
 CLICAR Y TOCAR
 
-**Actividad de ampliación 2**
+**Actividad de ampliación 2**<br /> Realiza, estudia, interpreta la siguiente frase melódica a dos voces o partes.<br /> Forma de realización:
+
+- Realizar solo la parte superior (con audio).
+- Realizar solo la parte inferior (con audio).
+- Realizar la actividad a dúo, siempre que sea posible, en colaboración con algún otro compañero-a (con o sin audio).
 
 **<img src="img/Frase_2_8a_aguda_Duo.1.gif" alt="Frase 2 (8ª aguda)" title="Frase 2 (8ª aguda)" />**
 
-
-
-Armonización y edición audio: R. Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Armonización y edición audios: R. Páez Perza
 
-**Forma de realización**<br />
-
-- Realizar la parte superior (con audio).
-- Realizar la parte inferior (con audio).
-- Realizar ambas partes, a dúo (con o sin audio).

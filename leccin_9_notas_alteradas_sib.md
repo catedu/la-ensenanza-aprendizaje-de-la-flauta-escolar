@@ -1,5 +1,6 @@
 
 # Lección 9.- "Notas alteradas: Sib"
+![](/assets/L9_Posicion_Sib.gif)
 
 ### EJERCICIOS
 

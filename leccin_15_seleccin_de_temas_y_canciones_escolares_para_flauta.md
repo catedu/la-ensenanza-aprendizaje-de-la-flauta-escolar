@@ -137,7 +137,7 @@ Acompañamiento de "La lambada" (en preparación)<br /> Arrglo y edición audio:
 
 ![](/assets/L15_Minuetto_Bach.gif)
 
-Acompañamiento del "Minuetto de Bach" (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas<br /> Armonización y edición audio: R. Páez Perza
+Acompañamiento del "Minuetto de Bach" (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.  El tono ha sido transportado un tono alto respecto al original en FaM.<br /> Armonización y edición audio: R. Páez Perza
 <br />
 <br />
 

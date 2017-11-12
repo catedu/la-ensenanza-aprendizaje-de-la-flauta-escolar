@@ -41,38 +41,27 @@ Audio del ejercicio 4 (en preparación)
 ![](/assets/L14_Ejer5_OctAlta.gif)
 Audio del ejercicio 5 (en preparación)
 
-![](/assets/L14_Ejer6_OctAlta.gif)
-Audio del ejercicio 6 (en preparación)
+![](/assets/L14_Ejer6_OctAlta.gif)<br /> Audio del ejercicio 6 (en preparación)
 
-![](/assets/L14_Ejer7_OctAlta.gif)
-Audio del ejercicio 7 (en preparación)
+![](/assets/L14_Ejer7_OctAlta.gif)<br /> Audio del ejercicio 7 (en preparación)
 
-![](/assets/L14_Ejer8_OctAlta.gif)
-Audio del ejercicio 8 (en preparación)
+![](/assets/L14_Ejer8_OctAlta.gif)<br /> Audio del ejercicio 8 (en preparación)
 
-![](/assets/L14_Ejer9_OctAlta.gif)
-Audio del ejercicio 9 (en preparación)
+![](/assets/L14_Ejer9_OctAlta.gif)<br /> Audio del ejercicio 9 (en preparación)
 
-![](/assets/L14_Ejer10_OctAlta.gif)
-Audio del ejercicio 10 (en preparación)
+![](/assets/L14_Ejer10_OctAlta.gif)<br /> Audio del ejercicio 10 (en preparación)
 
-![](/assets/L14_Ejer11_OctAlta.gif)
-Audio del ejercicio 11 (en preparación)
+![](/assets/L14_Ejer11_OctAlta.gif)<br /> Audio del ejercicio 11 (en preparación)
 
-![](/assets/L14_Ejer12_OctAlta.gif)
-Audio del ejercicio 12 (en preparación)
+![](/assets/L14_Ejer12_OctAlta.gif)<br /> Audio del ejercicio 12 (en preparación)
 
-![](/assets/L14_Ejer13_OctAlta.gif)
-Audio del ejercicio 13 (en preparación)
+![](/assets/L14_Ejer13_OctAlta.gif)<br /> Audio del ejercicio 13 (en preparación)
 
-![](/assets/L14_Ejer14_OctAlta.gif)
-Audio del ejercicio 14 (en preparación)
+![](/assets/L14_Ejer14_OctAlta.gif)<br /> Audio del ejercicio 14 (en preparación)
 
-![](/assets/L14_Ejer15_OctAlta.gif)
-Audio del ejercicio 15 (en preparación)
+![](/assets/L14_Ejer15_OctAlta.gif)<br /> Audio del ejercicio 15 (en preparación)
 
-![](/assets/L14_Ejer16_OctAlta.gif)
-Audio del ejercicio 16 (en preparación)
+![](/assets/L14_Ejer16_OctAlta.gif)<br /> Audio del ejercicio 16 (en preparación)
 
 Armonía y edición audios: R. Páez Perza
 
@@ -83,11 +72,9 @@ Armonía y edición audios: R. Páez Perza
 
 **<img src="img/Frase_1_8a_aguda.gif" alt="Frase 1 (8ª aguda)" title="Frase 1 (8ª aguda)" />**
 
-Armonización y edición audio: R. Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090266&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Armonización y edición audio: R. Páez Perza
 
 **Actividad de ampliación 2**<br /> Realiza, estudia, interpreta la siguiente frase melódica a dos voces o partes.<br /> Forma de realización:
 

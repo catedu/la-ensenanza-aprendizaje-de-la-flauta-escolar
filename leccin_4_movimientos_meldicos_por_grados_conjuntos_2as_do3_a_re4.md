@@ -31,6 +31,7 @@ Estos pasajes de especial dificultad se verán en las lecciones 6 y 7.
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090288&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 1 -&gt; CLICAR Y TOCAR
+<br />
 
 **Ejercicio 2**
 
@@ -39,6 +40,7 @@ Acompañamiento ejercicio 1 -&gt; CLICAR Y TOCAR
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090288&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 2 -&gt; CLICAR Y TOCAR (el audio es el mismo que el del ejercicio 1)
+<br />
 
 **Ejercicio 3**
 
@@ -46,8 +48,8 @@ Acompañamiento ejercicio 2 -&gt; CLICAR Y TOCAR (el audio es el mismo que el de
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090295&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-
 Acompañamiento ejercicio 3 -&gt; CLICAR Y TOCAR
+<br />
 
 **Ejercicio 4**<br />
 
@@ -56,6 +58,7 @@ Acompañamiento ejercicio 3 -&gt; CLICAR Y TOCAR
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090235&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 4 -&gt; CLICAR Y TOCAR
+<br />
 
 **Ejercicio 5**
 
@@ -64,6 +67,7 @@ Acompañamiento ejercicio 4 -&gt; CLICAR Y TOCAR
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090294&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 5 -&gt; CLICAR Y TOCAR
+<br />
 
 **Ejercicio 6**
 
@@ -72,6 +76,7 @@ Acompañamiento ejercicio 5 -&gt; CLICAR Y TOCAR
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090289&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 6 -&gt; CLICAR Y TOCAR
+<br />
 
 **Ejercicio 7**
 
@@ -80,7 +85,7 @@ Acompañamiento ejercicio 6 -&gt; CLICAR Y TOCAR
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090296&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Acompañamiento ejercicio 7 -&gt; CLICAR Y TOCAR<br /> Armonización y edición audios: R.Páez Perza
-
+<br />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

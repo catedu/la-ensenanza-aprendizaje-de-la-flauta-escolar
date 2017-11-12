@@ -68,7 +68,7 @@ Audio para acompañar arpegios Sol7 (en preparación)
 ![](/assets/EjerFla_Arpegio10_Mi-.gif)
 Audio para acompañar arpegios Mi- (en preparación)
 
-**Armonización y edición audios**: Rafael Páez Perza
+**Armonización y edición audios**: R. Páez Perza
 <br />
 
 

@@ -28,15 +28,19 @@ PRÁCTICA DEL Si3 ALTERNATIVO <br /> Observa los ejercicios 8, 9, 10, 11 y 15 y 
 - La posición del Si3 alternativo también puede ser útil en los movimientos melódicos por grados conjuntos. Concretamente cuando la melodía realiza una bordadura o floreo inferior del Do4 (Do-Si-Do). También es posible su empleo en movimientos conjuntos en los que se emplea la posición normal (Re-Do-Si-La-Sol o viceversa). En este último caso es el instrumentista quien debe valorar que camino seguir.
 
 ![](/assets/L6_SiAlternativo1.gif)
+
 Audio de acompañamiento ejercicio 1 (en preparación)
 
 ![](/assets/L6_SiAlternativo2.gif)
+
 Audio de acompañamiento ejercicio 2 (en preparación)
 
 ![](/assets/L6_SiAlternativo3.gif)
+
 Audio de acompañamiento ejercicio 3 (en preparación)
 
 ![](/assets/L6_SiAlternativo4.gif)
+
 Audio de acompañamiento ejercicio 4 (en preparación)
 
 Armonización y edición audios: R. Páez Perza

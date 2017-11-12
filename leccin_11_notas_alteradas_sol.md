@@ -64,8 +64,7 @@ Acompañamiento del ejercicio 6 (clicar y tocar)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090257&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Acompañamiento del ejercicio 7 (clicar y tocar)
-<br />
+Acompañamiento del ejercicio 7 (clicar y tocar)<br /> Armonización y edición audios: R. Páez Perza
 
 
 
@@ -74,11 +73,11 @@ Acompañamiento del ejercicio 7 (clicar y tocar)
 
 <img src="img/L11_VidaBella_(flauta)_GRIS.gif" height="355" alt="'La vida es bella' (parte de flauta)" title="'La vida es bella' (parte de flauta)" />
 
-Arreglo y edición audio: R. Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090305&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Arreglo y edición audio: R. Páez Perza
+
+
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

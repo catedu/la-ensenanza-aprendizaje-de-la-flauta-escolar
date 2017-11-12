@@ -117,7 +117,6 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 
 **12. "LA VIDA ES BELLA"**
 ![](/assets/L15_La_vida_es_bella.gif)
-
 Acompañamiento de "La vida es bella" (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />

@@ -32,7 +32,6 @@ PRÁCTICA DEL Si3 ALTERNATIVO <br /> Observa los ejercicios 8, 9, 10, 11 y 15 y 
 Audio de acompañamiento ejercicio 1 (en preparación)
 <br />
 
-
 ![](/assets/L6_SiAlternativo2.gif)
 
 Audio de acompañamiento ejercicio 2 (en preparación)
@@ -45,9 +44,7 @@ Audio de acompañamiento ejercicio 3 (en preparación)
 
 ![](/assets/L6_SiAlternativo4.gif)
 
-Audio de acompañamiento ejercicio 4 (en preparación)
-Armonización y edición audios: R. Páez Perza
-<br />
+Audio de acompañamiento ejercicio 4 (en preparación)<br /> Armonización y edición audios: R. Páez Perza
 
 
 

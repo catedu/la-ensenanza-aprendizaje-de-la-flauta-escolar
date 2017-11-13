@@ -89,7 +89,9 @@ Aunque aparentemente parece difícil de realizar en realidad no lo es.
 Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.
 Arreglo y edición audio: R. Páez Perza
 
+
 **8. "SANCTA MARIA STRELA DO DIA"** 
+
 ![](/assets/L15_SanctaMariaCon.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -98,6 +100,9 @@ Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)
 Arreglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
+
+<br />
+
 
 **9. "MOON RIVER"**![](/assets/L15_MoonRiver_Con.gif)
 

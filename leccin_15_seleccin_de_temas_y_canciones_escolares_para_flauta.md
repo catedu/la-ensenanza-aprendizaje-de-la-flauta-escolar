@@ -141,6 +141,7 @@ Arreglo y edición audio: R. Páez Perza
 ![](/assets/L15_Titanic_Con.gif)
 
 Acompañamiento de "Titanic" (en preparación)
+
 Arreglo y edición audio: R. Páez Perza
 
 <br />
@@ -150,6 +151,7 @@ Arreglo y edición audio: R. Páez Perza
 
 
 Versión 1 -> Para realizar en línea (en preparación)
+
 Versión 2 -> Se ha añadido una 'INTRO' de 4 compases (en preparación)
 
 Arreglo y edición audio: R. Páez Perza

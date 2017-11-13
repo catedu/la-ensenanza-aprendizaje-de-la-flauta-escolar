@@ -102,7 +102,7 @@ OBJETIVOS
 Escucha atentamente el audio del siguiente vídeo y trata de reconocer los dos tipos de articulación que hemos aprendido en esta lección.
 
 
-<iframe width="100%" height="384" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/fkzxxoGqrh8?rel=0&amp;wmode=transparent"></iframe>
+{% youtube %}https://www.youtube.com/watch?v=fkzxxoGqrh8&feature=youtu.be{% endyoutube %}
 
 
 Concerto en Fa mayor (Allegro) de G. Sammartini interpretado por Lenka Molcanyiova

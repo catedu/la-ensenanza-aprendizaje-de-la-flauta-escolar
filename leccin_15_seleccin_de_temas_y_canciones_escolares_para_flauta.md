@@ -130,7 +130,10 @@ Arreglo y edición audio: R. Páez Perza
 **9. "MOON RIVER"**![](/assets/L15_MoonRiver_Con.gif)
 
 Versión 1 -> Para realizar en línea (en preparación)
-Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación). Arreglo y edición audio: R. Páez Perza
+
+Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación). 
+
+Arreglo y edición audio: R. Páez Perza
 
 <br />
 

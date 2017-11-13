@@ -127,11 +127,15 @@ Arreglo y edición audio: R. Páez Perza
 Versión 1 -> Para realizar en línea (en preparación)
 Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación). Arreglo y edición audio: R. Páez Perza
 
+<br />
+
 **10. "TITANIC"**
 ![](/assets/L15_Titanic_Con.gif)
 
 Acompañamiento de "Titanic" (en preparación)
 Arreglo y edición audio: R. Páez Perza
+
+<br />
 
 **11. "EL OBOE DE GABRIEL"**
 ![](/assets/L15_OboeGabriel_Con.gif)
@@ -150,7 +154,10 @@ Arreglo y edición audio: R. Páez Perza
 ![](/assets/L15_VidaBella_Con.gif)
 
 Acompañamiento de "La vida es bella" (en preparación)
+
 Arreglo y edición audio: R. Páez Perza
+
+<br />
 
 **13. "LA LAMBADA"**
 ![](/assets/L15_Lambada_Con.gif)

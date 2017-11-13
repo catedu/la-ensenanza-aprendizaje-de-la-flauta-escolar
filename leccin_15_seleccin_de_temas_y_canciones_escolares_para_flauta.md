@@ -46,6 +46,10 @@ Acompañamiento de "Carros de fuego" (clicar y tocar)
 
 Arreglo y edición audio: R. Páez Perza
 
+<br />
+
+
+
 
 **4. "MUSIC ALONE"**
 ![](/assets/L15_MusicAlone_Con.gif)
@@ -138,6 +142,8 @@ Versión 2 -> Se ha añadido una 'INTRO' de 4 compases (en preparación)
 Arreglo y edición audio: R. Páez Perza
 
 <br />
+<br />
+
 
 **12. "LA VIDA ES BELLA"**
 ![](/assets/L15_VidaBella_Con.gif)

@@ -148,7 +148,11 @@ Acompañamiento de "La lambada" (en preparación)<br /> Arrglo y edición audio:
 **14. "MINUETTO (J.S. Bach)"**
 ![](/assets/L15_MinuettoBach_Con.gif)
 
-Acompañamiento del "Minuetto de Bach" (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.  La tonalidad ha sido transportada un tono alto respecto al original en FaM.<br /> Armonización y edición audio: R. Páez Perza
+Acompañamiento del "Minuetto de Bach" (en preparación)<br /> OBSERVACIONES<br />La tonalidad ha sido transportada un tono alto respecto al original en FaM. Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
+ - Tempo rápido.
+ - Contiene alteraciones no practicadas (Do#4 y Fa#4).
+ - Emplea un ámbito melódico muy amplio con saltos frecuentes a la 8ª alta.
+ - Aparecen articulaciones muy precisas.
 <br />
 <br />
 

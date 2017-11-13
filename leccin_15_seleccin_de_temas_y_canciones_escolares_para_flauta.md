@@ -17,6 +17,7 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección 7")<br /> Versión 2 -> Se han añadido 4 compases de 'INTRO' (en preparación)<br /> Armonización y edición audio: R. Páez Perza
 <br />
 <br />
+<br />
 
 **2. "ROMANCE DE LA REINA MERCEDES"**
 
@@ -27,7 +28,7 @@ Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección
 Acompañamiento del "Romance de la reina Mercedes" (clicar y tocar)<br /> Armonización y edición audio: R. Páez Perza
 <br />
 <br />
-
+<br />
 
 **3. "CARROS DE FUEGO"**
 ![](/assets/L15_Carros de fuego_Con.gif)
@@ -37,16 +38,23 @@ Acompañamiento del "Romance de la reina Mercedes" (clicar y tocar)<br /> Armoni
 Acompañamiento de "Carros de fuego" (clicar y tocar)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
+<br />
+
 
 **4. "MUSIC ALONE"**<br />
+
 ![](/assets/L15_MusicAlone_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Acompañamiento de "Music alone" (clicar y tocar)<br /> Armonización y edición audio: R. Páez Perza
 <br />
 <br />
+<br />
 
-**5. "WHEN THE SAINTS"**<br />
+
+**5. "WHEN THE SAINTS"**
+<br />
+
 ![](/assets/L15_WhenTheSaints_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -54,6 +62,8 @@ Acompañamiento de "Music alone" (clicar y tocar)<br /> Armonización y edición
 Acompañamiento de "Oh When the Saints" (clicar y tocar)<br /> Armonización y edición audio: R. Páez Perza
 <br />
 <br />
+<br />
+
 
 **6. "PRIMAVERA" (Vivaldi)**
 ![](/assets/L15_Primavera_Vivaldi_Con.gif)
@@ -63,13 +73,18 @@ Acompañamiento de "Oh When the Saints" (clicar y tocar)<br /> Armonización y e
 Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se han añadido 5 compases de 'INTRO' (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
+<br />
 
-**7. "LA DEL MANTÓN DE MANILA"**<br />
+
+**7. "LA DEL MANTÓN DE MANILA"**
+<br />
+
 ![](/assets/L15_MantonManila_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090274&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha añadido una entrada de preaviso de 2 compases (en preparación)
 <br /> OBSERVACIONES<br />- Aunque aparentemente parece difícil de realizar en realidad no lo es.<br />- Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.<br /> Arreglo y edición audio: R. Páez Perza
+<br />
 <br />
 <br />
 
@@ -81,8 +96,10 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
+<br />
 
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
+<br />
 <br />
 <br />
 
@@ -92,11 +109,13 @@ Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)<br /> Arreglo y
 Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
+<br />
 
 **10. "TITANIC"**<br />
 ![](/assets/L15_Titanic_Con.gif)
 
 Acompañamiento de "Titanic" (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
+<br />
 <br />
 <br />
 
@@ -105,6 +124,7 @@ Acompañamiento de "Titanic" (en preparación)<br /> Arreglo y edición audio: R
 
 
 Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 4 compases (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
+<br />
 <br />
 <br />
 
@@ -122,7 +142,7 @@ Acompañamiento de "La vida es bella" (en preparación)<br /> Arreglo y edición
 Acompañamiento de "La lambada" (en preparación)<br /> Arrglo y edición audio: R. Páez Perza
 <br />
 <br />
-
+<br />
 
 **14. "MINUETTO (J.S. Bach)"**
 ![](/assets/L15_MinuettoBach_Con.gif)

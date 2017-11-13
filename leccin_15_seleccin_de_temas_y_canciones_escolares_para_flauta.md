@@ -90,7 +90,7 @@ OBSERVACIONES<br /> Aunque aparentemente parece difícil de realizar en realidad
 <br />
 <br />
 
-**8. "SANCTA MARIA STRELA DO DIA"**
+**8. "SANCTA MARIA STRELA DO DIA"**<br />
 
 ![](/assets/L15_SanctaMariaStrelaDoDia_Con.gif)
 

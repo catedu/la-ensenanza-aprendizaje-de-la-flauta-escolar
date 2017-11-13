@@ -53,7 +53,7 @@ Acompañamiento de "Music alone" (clicar y tocar)<br /> Armonización y edición
 <br />
 <br />
 
-**5. "WHEN THE SAINTS"**
+** 5. "WHEN THE SAINTS" **
 <br />
 
 ![](/assets/L15_WhenTheSaints_Con.gif)
@@ -90,7 +90,7 @@ OBSERVACIONES<br /> Aunque aparentemente parece difícil de realizar en realidad
 <br />
 <br />
 
-**8. "SANCTA MARIA STRELA DO DIA"**<br />
+** 8. "SANCTA MARIA STRELA DO DIA" ** <br />
 
 ![](/assets/L15_SanctaMariaCon.gif)
 

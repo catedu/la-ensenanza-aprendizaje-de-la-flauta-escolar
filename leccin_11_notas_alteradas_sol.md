@@ -16,44 +16,68 @@
 <img src="img/Sol_num__Ejer_1.jpg" alt="Sol# - Ejercicio 1" title="Sol# - Ejercicio 1" height="114" />
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090250&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Acompañamiento del ejercicio 1 (clicar y tocar)
+<br />
+<br />
+
 ![](img/Sol_num__Ejer_2.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090251&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Acompañamiento del ejercicio 2 (clicar y tocar)
+<br />
+<br />
 
 ![](img/Sol_num__Ejer_3.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090252&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Acompañamiento del ejercicio 3 (clicar y tocar)
+<br />
+<br />
 
 ![](img/Sol_num__Ejer_4.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090253&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Acompañamiento del ejercicio 4 (clicar y tocar)
+<br />
+<br />
 
 ![](img/Sol_num__Ejer_5.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090254&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Acompañamiento del ejercicio 5 (clicar y tocar)
+<br />
+<br />
+
 ![](img/Sol_num__Ejer_6.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090256&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Acompañamiento del ejercicio 6 (clicar y tocar)
+<br />
+<br />
 
 ![](img/Sol_num__Ejer_7.jpg)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090257&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+Acompañamiento del ejercicio 7 (clicar y tocar)<br /> Armonización y edición audios: R. Páez Perza
+
+
 
 
 ## Realiza / Interpreta
 
 <img src="img/L11_VidaBella_(flauta)_GRIS.gif" height="355" alt="'La vida es bella' (parte de flauta)" title="'La vida es bella' (parte de flauta)" />
 
-Arreglo y edición audio: R. Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090305&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Arreglo y edición audio: R. Páez Perza
+
+
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

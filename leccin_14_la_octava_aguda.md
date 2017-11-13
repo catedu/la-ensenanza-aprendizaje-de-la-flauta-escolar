@@ -10,11 +10,11 @@ Tocar en el registro agudo o segunda octava dentro del ámbito escolar resulta b
 1. Registro poco "cálido", incluso estridente si no se domina.
 1. La intensidad de la flauta se duplica o triplica
 
-Como ya se mencionó en las primeras lecciones, el registro habitual en el ámbito escolar es el que va del Do3 al Re4 y de manera excepcional del Do3 al Mi4 (con posibilidad de llegar al La4). Llegar a notas más altas resulta excepcional, problemático y no es aconsejable a menos que se domine este registro. 
+Como ya se mencionó en las primeras lecciones, el registro habitual en el ámbito escolar es el que va del Do3 al Re4 y de manera excepcional del Do3 al Mi4. Llegar a notas más altas resulta excepcional, problemático y no es aconsejable a menos que se domine este registro. 
 
 En cuanto a las características del registro agudo es conveniente saber que:
 
-- El La4 ofrece ciertas dificultades de para mantener su sonido estable. Suele "fallar" y es de difícil emisión directa.
+- El La4 ofrece ciertas dificultades para mantener su sonido estable. Suele "fallar" y es de difícil emisión directa.
 - Las notas de este registro requieren algo más de presión de la columna de aire y tienen mucha mayor intensidad.
 - Las posiciones hasta el La4 son las mismas que en el registro grave, abriendo ligeramente el orificio del pulgar izquierdo.
 - Las notas Si4 y Do5 no coinciden con las posiciones de la octava inferior. Y lo mismo cabe decir de las notas alteradas.
@@ -25,36 +25,78 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 ## Ejercicios
 
-<img src="img/Ejercicios_8a_aguda.gif" alt="Ejercicios 8ª aguda" title="Ejercicios 8ª aguda" />
+
+![](/assets/L14_Ejer1_OctAlta.gif)
+Audio del ejercicio 1 (en preparación)
+<br />
+![](/assets/L14_Ejer2_OctAlta.gif)
+Audio del ejercicio 2 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer3_OctAlta.gif)
+Audio del ejercicio 3 (en preparación)
+<br />
+<br />  
+![](/assets/L14_Ejer4_OctAlta.gif)
+Audio del ejercicio 4 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer5_OctAlta.gif)
+Audio del ejercicio 5 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer6_OctAlta.gif)<br /> Audio del ejercicio 6 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer7_OctAlta.gif)<br /> Audio del ejercicio 7 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer8_OctAlta.gif)<br /> Audio del ejercicio 8 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer9_OctAlta.gif)<br /> Audio del ejercicio 9 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer10_OctAlta.gif)<br /> Audio del ejercicio 10 (en preparación)
+<br /> 
+<br /> 
+![](/assets/L14_Ejer11_OctAlta.gif)<br /> Audio del ejercicio 11 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer12_OctAlta.gif)<br /> Audio del ejercicio 12 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer13_OctAlta.gif)<br /> Audio del ejercicio 13 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer14_OctAlta.gif)<br /> Audio del ejercicio 14 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer15_OctAlta.gif)<br /> Audio del ejercicio 15 (en preparación)
+<br />
+<br />
+![](/assets/L14_Ejer16_OctAlta.gif)<br /> Audio del ejercicio 16 (en preparación)<br /> Armonía y edición audios: R. Páez Perza
+
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
-**Actividad de ampliación 1**
+**Actividad de ampliación 1**<br /> Realiza, estudia, interpreta la siguiente frase melódica:
 
 **<img src="img/Frase_1_8a_aguda.gif" alt="Frase 1 (8ª aguda)" title="Frase 1 (8ª aguda)" />**
 
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090266&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Armonización y edición audio: R. Páez Perza
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090266&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+**Actividad de ampliación 2**<br /> Realiza, estudia, interpreta la siguiente frase melódica a dos voces o partes.<br /> Forma de realización:
 
-CLICAR Y TOCAR
-
-**Actividad de ampliación 2**
+- Realizar solo la parte superior (con audio).
+- Realizar solo la parte inferior (con audio).
+- Realizar la actividad a dúo, siempre que sea posible, en colaboración con algún otro compañero-a (con o sin audio).
 
 **<img src="img/Frase_2_8a_aguda_Duo.1.gif" alt="Frase 2 (8ª aguda)" title="Frase 2 (8ª aguda)" />**
 
-
-
-Armonización y edición audio: R. Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-CLICAR Y TOCAR
+Armonización y edición audios: R. Páez Perza
 
-**Forma de realización**<br />
-
-- Realizar la parte superior (con audio).
-- Realizar la parte inferior (con audio).
-- Realizar ambas partes, a dúo (con o sin audio).

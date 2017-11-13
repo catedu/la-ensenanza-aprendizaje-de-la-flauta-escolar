@@ -20,9 +20,6 @@ POSICIÓN ALTERNATIVA DEL Si3
 <img src="img/EjerFla_Si_alternativo.gif" alt="Posición Si alternativo" title="Posición Si alternativo" height="229" />
 
 
-
-
-
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 PRÁCTICA DEL Si3 ALTERNATIVO <br /> Observa los ejercicios 8, 9, 10, 11 y 15 y comprobarás que contienen el paso Si3 a Re4 o viceversa. Realiza-estudia estos ejercicios empleando la posición alternativa para el Si3 teniendo en cuenta lo siguiente:
 
@@ -30,6 +27,24 @@ PRÁCTICA DEL Si3 ALTERNATIVO <br /> Observa los ejercicios 8, 9, 10, 11 y 15 y 
 
 - La posición del Si3 alternativo también puede ser útil en los movimientos melódicos por grados conjuntos. Concretamente cuando la melodía realiza una bordadura o floreo inferior del Do4 (Do-Si-Do). También es posible su empleo en movimientos conjuntos en los que se emplea la posición normal (Re-Do-Si-La-Sol o viceversa). En este último caso es el instrumentista quien debe valorar que camino seguir.
 
-<img src="img/EjerFla_Si_Alternativo_GrConj.1.gif" alt="EjerFla Si alternativo " title="EjerFla Si alternativo " />
+![](/assets/L6_SiAlternativo1.gif)
+
+Audio de acompañamiento ejercicio 1 (en preparación)
+<br />
+
+![](/assets/L6_SiAlternativo2.gif)
+
+Audio de acompañamiento ejercicio 2 (en preparación)
+<br />
+
+![](/assets/L6_SiAlternativo3.gif)
+
+Audio de acompañamiento ejercicio 3 (en preparación)
+<br />
+
+![](/assets/L6_SiAlternativo4.gif)
+
+Audio de acompañamiento ejercicio 4 (en preparación)<br /> Armonización y edición audios: R. Páez Perza
+
 
 

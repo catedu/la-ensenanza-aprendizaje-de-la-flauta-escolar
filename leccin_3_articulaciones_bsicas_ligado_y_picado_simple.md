@@ -15,7 +15,7 @@ El "**legato**" o **ligado** consiste en interpretar dos o más notas seguidas c
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090298&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-COMENTARIO.- 
+COMENTARIO
 La primera ligadura deberá iniciarse con la sílaba 'TU' (golpe de lengua para emitir) y prolongar el soplo o columna de aire durante ocho tiempos o pulsos (4 negras + 2 blancas) de manera ininterrumpida mientras los dedos evolucionan según el ritmo y altura de las notas. Lo segunda y tercera ligaduras funcionarán de la misma manera.
 
 El **picado** se interpreta articulando o emitiendo cada una de las notas con la sílaba TU. Las notas deben "picarse" siempre que no aparezcan ligadas. Una vez picadas o articuladas hay que darles el valor rítmico que cada una tiene (blanca, negra, etc.).
@@ -32,24 +32,16 @@ Realiza los ejercicios siguientes empleando el ligado opcional (ligaduras discon
 
 <img src="img/L3_3.PicadoLigado_Ejercicios_1-2-3.gif" alt="L3_Ejercicios_1-2-3" title="L3_Ejercicios_1-2-3" />
 
-Armonización y edición audio: R.Páez Perza
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090291&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Audios para los ejercicios 1, 2 y 3 -&gt; 
+Audio de acompañamiento para los ejercicios 1, 2 y 3
 
 <img src="img/L3_3.PicadoLigado_Ejercicios_4-12.gif" alt="L3_Ejercicios_4-12" title="L3_Ejercicios_4-12" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090293&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-Metrónomo opcional para los ejercicios 4 al 12 (80 p/m)
 
-
-
- 
-
-
-
-
+Metrónomo opcional para los ejercicios 4 al 12 (90 p/m)<br /> Armonización y edición audios: R.Páez Perza
+<br />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

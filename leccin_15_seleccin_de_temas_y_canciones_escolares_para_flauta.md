@@ -77,18 +77,18 @@ Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se h
 
 
 **7. "LA DEL MANTÓN DE MANILA"**
-<br />
 
 ![](/assets/L15_MantonManila_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090274&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha añadido una entrada de preaviso de 2 compases (en preparación)
-<br /> OBSERVACIONES<br />- Aunque aparentemente parece difícil de realizar en realidad no lo es.<br />- Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.<br /> Arreglo y edición audio: R. Páez Perza
+<br />
+OBSERVACIONES<br />- Aunque aparentemente parece difícil de realizar en realidad no lo es.<br />- Si duplicamos los valores y cambiamos el compás a 4/4, la lectura de este tema resulta mucho más fácil.<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
 <br />
 
-**8. "SANCTA MARIA STRELA DO DIA"**<br />
+**8. "SANCTA MARIA STRELA DO DIA"**
 ![](/assets/L15_SanctaMariaStrelaDoDia_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -111,7 +111,7 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 <br />
 <br />
 
-**10. "TITANIC"**<br />
+**10. "TITANIC"**
 ![](/assets/L15_Titanic_Con.gif)
 
 Acompañamiento de "Titanic" (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
@@ -119,7 +119,7 @@ Acompañamiento de "Titanic" (en preparación)<br /> Arreglo y edición audio: R
 <br />
 <br />
 
-**11. "EL OBOE DE GABRIEL"**<br />
+**11. "EL OBOE DE GABRIEL"**
 ![](/assets/L15_OboeGabriel_Con.gif)
 
 
@@ -129,7 +129,6 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 <br />
 
 **12. "LA VIDA ES BELLA"**
-<br />
 ![](/assets/L15_VidaBella_Con.gif)
 
 Acompañamiento de "La vida es bella" (en preparación)<br /> Arreglo y edición audio: R. Páez Perza

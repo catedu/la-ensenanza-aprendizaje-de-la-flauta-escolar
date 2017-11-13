@@ -10,6 +10,8 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 - Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.
 
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
+<br />
+<br />
 
 **1. "FRERE JACQUES"**
 ![](/assets/L15_FrereJacques_Con.gif)

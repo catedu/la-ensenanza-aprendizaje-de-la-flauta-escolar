@@ -12,7 +12,7 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
 **1. "FRERE JACQUES"**
-![](/assets/L15_Frere_Jacques.gif)
+![](/assets/L15_FrereJacques_Con.gif)
 
 Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección 7")<br /> Versión 2 -> Se han añadido 4 compases de 'INTRO' (en preparación)<br /> Armonización y edición audio: R. Páez Perza
 <br />
@@ -20,7 +20,7 @@ Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección
 
 **2. "ROMANCE DE LA REINA MERCEDES"**
 
-<img src="img/Romance_de_la_reina_Mercedes_(flauta).gif" alt="Romance de la reina Mercedes (flauta)" title="Romance de la reina Mercedes (flauta)" />
+![](/assets/L15_RomanceReinaMercedes_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090297&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -30,7 +30,7 @@ Acompañamiento del "Romance de la reina Mercedes" (clicar y tocar)<br /> Armoni
 
 
 **3. "CARROS DE FUEGO"**
-![](/assets/L15_Carros de fuego.gif)
+![](/assets/L15_Carros de fuego_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090272&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -39,7 +39,7 @@ Acompañamiento de "Carros de fuego" (clicar y tocar)<br /> Arreglo y edición a
 <br />
 
 **4. "MUSIC ALONE"**<br />
-![](/assets/L15_MusicAlone.gif)
+![](/assets/L15_MusicAlone_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Acompañamiento de "Music alone" (clicar y tocar)<br /> Armonización y edición audio: R. Páez Perza
@@ -47,7 +47,7 @@ Acompañamiento de "Music alone" (clicar y tocar)<br /> Armonización y edición
 <br />
 
 **5. "WHEN THE SAINTS"**<br />
-![](/assets/L15_WhenSaints.gif)
+![](/assets/L15_WhenTheSaints_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -56,7 +56,7 @@ Acompañamiento de "Oh When the Saints" (clicar y tocar)<br /> Armonización y e
 <br />
 
 **6. "PRIMAVERA" (Vivaldi)**
-![](/assets/L15_Primavera_Vivaldi.gif)
+![](/assets/L15_Primavera_Vivaldi_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090278&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -64,9 +64,8 @@ Versión 1 -> Para realizar en línea (Cliclar y tocar)<br /> Versión 2 -> Se h
 <br />
 <br />
 
-**7. "LA DEL MANTÓN DE MANILA"**
-
-<img src="img/L15_5_MantonManila_GRIS.gif" alt="La del mantón de Manila (flauta) " title="La del mantón de Manila (flauta) " />
+**7. "LA DEL MANTÓN DE MANILA"**<br />
+![](/assets/L15_MantonManila_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090274&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha añadido una entrada de preaviso de 2 compases (en preparación)
@@ -74,9 +73,8 @@ Versión 1 -> Para realizar en línea (Clicar y tocar)<br /> Versión 2 -> Se ha
 <br />
 <br />
 
-**8. "SANCTA MARIA STRELA DO DIA"**
-
-<img src="img/L15_6_SanctaMariaStrelaDoDia_(Duo)_GRIS.gif" alt="Sancta Maria (flautas)" title="Sancta Maria (flautas)" />
+**8. "SANCTA MARIA STRELA DO DIA"**<br />
+![](/assets/L15_SanctaMariaStrelaDoDia_Con.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -89,22 +87,22 @@ Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)<br /> Arreglo y
 <br />
 
 **9. "MOON RIVER"**<br />
-
-![](/assets/L15_MoonRiver.gif)
+![](/assets/L15_MoonRiver_Con.gif)
 
 Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
 
-**10. "TITANIC"**
-![](/assets/L15_Titanic.gif)
+**10. "TITANIC"**<br />
+![](/assets/L15_Titanic_Con.gif)
 
 Acompañamiento de "Titanic" (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
 
-**11. "EL OBOE DE GABRIEL"**
-![](/assets/L15_OboeGabriel.gif)
+**11. "EL OBOE DE GABRIEL"**<br />
+![](/assets/L15_OboeGabriel_Con.gif)
+
 
 Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se ha añadido una 'INTRO' de 4 compases (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
@@ -112,26 +110,22 @@ Versión 1 -> Para realizar en línea (en preparación)<br /> Versión 2 -> Se h
 
 **12. "LA VIDA ES BELLA"**
 <br />
+![](/assets/L15_VidaBella_Con.gif)
 
-![](/assets/L15_La_vida_es_bella.gif)
 Acompañamiento de "La vida es bella" (en preparación)<br /> Arreglo y edición audio: R. Páez Perza
 <br />
 <br />
 
 **13. "LA LAMBADA"**
-![](/assets/L15_Lambada.gif)
+![](/assets/L15_Lambada_Con.gif)
 
 Acompañamiento de "La lambada" (en preparación)<br /> Arrglo y edición audio: R. Páez Perza
 <br />
 <br />
 
 
-
-
-
-
 **14. "MINUETTO (J.S. Bach)"**
-![](/assets/L15_Minuetto_Bach2.gif)
+![](/assets/L15_MinuettoBach_Con.gif)
 
 Acompañamiento del "Minuetto de Bach" (en preparación)<br /> Nota.- Sin duda, la pieza más difícil de las seleccionadas.  La tonalidad ha sido transportada un tono alto respecto al original en FaM.<br /> Armonización y edición audio: R. Páez Perza
 <br />

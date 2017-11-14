@@ -20,7 +20,8 @@ Audio para acompañar arpegios DoM (en preparación)
 
 
 ![](/assets/EjerFla_Arpegio2_FaM.gif)
-Audio para acompañar arpegios FaM (en preparación)
+
+Audio para acompañar arpegios FaM
 <br />
 <br />
 
@@ -29,49 +30,54 @@ Audio para acompañar arpegios FaM (en preparación)
 
 
 ![](/assets/EjerFla_Arpegio3_Lam.gif)
-Audio para acompañar arpegios La-(en preparación)
+
+Audio para acompañar arpegios La-
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio4_Re-7.gif)
-Audio para acompañar arpegios Re-7 (en preparación)
+
+Audio para acompañar arpegios Re-7
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio5_Re-.gif)
-Audio para acompañar arpegios Re- (en preparación)
+
+Audio para acompañar arpegios Re- 
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio6_Si-7b5.gif)
-Audio para acompañar arpegios Si-7 b5 (en preparación) 
+
+Audio para acompañar arpegios Si-7 b5 
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio7_SolM.gif)
-Audio para acompañar arpegios SolM (en preparación) 
+
+Audio para acompañar arpegios SolM 
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio8_Mi-7.gif)
-Audio para acompañar arpegios Mi-7 (en preparación)
+Audio para acompañar arpegios Mi-7 
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio9_Sol7.gif)
-Audio para acompañar arpegios Sol7 (en preparación)
+Audio para acompañar arpegios Sol7 
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio10_Mi-.gif)
-Audio para acompañar arpegios Mi- (en preparación)
+Audio para acompañar arpegios Mi- 
 
 **Armonización y edición audios**: R. Páez Perza
 <br />

@@ -13,7 +13,7 @@ Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª,
 
  - Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.
 
- - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.<br />
+ - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del bloque o módulo I ("Primera toma de contacto").<br />
  
 **Forma de realización sin audio de acompañamiento**
  - Estudiar cada ejercicio comenzando lentamente e ir ganando velocidad (tempo) poco a poco. La velocidad máxima no debe superar las 100 pulsaciones por minuto.

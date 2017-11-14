@@ -77,6 +77,9 @@ Audio para acompañar arpegios Sol7
 ![](/assets/EjerFla_Arpegio10_Mi-.gif)
 Audio para acompañar arpegios Mi- 
 
+OBSERVACIÓN IMPORTANTE
+En los arpegios G, H I y J es posible emplear el Si alternativo estudiado en la Lección ...
+
 **Armonización y edición audios**: R. Páez Perza
 <br />
 

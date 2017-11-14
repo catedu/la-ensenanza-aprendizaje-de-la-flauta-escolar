@@ -8,7 +8,7 @@ Se denomina arpegio al despliegue melódico de un acorde. Los arpegios que se es
 FORMA DE REALIZACIÓN
 - Con la articulación que aparece en partitura (ligaduras) o bien con todas las notas sueltas (picadas).
 - Conviene estudiar-practicar primero los ejercicios sin audio y activar el audio solo cuando se dominen. 
-- Recordar las directrices que sobre el estudio instrumental se dieron en la "Introducción" del bloque o módulo 1 "Primera toma de contacto"(antes de la Lección 1).
+- Recordar las directrices que sobre el estudio instrumental se dieron en la "Introducción" del bloque o módulo 1 "Primera toma de contacto".
 
 ![](/assets/EjerFla_Arpegio1_DoM.gif)
 Audio para acompañar arpegios DoM (en preparación)

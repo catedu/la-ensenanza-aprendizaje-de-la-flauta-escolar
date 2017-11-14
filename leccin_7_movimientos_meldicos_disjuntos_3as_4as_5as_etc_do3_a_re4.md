@@ -39,8 +39,6 @@ Armonización y edición audio: R. Páez Perza
 
 
 ![](/assets/L7_GraDisjEjer2_1-2.gif)
-El Si del ejercicio 2 puede realizarse con el Si alternativo.
-
 Audio para acompañar los ejercicios 1 y 2
 <br />
 <br />

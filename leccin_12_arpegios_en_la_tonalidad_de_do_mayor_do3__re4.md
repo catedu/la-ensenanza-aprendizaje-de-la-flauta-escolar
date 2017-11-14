@@ -48,8 +48,7 @@ Audio para acompañar arpegios Re-
 <br />
 <br />
 
-
-![](/assets/EjerFla_Arpegio6_Si-7b5.gif)
+![](/assets/EjerFla_Arpegio6_F_Partitura_Si-7b5.gif)
 
 Audio para acompañar arpegios Si-7 b5 
 <br />

@@ -42,8 +42,7 @@ Audio para acompañar arpegios Re-7
 <br />
 <br />
 
-
-![](/assets/EjerFla_Arpegio5_Re-.gif)
+![](/assets/L12_Arpegio5_E_Partitura_Re-.gif)
 
 Audio para acompañar arpegios Re- 
 <br />

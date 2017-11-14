@@ -39,21 +39,29 @@ Armonización y edición audio: R. Páez Perza
 
 
 ![](/assets/L7_GraDisjEjer2_1-2.gif)
+El Si del ejercicio 2 puede realizarse con el Si alternativo.
+
 Audio para acompañar los ejercicios 1 y 2
 <br />
 <br />
 
 ![](/assets/L7_GraDisjEjer2_3-4.gif)
+El Si del ejercicio 3 puede realizarse con el Si alternativo (bordadura o floreo inferior del Do).
+
 Audio para acompañar los ejercicios 3 y 4
 <br />
 <br />
 
 ![](/assets/L7_GraDisjEjer2_5-6.gif)
+El Si del ejercicio 6 puede realizarse tanto con el Si normal como con el Si alternativo.
+
 Audio para acompañar los ejercicios 5 y 6
 <br />
 <br />
 
 ![](/assets/L7_GraDisjEjer2_7-8.gif)
+El Si del ejercicio 7 conviene hacerlo con el Si alternativo.
+
 Audio para acompañar los ejercicios 7 y 8
 <br />
 <br />

@@ -29,17 +29,17 @@ PRÁCTICA DEL Si3 ALTERNATIVO <br /> Observa los ejercicios 8, 9, 10, 11 y 15 y 
 
 ![](/assets/L6_SiAlternativo1.gif)
 
-Audio de acompañamiento ejercicio 1 (en preparación)
+Audio de acompañamiento ejercicio 1
 <br />
 
 ![](/assets/L6_SiAlternativo2.gif)
 
-Audio de acompañamiento ejercicio 2 (en preparación)
+Audio de acompañamiento ejercicio 2
 <br />
 
 ![](/assets/L6_SiAlternativo3.gif)
 
-Audio de acompañamiento ejercicio 3 (en preparación)
+Audio de acompañamiento ejercicio 3
 <br />
 
 ![](/assets/L6_SiAlternativo4.gif)

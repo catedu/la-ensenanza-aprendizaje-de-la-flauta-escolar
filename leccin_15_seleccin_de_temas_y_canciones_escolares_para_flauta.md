@@ -185,15 +185,17 @@ Arreglo y edición audio: R. Páez Perza
 
 Acompañamiento del "Minuetto de Bach" 
 
-OBSERVACIONES
-a tonalidad ha sido transportada un tono alto respecto al original en FaM. Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
+
+La tonalidad ha sido transportada un tono alto respecto al original en FaM. Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
  - Tempo rápido.
  - Contiene alteraciones no practicadas (Do#4 y Fa#4).
  - Emplea un ámbito melódico muy amplio con incursiones frecuentes a la 8ª alta.
  - Aparecen articulaciones muy precisas.
 
 
-NOTA.- En **[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)**  encontrarás algunos de estos audios de acompañamiento completos.<strong style="color: #800000; font-size: medium;">
+**OBSERVACIÓN IMPORTANTE**
+
+En **[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)**  encontrarás algunos de estos audios de acompañamiento completos.<strong style="color: #800000; font-size: medium;">
 
  
 

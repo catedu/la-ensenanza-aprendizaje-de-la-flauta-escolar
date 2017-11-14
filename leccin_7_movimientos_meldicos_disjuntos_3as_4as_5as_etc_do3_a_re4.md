@@ -76,6 +76,8 @@ Audio para acompañar los ejercicios 11 y 12
 <br />
 
 ![](/assets/L7_GraDisj2_13-14.gif)
+El Si del ejercicio 13 conviene hacerlo con el Si alternativo.
+
 Audio para acompañar los ejercicios 13 y 14<br /> Armonización y edición audios: R.Páez Perza
 <br />
 

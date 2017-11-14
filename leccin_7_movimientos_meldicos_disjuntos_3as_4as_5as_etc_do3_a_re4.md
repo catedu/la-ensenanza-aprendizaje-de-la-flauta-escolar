@@ -25,7 +25,7 @@ Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª,
 
 
 
-**EJERCICIO 1 (A - B)**
+**EJERCICIO 1**
 ![Grados disjuntos 3as y 4as](img/EjerFla_GradosDisj_3as_4as.gif)
 
 
@@ -35,7 +35,7 @@ Armonización y edición audio: R. Páez Perza
 <br />
 <br />
 
-**EJERCICIO 2 (1 al 14)**<br />
+**EJERCICIO 2**<br />
 
 
 ![](/assets/L7_GraDisjEjer2_1-2.gif)

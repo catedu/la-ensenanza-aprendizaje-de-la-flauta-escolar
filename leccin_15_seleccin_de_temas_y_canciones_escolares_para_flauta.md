@@ -20,9 +20,9 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 **1. "FRERE JACQUES"**
 ![](/assets/L15_FrereJacques_Con.gif)
 
-Versión 1 -> Para realizar en línea (Ver "Actividad de ampliación 1, Lección 7")
+Versión 1 -> Para realizar en línea.
 
-Versión 2 -> Se han añadido 4 compases de 'INTRO' (en preparación)
+Versión 2 -> Se han añadido 4 compases de 'INTRO' para dar más tiempo antes de comenzar.
 
 Armonización y edición audio: R. Páez Perza
 
@@ -86,7 +86,9 @@ Armonización y edición audio: R. Páez Perza
 
 Versión 1 -> Para realizar en línea (Cliclar y tocar)
 
-Versión 2 -> Se han añadido 5 compases de 'INTRO' (en preparación)
+Versión 2 -> Se han añadido 5 compases de 'INTRO' para dar más tiempo antes de comenzar.
+
+
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -125,9 +127,11 @@ Arreglo y edición audio: R. Páez Perza
 
 **9. "MOON RIVER"**![](/assets/L15_MoonRiver_Con.gif)
 
-Versión 1 -> Para realizar en línea (en preparación)
+Versión 1 -> Para realizar en línea.
 
-Versión 2 -> Se ha añadido una 'INTRO' de 8 compases (en preparación). 
+Versión 2 -> Se ha añadido una 'INTRO' de 8 compases para dar más tiempo antes de comenzar.
+
+ 
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -136,7 +140,7 @@ Arreglo y edición audio: R. Páez Perza
 **10. "TITANIC"**
 ![](/assets/L15_Titanic_Con.gif)
 
-Acompañamiento de "Titanic" (en preparación)
+Acompañamiento de "Titanic"
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -146,9 +150,11 @@ Arreglo y edición audio: R. Páez Perza
 ![](/assets/L15_OboeGabriel_Con.gif)
 
 
-Versión 1 -> Para realizar en línea (en preparación)
+Versión 1 -> Para realizar en línea.
 
-Versión 2 -> Se ha añadido una 'INTRO' de 4 compases (en preparación)
+Versión 2 -> Se ha añadido una 'INTRO' de 4 compases para dar más tiempo antes de comenzar.
+
+
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -159,7 +165,7 @@ Arreglo y edición audio: R. Páez Perza
 **12. "LA VIDA ES BELLA"**
 ![](/assets/L15_VidaBella_Con.gif)
 
-Acompañamiento de "La vida es bella" (en preparación)
+Acompañamiento de "La vida es bella".
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -168,7 +174,7 @@ Arreglo y edición audio: R. Páez Perza
 **13. "LA LAMBADA"**
 ![](/assets/L15_Lambada_Con.gif)
 
-Acompañamiento de "La lambada" (en preparación)
+Acompañamiento de "La lambada".
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -177,7 +183,8 @@ Arreglo y edición audio: R. Páez Perza
 **14. "MINUETTO (J.S. Bach)"**
 ![](/assets/L15_MinuettoBach_Con.gif)
 
-Acompañamiento del "Minuetto de Bach" (en preparación)
+Acompañamiento del "Minuetto de Bach" 
+
 OBSERVACIONES
 a tonalidad ha sido transportada un tono alto respecto al original en FaM. Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
  - Tempo rápido.

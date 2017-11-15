@@ -210,6 +210,9 @@ Acompañamiento del "Minuetto de Bach"
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065481&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
+Arreglo y edición audio: R. Páez Perza
+
+OBSERVACIONES
 Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
  - Tempo rápido.
  - Contiene alteraciones no practicadas (Do#4 y Fa#4).

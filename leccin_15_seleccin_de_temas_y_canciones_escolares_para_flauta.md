@@ -180,7 +180,7 @@ Arreglo y edición audio: R. Páez Perza
 **12. "LA VIDA ES BELLA"**
 ![](/assets/L15_VidaBella_Con.gif)
 
-OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico es conveniente elegir la superior (octava aguda). En la octava grave también son aceptables. 
+OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico es conveniente elegir la superior (octava aguda). En la octava grave también es aceptable. 
 
 Acompañamiento de "La vida es bella".
 

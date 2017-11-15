@@ -11,7 +11,7 @@ FORMA DE REALIZACIÓN
 - Recordar las directrices que sobre el estudio instrumental se dieron en la "Introducción" del bloque o módulo 1 "Primera toma de contacto".
 
 ![](/assets/EjerFla_Arpegio1_DoM.gif)
-Audio para acompañar arpegios DoM (en preparación)
+Audio para acompañar arpegios DoM
 <br />
 <br />
 
@@ -97,4 +97,4 @@ Realiza todos los ejercicios que contengan la nota Fa y cámbialas por Fa# (los 
 
 **Actividad de ampliación 3**
 
- Realiza todos los ejercicios que contengan la nota Sol y cámbialas por Sol# (los Fa y los Si deben ser naturales).
+ Realiza todos los ejercicios que contengan la nota Sol y cámbialas por Sol# (los **Fa** deben ser sostenidos o naturales y los **Si** naturales).

@@ -213,6 +213,7 @@ Acompañamiento del "Minuetto de Bach"
 Arreglo y edición audio: R. Páez Perza
 
 OBSERVACIONES
+
 Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
  - Tempo rápido.
  - Contiene alteraciones no practicadas (Do#4 y Fa#4).

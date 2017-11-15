@@ -147,6 +147,9 @@ Arreglo y edición audio: R. Páez Perza
 **10. "TITANIC"**
 ![](/assets/L15_Titanic_Con.gif)
 
+OBSERVACIÓN.- Elegir la voz o parte superior cuando aparezcan dos voces o partes.
+
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065505&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Acompañamiento de "Titanic"
@@ -158,6 +161,7 @@ Arreglo y edición audio: R. Páez Perza
 **11. "EL OBOE DE GABRIEL"**
 ![](/assets/L15_OboeGabriel_Con.gif)
 
+OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico hay que elegir la superior que es la que corresponde a la melodía principal.
 
 Versión 1 -> Para realizar en línea.
 
@@ -176,6 +180,8 @@ Arreglo y edición audio: R. Páez Perza
 **12. "LA VIDA ES BELLA"**
 ![](/assets/L15_VidaBella_Con.gif)
 
+OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico es conveniente elegir la superior (octava aguda). En la octava grave también son aceptables. 
+
 Acompañamiento de "La vida es bella".
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065487&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
@@ -186,6 +192,8 @@ Arreglo y edición audio: R. Páez Perza
 
 **13. "LA LAMBADA"**
 ![](/assets/L15_Lambada_Con.gif)
+
+OBSERVACIÓN.- Evidentemente hay que realizar la voz o parte principal (pentagrama superior).
 
 Acompañamiento de "La lambada".
 
@@ -202,16 +210,16 @@ Acompañamiento del "Minuetto de Bach"
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065481&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-La tonalidad ha sido transportada un tono alto respecto al original en FaM. Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
+Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
  - Tempo rápido.
  - Contiene alteraciones no practicadas (Do#4 y Fa#4).
  - Emplea un ámbito melódico muy amplio con incursiones frecuentes a la 8ª alta.
  - Aparecen articulaciones muy precisas.
+ - La tonalidad ha sido transportada un tono alto respecto al tema en su versión original (FaM). 
 
 
-**OBSERVACIÓN IMPORTANTE**
 
-En **[www.adarmus.com](http://www.adarmus.com/zMiscelanea.htm)**  encontrarás algunos de estos audios de acompañamiento completos.<strong style="color: #800000; font-size: medium;">
+
 
  
 

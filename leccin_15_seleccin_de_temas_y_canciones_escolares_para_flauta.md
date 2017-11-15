@@ -22,7 +22,12 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 
 Versión 1 -> Para realizar en línea.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065586&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+
 Versión 2 -> Se han añadido 4 compases de 'INTRO' para dar más tiempo antes de comenzar.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065583&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Armonización y edición audio: R. Páez Perza
 
@@ -33,7 +38,7 @@ Armonización y edición audio: R. Páez Perza
 
 ![](/assets/L15_RomanceReinaMercedes_Con.gif)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090297&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065580&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Acompañamiento del "Romance de la reina Mercedes" (clicar y tocar)
 
@@ -45,7 +50,7 @@ Armonización y edición audio: R. Páez Perza
 **3. "CARROS DE FUEGO"**
 ![](/assets/L15_Carros de fuego_Con.gif)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090272&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065577&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Acompañamiento de "Carros de fuego" (clicar y tocar)
 
@@ -59,7 +64,7 @@ Arreglo y edición audio: R. Páez Perza
 **4. "MUSIC ALONE"**
 ![](/assets/L15_MusicAlone_Con.gif)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065574&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Acompañamiento de "Music alone" (clicar y tocar)
 
@@ -71,7 +76,7 @@ Armonización y edición audio: R. Páez Perza
 
 ![](/assets/L15_WhenTheS_Con.gif)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065568&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Acompañamiento de "Oh When the Saints" (clicar y tocar)
 
@@ -82,13 +87,13 @@ Armonización y edición audio: R. Páez Perza
 **6. "PRIMAVERA" (Vivaldi)**
 ![](/assets/L15_Primavera_Vivaldi_Con.gif)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090278&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
 Versión 1 -> Para realizar en línea (Cliclar y tocar)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065565&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Versión 2 -> Se han añadido 5 compases de 'INTRO' para dar más tiempo antes de comenzar.
 
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065562&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -98,7 +103,7 @@ Arreglo y edición audio: R. Páez Perza
 
 ![](/assets/L15_MantonManila_Con.gif)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090274&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065556&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 OBSERVACIONES
 
@@ -114,7 +119,7 @@ Arreglo y edición audio: R. Páez Perza
 
 ![](/assets/L15_SanctaMariaCon.gif)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090279&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065517&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)
 
@@ -129,9 +134,11 @@ Arreglo y edición audio: R. Páez Perza
 
 Versión 1 -> Para realizar en línea.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065514&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
 Versión 2 -> Se ha añadido una 'INTRO' de 8 compases para dar más tiempo antes de comenzar.
 
- 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065508&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe> 
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -139,6 +146,8 @@ Arreglo y edición audio: R. Páez Perza
 
 **10. "TITANIC"**
 ![](/assets/L15_Titanic_Con.gif)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065505&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Acompañamiento de "Titanic"
 
@@ -152,9 +161,11 @@ Arreglo y edición audio: R. Páez Perza
 
 Versión 1 -> Para realizar en línea.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065502&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
 Versión 2 -> Se ha añadido una 'INTRO' de 4 compases para dar más tiempo antes de comenzar.
 
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065496&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -167,6 +178,8 @@ Arreglo y edición audio: R. Páez Perza
 
 Acompañamiento de "La vida es bella".
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065487&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
 Arreglo y edición audio: R. Páez Perza
 
 <br />
@@ -175,6 +188,8 @@ Arreglo y edición audio: R. Páez Perza
 ![](/assets/L15_Lambada_Con.gif)
 
 Acompañamiento de "La lambada".
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065484&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 Arreglo y edición audio: R. Páez Perza
 
@@ -185,6 +200,7 @@ Arreglo y edición audio: R. Páez Perza
 
 Acompañamiento del "Minuetto de Bach" 
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065481&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 La tonalidad ha sido transportada un tono alto respecto al original en FaM. Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
  - Tempo rápido.

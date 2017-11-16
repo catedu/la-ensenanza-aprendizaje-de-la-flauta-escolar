@@ -1,7 +1,7 @@
 
-# Fin
 
-Con este sencillo curso hemos aprendido los aspectos básicos de la técnica para flauta escolar (dulce o de pico), lo cual nos permitirá afrontar con éxito el aprendizaje de muchísimos temas y canciones. No obstante, aun queda mucho por aprender, este curso no es más que el comienzo. La base técnica ha sido establecida aunque hay que tener muy claro que en el aprendizaje de cualquier instrumento musical lo importante es la constancia, el dedicarle un tiempo diario al estudio.
+
+Con este sencillo curso hemos aprendido los aspectos básicos de la técnica para flauta escolar (dulce o de pico), lo cual nos permitirá afrontar con éxito el aprendizaje de muchísimos temas y canciones. No obstante, aun queda mucho por aprender, este curso no es más que el comienzo. La base técnica ha sido establecida aunque hay que tener muy claro que en el aprendizaje de cualquier instrumento musical lo importante es la constancia, el dedicar un tiempo diario al estudio.
 
 Espero que este curso os haya sido útil.
 
@@ -11,7 +11,7 @@ Los ejercicios y actividades de este curso pueden ser empleados también con vue
 
 - Ordenador y acceso a Internet
 - Amplificación para escuchar los audios.
-- Pantalla de vídeo para visualizar los ejercicios o bien disponer de ellos en partitura.
+- Pantalla de vídeo para visualizar las imágenes de las partituras (ejercicios, temas) o bien disponer de ellas en papel.
 
 <br /> **RAFAEL PÁEZ PERZA**<br /> Profesor Música del I.E.S. "La Llitera"<br /> Tamarite de Litera (Huesca)
 

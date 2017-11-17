@@ -52,7 +52,7 @@ Audio del ejercicio 5
 ![](/assets/L14_Ejer7_OctAlta.gif)<br /> Audio del ejercicio 7 
 <br />
 <br />
-![](/assets/L14_Ejer8_OctAlta.gif)<br /> Audio del ejercicio 8 
+![](/assets/L14_Ejer8_OctAlta.gif)<br /> El Si3 debe realizarse por la posición alternativa.<br /> Audio del ejercicio 8 
 <br />
 <br />
 ![](/assets/L14_Ejer9_OctAlta.gif)<br /> Audio del ejercicio 9 
@@ -67,7 +67,7 @@ Audio del ejercicio 5
 ![](/assets/L14_Ejer12_OctAlta.gif)<br /> Audio del ejercicio 12 
 <br />
 <br />
-![](/assets/L14_Ejer13_OctAlta.gif)<br /> Audio del ejercicio 13 
+![](/assets/L14_Ejer13_OctAlta.gif)<br /> El Si3 debe realizarse por la posición alternativa.<br /> Audio del ejercicio 13 
 <br />
 <br />
 ![](/assets/L14_Ejer14_OctAlta.gif)<br /> Audio del ejercicio 14 

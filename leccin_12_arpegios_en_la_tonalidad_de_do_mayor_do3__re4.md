@@ -50,6 +50,7 @@ Audio para acompañar arpegios Re-
 
 ![](/assets/EjerFla_Arpegio6_F_Partitura_Si-7b5.gif)
 
+El Si3 del primer ejercicio puede realizarse indistintamente por la posición normal y/o la alternativa. En los dos ejercicios siguientes, dado que el Si3 se dirige al Re4 y viceversa, conviene emplear la posición del Si3 alternativo (ver Lección 6).
 Audio para acompañar arpegios Si-7 b5 
 <br />
 <br />
@@ -57,18 +58,21 @@ Audio para acompañar arpegios Si-7 b5
 
 ![](/assets/EjerFla_Arpegio7_SolM.gif)
 
+Idem respecto al Si3 alternativo que el ejercicio anterior (F).
 Audio para acompañar arpegios SolM 
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio8_Mi-7.gif)
+Idem respecto al Si3 alternativo que los dos ejercicios anteriores (F, G).
 Audio para acompañar arpegios Mi-7 
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio9_Sol7.gif)
+Todos los Si3 deben realizarse por la posición alternativa.
 Audio para acompañar arpegios Sol7 
 <br />
 <br />

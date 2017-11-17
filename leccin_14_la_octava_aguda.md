@@ -87,7 +87,7 @@ Audio del ejercicio 5
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090266&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Armonización y edición audio: R. Páez Perza
+**Armonización y edición audio**: R. Páez Perza
 
 **Actividad de ampliación 2**<br /> Realiza, estudia, interpreta la siguiente frase melódica a dos voces o partes.<br /> Forma de realización:
 
@@ -99,5 +99,5 @@ Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Armonización y edición audio: R. Páez Perza
+**Armonización y edición audio**: R. Páez Perza
 

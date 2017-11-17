@@ -59,7 +59,7 @@ Audio para acompañar arpegios Si-7 b5
 
 ![](/assets/EjerFla_Arpegio7_SolM.gif)
 
-Idem respecto al Si3 alternativo que el ejercicio anterior (F).
+Idem respecto al Si3 alternativo que el ejercicio anterior (ver Lección 6).
 
 Audio para acompañar arpegios SolM 
 <br />
@@ -67,7 +67,7 @@ Audio para acompañar arpegios SolM
 
 
 ![](/assets/EjerFla_Arpegio8_Mi-7.gif)
-Idem respecto al Si3 alternativo que los dos ejercicios anteriores (F, G).
+Idem respecto al Si3 alternativo que los dos ejercicios anteriores (ver Lección 6).
 
 Audio para acompañar arpegios Mi-7 
 <br />
@@ -75,7 +75,7 @@ Audio para acompañar arpegios Mi-7
 
 
 ![](/assets/EjerFla_Arpegio9_Sol7.gif)
-Todos los Si3 deben realizarse por la posición alternativa.
+Todos los Si3 deben realizarse por la posición alternativa (ver Lección 6).
 
 Audio para acompañar arpegios Sol7 
 <br />
@@ -84,9 +84,6 @@ Audio para acompañar arpegios Sol7
 
 ![](/assets/EjerFla_Arpegio10_Mi-.gif)
 Audio para acompañar arpegios Mi- 
-
-OBSERVACIÓN IMPORTANTE
-En los arpegios G, H, I y J es posible emplear el Si alternativo estudiado en la Lección 6.
 
 **Armonización y edición audios**: R. Páez Perza
 <br />

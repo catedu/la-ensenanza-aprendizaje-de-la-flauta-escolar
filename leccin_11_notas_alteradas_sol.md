@@ -14,6 +14,7 @@
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 
 <img src="img/Sol_num__Ejer_1.jpg" alt="Sol# - Ejercicio 1" title="Sol# - Ejercicio 1" height="114" />
+
 ![](/assets/L11_Ejer_Sol#1_Armonizacion.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090250&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

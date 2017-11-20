@@ -11,7 +11,7 @@ FORMA DE REALIZACIÓN
 - Recordar las directrices que sobre el estudio instrumental se dieron en la "Introducción" del bloque o módulo 1 "Primera toma de contacto".
 
 ![](/assets/EjerFla_Arpegio1_DoM.gif)
-Audio para acompañar arpegios DoM
+Audio para acompañar arpegios DoM (en preparación)
 <br />
 <br />
 
@@ -21,7 +21,7 @@ Audio para acompañar arpegios DoM
 
 ![](/assets/EjerFla_Arpegio2_FaM.gif)
 
-Audio para acompañar arpegios FaM
+Audio para acompañar arpegios FaM (en preparación)
 <br />
 <br />
 
@@ -31,20 +31,20 @@ Audio para acompañar arpegios FaM
 
 ![](/assets/EjerFla_Arpegio3_Lam.gif)
 
-Audio para acompañar arpegios La-
+Audio para acompañar arpegios La- (en preparación)
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio4_Re-7.gif)
 
-Audio para acompañar arpegios Re-7
+Audio para acompañar arpegios Re-7 (en preparación)
 <br />
 <br />
 
 ![](/assets/L12_Arpegio5_E_Partitura_Re-.gif)
 
-Audio para acompañar arpegios Re- 
+Audio para acompañar arpegios Re- (en preparación)
 <br />
 <br />
 
@@ -52,7 +52,7 @@ Audio para acompañar arpegios Re-
 
 El Si3 del primer ejercicio puede realizarse indistintamente por la posición normal y/o la alternativa. En los dos ejercicios siguientes, dado que el Si3 se dirige al Re4 y viceversa, conviene emplear la posición del Si3 alternativo (ver Lección 6).
 
-Audio para acompañar arpegios Si-7 b5 
+Audio para acompañar arpegios Si-7 b5 (en preparación)
 <br />
 <br />
 
@@ -61,7 +61,7 @@ Audio para acompañar arpegios Si-7 b5
 
 Idem respecto al Si3 alternativo que el ejercicio anterior (ver Lección 6).
 
-Audio para acompañar arpegios SolM 
+Audio para acompañar arpegios SolM (en preparación)
 <br />
 <br />
 
@@ -69,7 +69,7 @@ Audio para acompañar arpegios SolM
 ![](/assets/EjerFla_Arpegio8_Mi-7.gif)
 Idem respecto al Si3 alternativo que los dos ejercicios anteriores (ver Lección 6).
 
-Audio para acompañar arpegios Mi-7 
+Audio para acompañar arpegios Mi-7 (en preparación)
 <br />
 <br />
 
@@ -77,13 +77,13 @@ Audio para acompañar arpegios Mi-7
 ![](/assets/EjerFla_Arpegio9_Sol7.gif)
 Todos los Si3 deben realizarse por la posición alternativa (ver Lección 6).
 
-Audio para acompañar arpegios Sol7 
+Audio para acompañar arpegios Sol7 (en preparación)
 <br />
 <br />
 
 
 ![](/assets/EjerFla_Arpegio10_Mi-.gif)
-Audio para acompañar arpegios Mi- 
+Audio para acompañar arpegios Mi- (en preparación)
 
 **Armonización y edición audios**: R. Páez Perza
 <br />

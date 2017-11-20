@@ -2,6 +2,8 @@
 # Lección 9.- "Notas alteradas: Sib"
 ![](/assets/L9_Posicion_Sib.gif)
 
+El empleo de notas alteradas en la flauta dulce o de pico, complica bastante la realización melódica. 
+Como puede comprobarse la posición del Sib es similar a la posición del Fa natural pero sin el dedo medio de la mano izquierda, lo que complica el paso por grado conjunto a la nota superior (Do) e inferior (La). No obstante, las dificultades técnicas se superan con la práctica regular de ejercicios y melodías que contengan el Sib. 
 ### EJERCICIOS
 
 **Forma de realización**
@@ -31,6 +33,12 @@ Audio del ejercicio 3 (clicar y tocar)
 ![](/assets/L9_Ejer4_Sib_IMAGE.gif)
 
 Audio del ejercicio 4 (en preparación)
+
+![](/assets/L9_Ejer5_Sib_Flauta.gif)
+
+Audio del ejercicio 5 (en preparación)
+
+
 
 
 

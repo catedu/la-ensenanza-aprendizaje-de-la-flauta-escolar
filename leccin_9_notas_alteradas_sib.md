@@ -28,6 +28,12 @@ Audio del ejercicio 2 (clicar y tocar)
 
 Audio del ejercicio 3 (clicar y tocar)
 
+![](/assets/L9_Ejer4_Sib_IMAGE.gif)
+
+Audio del ejercicio 4 (en preparación)
+
+
+
 ## Realiza
 
 Aquí tienes el tema central de la película "Titanic" del compositor H. Horner: "My heart will go on" en un arreglo para flauta escolar con acompañamiento. Debes empezar a tocar en la casilla de 2ª de la primera repetición (compás 11).

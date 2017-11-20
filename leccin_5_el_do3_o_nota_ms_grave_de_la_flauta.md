@@ -12,31 +12,31 @@ EJERCICIOS <br /> Recordar las indicaciones que sobre el estudio instrumental se
 
 ![](/assets/M2_L5_Do3_1a4.gif)
 
-Audio para los ejercicios 1 a 4
+Audio para los ejercicios 1 a 4 (en preparación)
 <br />
 <br />
 
 ![](/assets/M2_L5_Do3_5a7.gif)
 
-Audio para los ejercicios 5 a 7
+Audio para los ejercicios 5 a 7 (en preparación)
 <br />
 <br />
 
 ![](/assets/M2_L5_Do3_8a10.gif)
 
-Audio para los ejercicios 8 a 10
+Audio para los ejercicios 8 a 10 (en preparación)
 <br />
 <br />
 
 ![](/assets/M2_L5_Do3_11a13.gif)
 
-Audio para los ejercicios 11 a 13
+Audio para los ejercicios 11 a 13 (en preparación)
 <br />
 <br />
 
 ![](/assets/M2_L5_Do3_14a16.gif)
 
-Audio para los ejercicios 14 a 16
+Audio para los ejercicios 14 a 16 (en preparación)
 <br />
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

@@ -40,9 +40,7 @@ Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065580&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Acompañamiento del "Romance de la reina Mercedes" (clicar y tocar)
-
-Armonización y edición audio: R. Páez Perza
+Audio para acompañar "Romance de la reina Mercedes" // Armonización y edición audio: R. Páez Perza
 
 <br />
 
@@ -52,9 +50,7 @@ Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065577&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Acompañamiento de "Carros de fuego" (clicar y tocar)
-
-Arreglo y edición audio: R. Páez Perza
+Audio para acompañar "Carros de fuego" // Arreglo y edición audio: R. Páez Perza
 
 <br />
 
@@ -66,9 +62,7 @@ Arreglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065574&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Acompañamiento de "Music alone" (clicar y tocar)
-
-Armonización y edición audio: R. Páez Perza
+Audio para acompañar "Music alone" // Armonización y edición audio: R. Páez Perza
 
 <br />
 
@@ -78,9 +72,7 @@ Armonización y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065568&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Acompañamiento de "Oh When the Saints" (clicar y tocar)
-
-Armonización y edición audio: R. Páez Perza
+Audio para acompañar "Oh When the Saints" // Armonización y edición audio: R. Páez Perza
 
 <br />
 
@@ -121,9 +113,7 @@ Arreglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065517&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Acompañamiento de "Sancta Maria strela do dia" (clicar y tocar)
-
-Arreglo y edición audio: R. Páez Perza
+Audio para acompañar "Sancta Maria strela do dia" // Arreglo y edición audio: R. Páez Perza
 
 <iframe width="100%" height="400" style="display: block; margin-left: auto; margin-right: auto;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/9w9EgEHEBiQ?rel=0"></iframe>
 
@@ -152,9 +142,7 @@ OBSERVACIÓN.- Elegir la voz o parte superior cuando aparezcan dos voces o parte
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065505&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Acompañamiento de "Titanic"
-
-Arreglo y edición audio: R. Páez Perza
+Audio para acompañar "Titanic" // Arreglo y edición audio: R. Páez Perza
 
 <br />
 
@@ -182,11 +170,9 @@ Arreglo y edición audio: R. Páez Perza
 
 OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico es conveniente elegir la superior (octava aguda). En la octava grave también es aceptable. 
 
-Acompañamiento de "La vida es bella".
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065487&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Arreglo y edición audio: R. Páez Perza
+Audio para acompañar "La vida es bella" // Arreglo y edición audio: R. Páez Perza
 
 <br />
 
@@ -195,22 +181,18 @@ Arreglo y edición audio: R. Páez Perza
 
 OBSERVACIÓN.- Evidentemente hay que realizar la voz o parte principal (pentagrama superior).
 
-Acompañamiento de "La lambada".
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065484&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Arreglo y edición audio: R. Páez Perza
+Audio para acompañar "La lambada" // Arreglo y edición audio: R. Páez Perza
 
 <br />
 
 **14. "MINUETTO (J.S. Bach)"**
 ![](/assets/L15_MinuettoBach_Con.gif)
 
-Acompañamiento del "Minuetto de Bach" 
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065481&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Arreglo y edición audio: R. Páez Perza
+Audio para acompañar "Minuetto de Bach" // Arreglo y edición audio: R. Páez Perza
 
 OBSERVACIONES<br />La tonalidad ha sido transportada un tono alto respecto al tema en su versión original (FaM).<br />Sin duda se trata de la pieza más difícil de las seleccionadas debido a: 
  - Tempo rápido.

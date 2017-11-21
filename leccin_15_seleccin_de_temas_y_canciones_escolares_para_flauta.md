@@ -20,12 +20,12 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 **1. "FRERE JACQUES"**
 ![](/assets/L15_FrereJacques_Con.gif)
 
-Versión 1 -> Para realizar en línea.
+**Versión 1** -> Para realizar en línea.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065586&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 
-Versión 2 -> Se han añadido 4 compases de 'INTRO' para dar más tiempo antes de comenzar.
+**Versión 2** -> Se han añadido 4 compases de 'INTRO' para dar más tiempo antes de comenzar.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065583&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
@@ -87,11 +87,11 @@ Armonización y edición audio: R. Páez Perza
 **6. "PRIMAVERA" (Vivaldi)**
 ![](/assets/L15_Primavera_Vivaldi_Con.gif)
 
-Versión 1 -> Para realizar en línea (Cliclar y tocar)
+**Versión 1** -> Para realizar en línea (Cliclar y tocar)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065565&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Versión 2 -> Se han añadido 5 compases de 'INTRO' para dar más tiempo antes de comenzar.
+**Versión 2** -> Se han añadido 5 compases de 'INTRO' para dar más tiempo antes de comenzar.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065562&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
@@ -132,11 +132,11 @@ Arreglo y edición audio: R. Páez Perza
 
 **9. "MOON RIVER"**![](/assets/L15_MoonRiver_Con.gif)
 
-Versión 1 -> Para realizar en línea.
+**Versión 1** -> Para realizar en línea.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065514&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Versión 2 -> Se ha añadido una 'INTRO' de 8 compases para dar más tiempo antes de comenzar.
+**Versión 2** -> Se ha añadido una 'INTRO' de 8 compases para dar más tiempo antes de comenzar.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065508&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe> 
 
@@ -163,11 +163,11 @@ Arreglo y edición audio: R. Páez Perza
 
 OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico hay que elegir la superior que es la que corresponde a la melodía principal.
 
-Versión 1 -> Para realizar en línea.
+**Versión 1** -> Para realizar en línea.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065502&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Versión 2 -> Se ha añadido una 'INTRO' de 4 compases para dar más tiempo antes de comenzar.
+**Versión 2** -> Se ha añadido una 'INTRO' de 4 compases para dar más tiempo antes de comenzar.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065496&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 

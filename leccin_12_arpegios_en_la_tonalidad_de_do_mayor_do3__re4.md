@@ -73,8 +73,7 @@ Audio para acompañar arpegios Mi-7 (en preparación)
 <br />
 <br />
 
-
-![](/assets/EjerFla_Arpegio9_Sol7.gif)
+![](/assets/L12_Arpegio9_Sol7_Aroniza_.gif)
 Todos los Si3 deben realizarse por la posición alternativa (ver Lección 6).
 
 Audio para acompañar arpegios Sol7 (en preparación)

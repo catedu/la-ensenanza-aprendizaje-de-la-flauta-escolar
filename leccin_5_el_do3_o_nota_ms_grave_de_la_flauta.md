@@ -28,8 +28,7 @@ Audio para los ejercicios 8 a 10 (en preparación)
 <br />
 <br />
 
-![](/assets/M2_L5_Do3_11a13.gif)
-
+![](/assets/L5_Ejer11a13_Do3_Armoniza.gif)
 Audio para los ejercicios 11 a 13 (en preparación)
 <br />
 <br />

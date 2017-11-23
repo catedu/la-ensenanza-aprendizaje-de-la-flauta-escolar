@@ -18,7 +18,7 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 
 
 **1. "FRERE JACQUES"**
-![](/assets/L15_FrereJacques_Con.gif)
+![](/assets/L15_FrereJacques_.gif)
 
 **Versión 1** -> Para realizar en línea.
 
@@ -35,8 +35,7 @@ Armonización y edición audio: R. Páez Perza
 
 
 **2. "ROMANCE DE LA REINA MERCEDES"**
-
-![](/assets/L15_RomanceReinaMercedes_Con.gif)
+![](/assets/L15_RomanceReinaMercedes_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065580&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
@@ -46,7 +45,7 @@ Audio para acompañar "Romance de la reina Mercedes" // Armonización y edición
 
 
 **3. "CARROS DE FUEGO"**
-![](/assets/L15_Carros de fuego_Con.gif)
+![](/assets/L15_Carros de fuego_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065577&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
@@ -58,7 +57,6 @@ Audio para acompañar "Carros de fuego" // Arreglo y edición audio: R. Páez Pe
 
 
 **4. "MUSIC ALONE"**
-
 ![](/assets/L15_MusicAlone_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065574&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
@@ -68,8 +66,7 @@ Audio para acompañar "Music alone" // Armonización y edición audio: R. Páez 
 <br />
 
 **5. WHEN THE SAINTS**
-
-![](/assets/L15_WhenTheS_Con.gif)
+![](/assets/L15_WhenTheSaints_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065568&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
@@ -78,7 +75,7 @@ Audio para acompañar "Oh When the Saints" // Armonización y edición audio: R.
 <br />
 
 **6. "PRIMAVERA" (Vivaldi)**
-![](/assets/L15_Primavera_Vivaldi_Con.gif)
+![](/assets/L15_Primavera_Vivaldi_.gif)
 
 **Versión 1** -> Para realizar en línea (Cliclar y tocar)
 
@@ -93,8 +90,7 @@ Arreglo y edición audio: R. Páez Perza
 <br />
 
 **7. "LA DEL MANTÓN DE MANILA"**
-
-![](/assets/L15_MantonManila_Con.gif)
+![](/assets/L15_MantonManila_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065556&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
@@ -109,8 +105,7 @@ Arreglo y edición audio: R. Páez Perza
 
 
 **8. "SANCTA MARIA STRELA DO DIA"** 
-
-![](/assets/L15_SanctaMariaCon.gif)
+![](/assets/L15_SanctaMaria_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065517&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
@@ -121,7 +116,8 @@ Audio para acompañar "Sancta Maria strela do dia" // Arreglo y edición audio: 
 <br />
 
 
-**9. "MOON RIVER"**![](/assets/L15_MoonRiver_Con.gif)
+**9. "MOON RIVER"**
+![](/assets/L15_MoonRiver_.gif)
 
 **Versión 1** -> Para realizar en línea.
 
@@ -136,7 +132,7 @@ Arreglo y edición audio: R. Páez Perza
 <br />
 
 **10. "TITANIC"**
-![](/assets/L15_Titanic_Con.gif)
+![](/assets/L15_Titanic_.gif)
 
 OBSERVACIÓN.- Elegir la voz o parte superior cuando aparezcan dos voces o partes.
 
@@ -148,7 +144,7 @@ Audio para acompañar "Titanic" // Arreglo y edición audio: R. Páez Perza
 <br />
 
 **11. "EL OBOE DE GABRIEL"**
-![](/assets/L15_OboeGabriel_Con.gif)
+![](/assets/L15_OboeGabriel_.gif)
 
 OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico hay que elegir la superior que es la que corresponde a la melodía principal.
 
@@ -167,7 +163,7 @@ Arreglo y edición audio: R. Páez Perza
 
 
 **12. "LA VIDA ES BELLA"**
-![](/assets/L15_VidaBella_Con.gif)
+![](/assets/L15_VidaBella_.gif)
 
 OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico es conveniente elegir la superior (octava aguda). En la octava grave también es aceptable. 
 
@@ -178,7 +174,7 @@ Audio para acompañar "La vida es bella" // Arreglo y edición audio: R. Páez P
 <br />
 
 **13. "LA LAMBADA"**
-![](/assets/L15_Lambada_Con.gif)
+![](/assets/L15_Lambada_.gif)
 
 OBSERVACIÓN.- Evidentemente hay que realizar la voz o parte principal (pentagrama superior).
 
@@ -189,7 +185,7 @@ Audio para acompañar "La lambada" // Arreglo y edición audio: R. Páez Perza
 <br />
 
 **14. "MINUETTO (J.S. Bach)"**
-![](/assets/L15_MinuettoBach_Con.gif)
+![](/assets/L15_MinuettoBach_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065481&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 

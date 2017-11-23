@@ -26,11 +26,10 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 ## Ejercicios
 
-
 ![](/assets/L14_Ejer1_OctAlta.gif)
 Audio del ejercicio 1 
 <br />
-![](/assets/L14_Ejer2_OctAlta.gif)
+![](/assets/L14_OctAlta_Ejer2_ARMONIZA.gif)
 Audio del ejercicio 2
 <br />
 <br />

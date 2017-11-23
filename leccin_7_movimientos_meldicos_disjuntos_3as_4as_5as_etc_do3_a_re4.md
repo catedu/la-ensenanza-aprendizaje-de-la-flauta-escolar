@@ -57,7 +57,7 @@ Audio para acompañar los ejercicios 5 y 6 (en preparación)
 <br />
 <br />
 
-![](/assets/L7_GraDisjEjer2_7-8.gif)
+![](/assets/L7_Ejer7-8_ARMONIZA.gif)
 El Si del ejercicio 7 conviene hacerlo con el Si alternativo.
 
 Audio para acompañar los ejercicios 7 y 8 (en preparación)

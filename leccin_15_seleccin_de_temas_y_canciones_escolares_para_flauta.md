@@ -145,7 +145,7 @@ Audio para acompañar "Titanic" // Arreglo y edición audio: R. Páez Perza
 **11. "EL OBOE DE GABRIEL"**
 ![](/assets/L15_OboeGabriel_.gif)
 
-OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico hay que elegir la superior que es la que corresponde a la melodía principal.
+OBSERVACIONES<br />- Cuando haya más de una voz o desdoble melódico hay que elegir la superior que es la que corresponde a la melodía principal.<br />- En las 'Actividades de ampliación de la Lección 10' encontrarás ejercicios basados en la melodía de este tema.
 
 **Versión 1** -> Para realizar en línea.
 
@@ -164,7 +164,7 @@ Arreglo y edición audio: R. Páez Perza
 **12. "LA VIDA ES BELLA"**
 ![](/assets/L15_VidaBella_.gif)
 
-OBSERVACIÓN.- Cuando haya más de una voz o desdoble melódico es conveniente elegir la superior (octava aguda). En la octava grave también es aceptable. 
+OBSERVACIONES<br />- Cuando haya más de una voz o desdoble melódico es conveniente elegir la superior (octava aguda).<br /> En la octava grave también es aceptable.<br />- En las 'Actividades de ampliación de la Lección 11' encontrarás ejercicios basados en la melodía de este tema.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065487&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 

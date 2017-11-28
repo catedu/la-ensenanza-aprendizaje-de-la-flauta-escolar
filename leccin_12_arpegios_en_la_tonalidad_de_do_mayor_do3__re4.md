@@ -31,7 +31,6 @@ _______________________
 Audio para acompañar arpegios La- (en preparación)
 <br />
 <br />
-_______________________
 
 
 ![](/assets/EjerFla_Arpegio4_Re-7.gif)

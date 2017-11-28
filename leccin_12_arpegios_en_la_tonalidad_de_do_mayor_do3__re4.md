@@ -36,8 +36,8 @@ _______________________
 
 ![](/assets/EjerFla_Arpegio4_Re-7.gif)
 
-Audio para acompañar arpegios Re-7 (en preparación)
-
+Audio para acompañar arpegios Re-7 (en preparación)<br />
+<br />
 
 _______________________
 

@@ -175,13 +175,11 @@ Audio para acompañar "La vida es bella" // Arreglo y edición audio: R. Páez P
 **13. "LA LAMBADA"**
 ![](/assets/L15_Lambada_.gif)
 
-OBSERVACIÓN.- Evidentemente hay que realizar la voz o parte principal (pentagrama superior).
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065484&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Audio para acompañar "La lambada" // Arreglo y edición audio: R. Páez Perza
+Audio para acompañar "La lambada" // Arreglo y edición audio: R. Páez Perza<br />
 
-<br />
+OBSERVACIÓN.- Evidentemente hay que realizar la voz o parte principal (pentagrama superior).<br />
 
 **14. "MINUETTO (J.S. Bach)"**
 ![](/assets/L15_MinuettoBach_.gif)

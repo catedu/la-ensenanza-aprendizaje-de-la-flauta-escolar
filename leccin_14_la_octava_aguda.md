@@ -27,55 +27,61 @@ En cuanto a las características del registro agudo es conveniente saber que:
 ## Ejercicios
 
 ![](/assets/L14_Ejer1_OctAlta.gif)
-Audio del ejercicio 1 
+<br />
 <br />
 ![](/assets/L14_OctAlta_Ejer2_ARMONIZA.gif)
-Audio del ejercicio 2
+
 <br />
 <br />
 ![](/assets/L14_Ejer3_OctAlta.gif)
-Audio del ejercicio 3 
+
 <br />
 <br />  
 ![](/assets/L14_Ejer4_OctAlta.gif)
-Audio del ejercicio 4 
+
 <br />
 <br />
 ![](/assets/L14_Ejer5_OctAlta.gif)
-Audio del ejercicio 5 
+
 <br />
 <br />
-![](/assets/L14_Ejer6_OctAlta.gif)<br /> Audio del ejercicio 6 
+![](/assets/L14_Ejer6_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer7_OctAlta.gif)<br /> Audio del ejercicio 7 
+![](/assets/L14_Ejer7_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer8_OctAlta.gif)<br /> El Si3 debe realizarse por la posición alternativa.<br /> Audio del ejercicio 8 
+![](/assets/L14_Ejer8_OctAlta.gif)
+<br /> El Si3 debe realizarse por la posición alternativa.<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer9_OctAlta.gif)<br /> Audio del ejercicio 9 
+![](/assets/L14_Ejer9_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer10_OctAlta.gif)<br /> Audio del ejercicio 10 
+![](/assets/L14_Ejer10_OctAlta.gif)<br /> 
 <br /> 
 <br /> 
-![](/assets/L14_Ejer11_OctAlta.gif)<br /> Audio del ejercicio 11 
+![](/assets/L14_Ejer11_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer12_OctAlta.gif)<br /> Audio del ejercicio 12 
+![](/assets/L14_Ejer12_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer13_OctAlta.gif)<br /> El Si3 debe realizarse por la posición alternativa.<br /> Audio del ejercicio 13 
+![](/assets/L14_Ejer13_OctAlta.gif)<br /> El Si3 debe realizarse por la posición alternativa.<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer14_OctAlta.gif)<br /> Audio del ejercicio 14 
+![](/assets/L14_Ejer14_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer15_OctAlta.gif)<br /> Audio del ejercicio 15 
+![](/assets/L14_Ejer15_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer16_OctAlta.gif)<br /> Audio del ejercicio 16 (en preparación)<br /> Armonía y edición audios: R. Páez Perza
+![](/assets/L14_Ejer16_OctAlta.gif)<br /> 
+<br /> Armonía y edición audios: R. Páez Perza
+
+### Audios de los ejercicios
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/390719654&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

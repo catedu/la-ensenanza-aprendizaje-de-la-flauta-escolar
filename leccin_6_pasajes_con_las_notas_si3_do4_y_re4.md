@@ -21,30 +21,46 @@ POSICIÓN ALTERNATIVA DEL Si3
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
-PRÁCTICA DEL Si3 ALTERNATIVO <br /> Observa los ejercicios 8, 9, 10, 11 y 15 y comprobarás que contienen el paso Si3 a Re4 o viceversa. Realiza-estudia estos ejercicios empleando la posición alternativa para el Si3 teniendo en cuenta lo siguiente:
+PRÁCTICA DEL Si3 ALTERNATIVO  Observa los ejercicios 8, 9, 10, 11 y 15 y comprobarás que contienen el paso Si3 a Re4 o viceversa. Realiza-estudia estos ejercicios empleando la posición alternativa para el Si3 teniendo en cuenta lo siguiente:
 
 - Realiza los ejercicios que aparecen a continuación (1 a 4) empleando la posición del Si3 alternativo. Recuerda que cuando la melodía contiene en su diseño el salto del Si3 al Re4 o viceversa, hay que emplear la posición del "Si alternativo". Ello permite facilitar la realización del pasaje, el cual resultaría mucho más difícil empleando su posición habitual.
 
 - La posición del Si3 alternativo también puede ser útil en los movimientos melódicos por grados conjuntos. Concretamente cuando la melodía realiza una bordadura o floreo inferior del Do4 (Do-Si-Do). También es posible su empleo en movimientos conjuntos en los que se emplea la posición normal (Re-Do-Si-La-Sol o viceversa). En este último caso es el instrumentista quien debe valorar que camino seguir.
 
+
+### Ejercicio 1
+
 ![](/assets/L6_Ejer1_ARMONIZAR_Si-alternativo.gif)
 
-Audio de acompañamiento ejercicio 1 (en preparación)
-<br />
+Audio de acompañamiento ejercicio 1
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065655&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### Ejercicio 2
 
 ![](/assets/L6_SiAlternativo2.gif)
 
-Audio de acompañamiento ejercicio 2 (en preparación)
-<br />
+Audio de acompañamiento ejercicio 2 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065652&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### Ejercicio 3
 
 ![](/assets/L6_SiAlternativo3.gif)
 
-Audio de acompañamiento ejercicio 3 (en preparación)
-<br />
+Audio de acompañamiento ejercicio 3 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065649&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### Ejercicio 4
 
 ![](/assets/L6_SiAlternativo4.gif)
 
-Audio de acompañamiento ejercicio 4 (en preparación)<br /> Armonización y edición audios: R. Páez Perza
+Audio de acompañamiento ejercicio 4 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065646&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+Armonización y edición audios: R. Páez Perza
 
 
 

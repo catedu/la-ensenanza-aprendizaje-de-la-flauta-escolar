@@ -32,13 +32,15 @@ Audio del ejercicio 3 (clicar y tocar)
 
 ![](/assets/L9_Ejer4_Sib_IMAGE.gif)
 
-Audio del ejercicio 4 (en preparación)
+Audio del ejercicio 4
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/367917020&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 ![](/assets/L9_Ejer5_Sib_Flauta.gif)
 
-Audio del ejercicio 5 (en preparación)
+Audio del ejercicio 5
 
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/367917029&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 
 

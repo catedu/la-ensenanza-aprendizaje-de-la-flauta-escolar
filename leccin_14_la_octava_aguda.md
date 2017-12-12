@@ -25,6 +25,9 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 
 ## Ejercicios
+Forma de realización:
+a) Sin audio.
+b) Con audio de acompañamiento.<br />En este caso habrá que respetar el 'tempo' marcado por la secuencia o audio digital.
 
 ![](/assets/L14_Ejer1_OctAlta.gif)
 <br />

@@ -51,8 +51,8 @@ Indicar por último, que la mayoría de los ejercicios se podrán realizar con s
 **IMPORTANTE**
 
  - Los ejercicios y actividades de ampliación son opcionales.
- - Los ejercicios y actividades de este curso pueden también ser empleados con nuestros alumnos-as con el mismo objetivo fundamental: adquirir la técnica necesaria para interpretar melodías sencillas.
- - A continuación se dan algunas orientaciones sobre como afrontar el estudio instrumental.
+ - Los ejercicios de técnica incorporan un audio de acompañamiento armónico.
+ - Los ejercicios y actividades de este curso ofrecen la posibilidad ser también empleados con nuestros alumnos-as con el mismo objetivo fundamental: adquirir la técnica necesaria para interpretar temas y melodías sencillas.
 
 ## Algunas consideraciones sobre el estudio instrumental
 
@@ -62,16 +62,15 @@ Cuando alguien decide comenzar el estudio de un instrumento musical debe tener e
 
 1. La práctica totalidad de los métodos de aprendizaje se basan en el lenguaje musical tradicional (partituras). Por lo tanto, es imprescindible conocer todo lo relacionado con la lectura de partituras y teoría de la música, al menos a nivel elemental (notas, figuras, silencios, alteraciones, compases, repeticiones, armaduras, ligaduras, articulaciones, etc.).
 
-2. Es necesario aprender a utilizar determinados procedimientos para ir superando las dificultades técnicas que vayamos encontrando. Son los siguientes:
+2. Es necesario aprender a utilizar determinados procedimientos o técnicas de estudio para ir superando las dificultades técnicas que vayamos encontrando. Estos procedimientos son los siguientes:
 
- - Trabajo previo de lectura (partitura):
-<ul style="list-style-type: square;">
-A nivel rítmico (figuras y silencios. A nivel melódico (notas). Otros: armadura, repeticiones, dinámicas (matices), etc.
-</ul>
- - Localizar los puntos de mayor dificultad y aislarlos para fragmentar el estudio (motivos, semifrases, frases,...). De esta manera trabajaremos mejor la actividad o ejercicio propuesto. De nada sirve realizar un ejercicio equivocándonos y deteniéndonos en los mismos puntos una y otra vez, justo donde encontramos mayor dificultad. Si no nos detenemos en dichas dificultades, aislándolas y estudiándolas por separado no avanzaremos. Para ellos hay que:
+ 2.1 Realizar un trabajo previo de lectura (partitura)
+a nivel rítmico (figuras y silencios, a nivel melódico (notas) y en otros aspectos: armadura, repeticiones, dinámicas (matices), etc.
+2.2 Localizar los puntos de mayor dificultad y aislarlos para fragmentar el estudio (motivos, semifrases, frases,...). De esta manera trabajaremos mejor la actividad o ejercicio propuesto. De nada sirve realizar un ejercicio equivocándonos y deteniéndonos en los mismos puntos una y otra vez, justo donde encontramos mayor dificultad. Si no nos detenemos en dichas dificultades, aislándolas y estudiándolas por separado no avanzaremos. Para ellos hay que:
 <ul style="list-style-type: circle;">
   - Bajar el "tempo" cuando aparezcan las dificultades y repetir hasta alcanzar la velocidad deseada.
  - Trabajar la actividad o ejercicio por fragmentos pequeños (motivos de 2 compases o semifrases de 4).
  - Ir uniendo fragmentos cada vez mayores hasta lograr realizar la actividad o ejercicio completo.
  - Se dice que un ejercicio, tema o pieza está completamente superada cuando somos capaces de interpretarla de memoria.
-3. El progreso en la adquisición de técnica instrumental es proporcional al tiempo que se le dedica.
+ 
+2.3 El progreso en la adquisición de técnica instrumental es proporcional al tiempo que se le dedica.

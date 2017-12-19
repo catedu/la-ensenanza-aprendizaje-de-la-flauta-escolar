@@ -65,12 +65,13 @@ Cuando alguien decide comenzar el estudio de un instrumento musical debe tener e
 2. Es necesario aprender a utilizar determinados procedimientos o técnicas de estudio para ir superando las dificultades técnicas que vayamos encontrando. Estos procedimientos son los siguientes:
 
  2.1 Realizar un trabajo previo de lectura (partitura)
-a nivel rítmico (figuras y silencios, a nivel melódico (notas) y en otros aspectos: armadura, repeticiones, dinámicas (matices), etc.
+a nivel rítmico (figuras y silencios, a nivel melódico (notas) y en otros aspectos: armadura, repeticiones, dinámicas (matices), etc.<br />
 2.2 Localizar los puntos de mayor dificultad y aislarlos para fragmentar el estudio (motivos, semifrases, frases,...). De esta manera trabajaremos mejor la actividad o ejercicio propuesto. De nada sirve realizar un ejercicio equivocándonos y deteniéndonos en los mismos puntos una y otra vez, justo donde encontramos mayor dificultad. Si no nos detenemos en dichas dificultades, aislándolas y estudiándolas por separado no avanzaremos. Para ellos hay que:
 <ul style="list-style-type: circle;">
   - Bajar el "tempo" cuando aparezcan las dificultades y repetir hasta alcanzar la velocidad deseada.
  - Trabajar la actividad o ejercicio por fragmentos pequeños (motivos de 2 compases o semifrases de 4).
  - Ir uniendo fragmentos cada vez mayores hasta lograr realizar la actividad o ejercicio completo.
  - Se dice que un ejercicio, tema o pieza está completamente superada cuando somos capaces de interpretarla de memoria.
- 
+<br />
+
 2.3 El progreso en la adquisición de técnica instrumental es proporcional al tiempo que se le dedica.

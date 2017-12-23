@@ -20,7 +20,7 @@ LA RESPIRACIÓN
 
 La técnica respiratoria es muy importante en el aprendizaje de cualquier instrumento de viento. Es necesario saber como respirar y cuando hacerlo. Además, hay temas en los cuales los motivos, semifrases y frases se suceden sin interrupción alguna ¿Qué hacer entonces, dónde debemos respirar?
 
-He aquí algunas consideraciones al respecto:
+He aquí algunas consideraciones sobre la respiración:
 
 1. Aprovechar siempre los silencios para respirar.
 1. Respirar siempre por la boca, de una manera rápida y sin separar los labios de la embocadura o separarlos lo menos posible.

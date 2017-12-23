@@ -10,6 +10,9 @@ Se denomina así a la forma y colocación de los labios sobre sobre la boquilla.
 COLOCACIÓN DEDOS Y MANOS
 
 La mano izquierda arriba y la derecha abajo. La izquierda emplea el pulgar y los dedos índice, medio y anular. La derecha, en cambio no emplea el pulgar pero sí el dedo meñique.
+Los dedos deben colocarse planos de manera que cada orificio se tape cómodamente con las yemas de los dedos. Si los dedos se curvan o están excesivamente rígidos lo más probable es que se escape el aire por algún orificio.
+El pulgar de la mano derecha debe colocarse entre los orificios de los dedos índice y medio (debajo).
+Cuando los dedos de la mano derecha no intervienen deben permanecer en expectativa cerca de sus respectivos orificios para poder emplearlos en el momento que sea necesario. Hay que evitar que los dedos "se escondan" quedando fuera de su posición.
 
 <img src="img/Embocadura_y_manos_2.gif" height="243" alt="Embocadura y manos" title="Embocadura y manos" />
 

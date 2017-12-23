@@ -26,8 +26,8 @@ En este primer módulo (Lecciones 1, 2 y 3) comenzaremos con el aprendizaje de l
 La mayor parte de los temas escolares están en do mayor, no obstante, en ocasiones aparecen temas en alguno de los tonos vecinos (SolM, FaM, Lam) por lo que es necesario el aprendizaje de sus respectivas notas alteradas: Fa#, Sib y Sol#. La realización melódica más allá de estas tonalidades vecinas resulta prácticamente imposible en el ámbito escolar. La aparición de notas alteradas complica bastante la realización melódica. El mayor o menor grado de complejidad y/o dificultad en la flauta escolar viene dado por (de menor a mayor):
 
 1. La** tonalidad:** DoM, Lam, FaM, SolM
-1. El** ámbito melódico:** Inferior a la 8ª (5ª, 6ª, 7ª) // Superior a la 8ª (9ª, 10ª,...)
-1. E**l contorno melódico:** Grados conjuntos (predominio de 2as) // Grados disjuntos o saltos (4as, 5as, ...)
+1. El** ámbito melódico:** Inferior a la 8ª // Superior a la 8ª
+1. E**l contorno melódico:** Grados conjuntos (intervalos de 2ª) // Grados disjuntos o saltos (intervalos superiores al de 2ª)
 1. Las** figuraciones rítmicas**: Sencillas (blanca, negras, corcheas) // Complejas (semicorcheas, figuras con puntillo, ligaduras de prolongación, ...)
 1. El** tempo**: Moderado / Rápido / Lento
 1. El** compás**: Simple (2/4, 3/4 y 4/4) // Compuesto (6/8, 9/8, 12/8)

@@ -1,5 +1,5 @@
 
-# Lección 10.- "Notas alteradas: Fa#"
+# Lección 10.- "Notas alteradas: Fa#3"
 
 ![](img/Posicion_Fa_num_.gif)
 

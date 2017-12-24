@@ -111,7 +111,7 @@ Armonización y edición audio: R.Páez Perza
 
 
 
-**Actividad de ampliación 2**Estudia y realiza el siguiente tema de la película "Desayuno con diamantes". Tema que contiene frecuentes saltos melódicos.
+**Actividad de ampliación 2**<br />Estudia y realiza el siguiente tema de la película "Desayuno con diamantes" (Moon River). Tema que contiene frecuentes saltos melódicos.
 
 ![](/assets/L7_MoonRiver.gif)
 

@@ -3,7 +3,7 @@
 ![](/assets/L9_Posicion_Sib.gif)
 
 El empleo de notas alteradas en la flauta dulce o de pico, complica bastante la realización melódica. 
-Como puede comprobarse la posición del Sib es similar a la posición del Fa natural pero sin el dedo medio de la mano izquierda, lo que complica el paso por grado conjunto a la nota superior (Do) e inferior (La). No obstante, las dificultades técnicas se superan con la práctica regular de ejercicios y melodías que contengan el Sib.
+Como puede comprobarse la posición del Sib es similar a la posición del Fa natural pero sin el dedo medio de la mano izquierda, lo que complica el paso por grado conjunto a la nota superior (Do4) e inferior (La3). No obstante, las dificultades técnicas se superan con la práctica regular de ejercicios y melodías que contengan el Sib.
 
 OBSERVACIÓN.- Comenzar por los ejercicios 4 y 5. Y a continuación realizar el 1, 2 y 3.
 ### EJERCICIOS
@@ -48,7 +48,7 @@ Audio del ejercicio 5
 
 ## Realiza
 
-Aquí tienes el tema central de la película "Titanic" del compositor H. Horner: "My heart will go on" en un arreglo para flauta escolar con acompañamiento. Debes empezar a tocar en la casilla de 2ª de la primera repetición (compás 11).
+Aquí tienes el tema central de la película "Titanic" (ver tema completo en la lección 15) del compositor H. Horner: "My heart will go on" en un arreglo para flauta escolar con acompañamiento. Debes empezar a tocar en la casilla de 2ª de la primera repetición (compás 11).
 
 <img src="img/L8_Titanic_Sib5_GRIS.gif" height="336" alt="'Titanic' (partitura flauta)" title="'Titanic' (partitura flauta)" />
 

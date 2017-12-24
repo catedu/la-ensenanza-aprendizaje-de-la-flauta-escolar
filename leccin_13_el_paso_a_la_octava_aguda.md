@@ -7,7 +7,7 @@
 
 # Lección 13.- "El paso a la octava aguda"
 
-En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u octava aguda. El Mi4 es la primera nota perteneciente a la 8ª alta o aguda (sin tener encuenta el Re#4/Mib4, nota alterada que no se estudia en este curso). Para emitir correctamente las notas de esta octava hay que abrir parcialmente el orificio del pulgar (un cuarto o un tercio aproximadamente) y enviar el aire con algo más de presión pero con cuidado ya que en esta octava las notas suenan con mucha más intensidad y es fácil desafinar (quedan altas si se sopla demasiado fuerte). La posición de los dedos es la misma que para el Mi3 de la primera octava, por lo tanto, solo tenemos que abrir el orificio del pulgar y enviar algo más de presión para que el Mi3 salte al Mi4 y viceversa.
+En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u octava aguda. El Mi4 es la primera nota perteneciente a la 8ª alta o aguda (sin tener encuenta el Re#4/Mib4, nota alterada que no se estudia en este curso). Para emitir correctamente las notas de esta octava hay que abrir parcialmente el orificio del pulgar (un cuarto o un tercio aproximadamente tal como se ve en la imagen) y enviar el aire con algo más de presión pero con cuidado, ya que en esta octava las notas suenan con mucha más intensidad y es fácil desafinar (quedan altas si se sopla demasiado fuerte). La posición de los dedos es la misma que para el Mi3 de la primera octava, por lo tanto, solo tenemos que abrir el orificio del pulgar y enviar algo más de presión para que el Mi3 salte al Mi4 y viceversa.
 <br />
 
 ![](/assets/L13_Pulgar_flauta.gif)
@@ -50,7 +50,7 @@ Acompañamiento del ejercicio 3 (clicar y tocar)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090263&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Acompañamiento del ejercicio 4 (clicar y tocar)<br /> Armonización y edición audios: R. Páez Perza
+Acompañamiento del ejercicio 4 (clicar y tocar)<br /> **Armonización y edición de audios**: R. Páez Perza
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 

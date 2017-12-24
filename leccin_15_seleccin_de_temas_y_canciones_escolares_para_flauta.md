@@ -12,7 +12,7 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.
 <br />
 
-**¡ RECORDAD QUE DE ESTA SELECCIÓN DE TEMAS HAY QUE ESCOGER UNO PARA LA TAREA FINAL ! (grabar la melodía junto con su correspondiente audio y enviar a otro compañero del curso para su valoración).**
+**RECORDAD QUE DE ESTA SELECCIÓN DE TEMAS HAY QUE ESCOGER UNO PARA LA TAREA FINAL, grabar la melodía junto con su audio y enviárselo a otro compañero del curso para su valoración.**
 <br />
 <br />
 

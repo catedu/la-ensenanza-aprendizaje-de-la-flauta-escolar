@@ -22,9 +22,9 @@ EJERCICIOS
 
 Realizar las notas Sol, La y Si de los ejercicios siguientes de la manera indicada como correcta, prestando atención a la emisión, mantenimiento (prolongación) y final del sonido. Cada nota dura siete tiempos o pulsos (redonda ligada a blanca con puntillo) que deberás respetar siguiendo el "tempo" marcado por el audio de acompañamiento. Repite el ejercicio tantas veces como sea necesario hasta que lo realices correctamente. Estudiar primero sin audio y una vez dominados incluir el audio.
 
-Emisión, prolongación y final de las notas Sol - La - Si
+Emisión, prolongación y final de las notas Sol3 - La3 - Si3
+![](/assets/L2_Emision_notas_Sol-La-Si.gif)
 
-<img src="img/L2_Emision_notas_Sol-La-Si.gif" alt="Emisi贸n, prolongaci贸n y final notas Sol - La - Si" title="Emisi贸n, prolongaci贸n y final notas Sol - La - Si" height="474" />
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090286&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090282&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

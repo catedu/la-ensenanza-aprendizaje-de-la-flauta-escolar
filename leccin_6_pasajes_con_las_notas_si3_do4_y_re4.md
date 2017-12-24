@@ -17,7 +17,7 @@ POSICIÓN ALTERNATIVA DEL Si3
 - Existe una posición alternativa para el Si3 que conviene emplear cuando este se dirige al Re4 y viceversa. Esta posición alternativa facilita mucho la realización de estos pasajes.  
 - También conviene emplearla cuando se realiza la bordadura o floreo inferior del Do4 (Do-Si-Do).
 
-<img src="img/EjerFla_Si_alternativo.gif" alt="Posición Si alternativo" title="Posición Si alternativo" height="229" />
+![](/assets/L6_Si_alternativo.gif)
 
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)

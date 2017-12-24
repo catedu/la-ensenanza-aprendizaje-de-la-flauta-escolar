@@ -101,12 +101,12 @@ Audio para acompañar los arpegios en Mi-
 
 **Actividad de ampliación 1**
 
-Realiza los ejercicios F, G. H, I, J y cambia los SI por Sib. 
+Realiza los ejercicios F, G. H, I, J y cambia los SI naturales por Sib. 
 
 **Actividad de ampliación 2**
 
-Realiza todos los ejercicios que contengan la nota Fa y cámbialas por Fa# (los Si deben ser naturales).
+Realiza todos los ejercicios que contengan la nota Fa natural y cámbialas por Fa# (los Si deben ser naturales).
 
 **Actividad de ampliación 3**
 
- Realiza todos los ejercicios que contengan la nota Sol y cámbialas por Sol# (los **Fa** deben ser sostenidos o naturales y los **Si** naturales).
+ Realiza todos los ejercicios que contengan la nota Sol natural y cámbialas por Sol# (los **Fa** deben ser sostenidos o naturales y los **Si** naturales).

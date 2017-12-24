@@ -19,7 +19,7 @@ En cuanto a las características del registro agudo es conveniente saber que:
 - Las posiciones hasta el La4 son las mismas que en el registro grave, abriendo ligeramente el orificio del pulgar.
 - Las posiciones de las notas Si4 y Do5 no coinciden con las posiciones de la octava inferior (Si3 y Do4). Y lo mismo cabe decir de las notas alteradas.
 - En caso de emplear este registro, seleccionar solo a dos o tres alumnos-as que tengan facilidad y dominio de estas notas. 
-- Como orientación, indicar que no conviene ir más allá del Mi4 ("Titanic", "La vida es bella", "El oboe de Gabriel", temas del módulo III).
+- Como orientación, indicar que no conviene ir más allá del Mi4 como ocurre en los temas "Titanic", "La vida es bella", "El oboe de Gabriel", vistos parcialmente en las lecciones 9, 10 y 11 y que aparecen completos en la lección 15.
 
 ![](/assets/L14_PosicionesFlautaOctavaAlta.gif)
 

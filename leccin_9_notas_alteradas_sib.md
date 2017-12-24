@@ -1,5 +1,5 @@
 
-# Lección 9.- "Notas alteradas: Sib"
+# Lección 9.- "Notas alteradas: Sib3"
 ![](/assets/L9_Posicion_Sib.gif)
 
 El empleo de notas alteradas en la flauta dulce o de pico, complica bastante la realización melódica. 

@@ -68,7 +68,7 @@ FORMA DE REALIZACIÓN
 
  - A la voz o parte inferior (flauta 3) le corresponda el 50% de los alumnos-as.
  - A parte intermedia (flauta 2) el 30 - 35% de alumnos-as.
- - A la parte superior (flauta 1) el 15 - 20% de los alumnos-as. De esta manera compensaremos el aumento natural de intensidad que se produce de manera natural conforme ascendemos hacia el registro agudo y que descompensaría los grupos si se forman con el mismo número de integrantes.
+ - A la parte superior (flauta 1) el 15 - 20% de los alumnos-as. De esta manera compensaremos el aumento de intensidad que se produce de manera natural conforme ascendemos hacia el registro agudo y que descompensaría los grupos si se forman con el mismo número de integrantes.
 
 2. Aplicar uno de los diseños rítmicos (hay 5, pero pueden crearse otros) a todas las partes (flauta 1, 2 y 3).
 

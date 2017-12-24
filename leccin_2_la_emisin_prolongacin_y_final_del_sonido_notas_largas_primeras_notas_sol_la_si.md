@@ -1,7 +1,8 @@
 
 # Lección 2.- "La emisión, prolongación y final del sonido (notas largas). Primeras notas: Sol, La, Si"
 
-En esta lección aprenderemos a emitir (comenzar) un sonido, prolongarlo y finalizarlo correctamente. Emplearemos para ello las notas Sol, La y Si (sonidos 8, 10 y 12 de la tabla que aparece en el párrafo siguiente). Antes de comenzar este tema veamos la tabla de posiciones de la flauta escolar moderna (no confundir con la alemana - ver lección anterior) que emplearemos en este curso inicial:
+En esta lección aprenderemos a emitir (comenzar) un sonido, prolongarlo y finalizarlo correctamente. Emplearemos para ello las notas Sol, La y Si (sonidos 8, 10 y 12 de la tabla). 
+Antes de comenzar este tema veamos la tabla de posiciones de la flauta escolar moderna (no confundir con la barroca - ver lección anterior) que emplearemos en este curso inicial:
 
 <img src="img/Posiciones_Todas_Do3_Do5.gif" alt="Posiciones flauta moderna (Do3 - Do5)" title="Posiciones flauta moderna (Do3 - Do5)" />
 

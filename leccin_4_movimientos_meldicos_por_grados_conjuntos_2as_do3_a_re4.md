@@ -7,7 +7,7 @@ Evolucionar melódicamente por grados conjuntos significa ir desde una nota a la
 
 En este tipo de movimiento melódico y dentro del ámbito más habitual de la flauta escolar (Do3 -&gt; Re4) sólo hay que mover un dedo para cambiar de nota. 
 
-Mencionar, por último, algunos pasos de especial dificultad dentro del ámbito melódico Do3 -&gt; Re4 como son todos aquellos pasajes en los que interviene el Do3 (nota más grave de la flauta) y las notas Si3, Do4 y Re4 (ver "Subíndices sonoros" al principio de cada "Módulo o Bloque de contenidos"). El Do3 conviene practicarlo de una manera aislada hasta conseguir emitirlo de manera segura. Las notas Si3, Do4 y Re4 son algo más difíciles de realizar por varias razones:
+Mencionar, por último, algunos pasos de especial dificultad dentro del ámbito melódico Do3 -&gt; Re4 como son todos aquellos pasajes en los que interviene el Do3 (nota más grave de la flauta) y las notas Si3, Do4 y Re4 (ver "Subíndices sonoros"). El Do3 conviene practicarlo de una manera aislada hasta conseguir emitirlo de manera segura. Las notas Si3, Do4 y Re4 son algo más difíciles de realizar por varias razones:
  - Son notas cercanas al registro agudo y que, por tanto, hay que controlar (calidad  sonora, exceso de intensidad, afinación).
  - La relación entre Si3-Do4 y Do4-Re4 ofrece algunas dificultades de digitación que se comprobarán al realizar los ejercicios.
 

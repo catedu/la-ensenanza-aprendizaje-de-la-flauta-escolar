@@ -1,7 +1,7 @@
 
 # Lección 7.- "Movimientos melódicos disjuntos: 3as, 4as, 5as, etc. (Do3 a Re4)"
 
-Se entiende por movimiento disjunto al movimiento melódico superior al de 2ª, o sea, los de 3ª, 4ª, 5ª, etc. En este curso no iremos más allá de los dos primeros, es decir, los de 3ª y 4ª. Excepcionalmente es posible que aparezcan saltos de 5ª o 6ª, pero son muy raros en los temas escolares.
+Se entiende por movimiento disjunto a la aparición de intervalos superiores al de 2ª en la melodía, o sea, los de 3ª, 4ª, 5ª, etc. Los saltos melódicos amplios (5ª, 6ª, 7ª) son raros en los temas escolares. De los temas seleccionados para este curso solo aparece uno con estas características y no se trata de una canción escolar sino de un tema de cine: "Moon River" (ver este tema completo en la lección 15).
 
 ### EJERCICIOS
 

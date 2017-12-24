@@ -70,11 +70,11 @@ Realizar solo los que incluyen el Sib
 
 **Actividad de ampliación 3**
 
-Realizar los ejercicios del Tema 6 cambiando todos los Si (naturales) por Sib.
+Volver a realizar los ejercicios de la lección 6 pero cambiando todos los Si (naturales) por Sib.
 
 
 **Actividad de ampliación 4**
 
-Realiza nuevamente los ejercicios de la Lección 8 que contengan la nota Si y sustitúyelas por Sib. 
+Realiza nuevamente los ejercicios de la lección 8 que contengan la nota Si y sustitúyelas por Sib. 
 
 ** **

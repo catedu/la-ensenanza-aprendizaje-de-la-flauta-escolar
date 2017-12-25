@@ -60,8 +60,7 @@ Audio para acompañar los ejercicios 5 y 6
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065637&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 ### Ejercicios 7 y 8
-
-![](/assets/L7_Ejer7-8_ARMONIZA.gif)
+![](/assets/L7_Ejer7-8_ARM.gif)
 El Si del ejercicio 7 conviene hacerlo con el Si alternativo.
 
 Audio para acompañar los ejercicios 7 y 8 

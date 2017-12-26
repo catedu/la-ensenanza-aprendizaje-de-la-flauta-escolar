@@ -61,7 +61,7 @@ Audio para acompañar los ejercicios 5 y 6
 
 ### Ejercicios 7 y 8
 ![](/assets/L7_Ejer7-8_ARM.gif)
-El Si del ejercicio 7 conviene hacerlo con el Si alternativo.
+El Si del ejercicio 7 (última negra del primer compás) conviene hacerlo con la posición del Si alternativo (ver lección 6).
 
 Audio para acompañar los ejercicios 7 y 8 
 

@@ -26,8 +26,8 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 ## Ejercicios
 Forma de realización:
-a) Sin audio.
-b) Con audio de acompañamiento.<br />En este caso habrá que respetar el 'tempo' marcado por la secuencia o audio digital.
+a) **Sin audio**.
+b) **Con audio de acompañamiento**. En este caso habrá que respetar el 'tempo' marcado por la secuencia o audio digital.<br />Los audios de acompañamiento de cada ejercicio aparecen al final, después del ejercicio 16.
 
 ![](/assets/L14_Ejer1_OctAlta.gif)
 <br />
@@ -55,7 +55,7 @@ b) Con audio de acompañamiento.<br />En este caso habrá que respetar el 'tempo
 <br />
 <br />
 ![](/assets/L14_Ejer8_OctAlta.gif)
-<br /> El Si3 debe realizarse por la posición alternativa.<br /> 
+<br /> El Si3 debe realizarse por la posición alternativa (ver lección 6).<br /> 
 <br />
 <br />
 ![](/assets/L14_Ejer9_OctAlta.gif)<br /> 
@@ -70,7 +70,7 @@ b) Con audio de acompañamiento.<br />En este caso habrá que respetar el 'tempo
 ![](/assets/L14_Ejer12_OctAlta.gif)<br /> 
 <br />
 <br />
-![](/assets/L14_Ejer13_OctAlta.gif)<br /> El Si3 debe realizarse por la posición alternativa.<br /> 
+![](/assets/L14_Ejer13_OctAlta.gif)<br /> El Si3 debe realizarse por la posición alternativa (ver lección 6).<br /> 
 <br />
 <br />
 ![](/assets/L14_Ejer14_OctAlta.gif)<br /> 
@@ -80,12 +80,13 @@ b) Con audio de acompañamiento.<br />En este caso habrá que respetar el 'tempo
 <br />
 <br />
 ![](/assets/L14_Ejer16_OctAlta.gif)<br /> 
-<br /> Armonía y edición audios: R. Páez Perza
+<br />
 
 ### Audios de los ejercicios
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/390719654&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
+Armonía y edición audios: R. Páez Perza
 
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
@@ -107,5 +108,5 @@ b) Con audio de acompañamiento.<br />En este caso habrá que respetar el 'tempo
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-**Armonización y edición audio**: R. Páez Perza
+**Armonización y edición audios**: R. Páez Perza
 

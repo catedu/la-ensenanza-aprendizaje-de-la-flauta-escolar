@@ -86,13 +86,13 @@ Audio para acompañar los ejercicios 11 y 12
 ### Ejercicios 13 y 14
 
 ![](/assets/L7_GraDisj2_13-14.gif)
-El Si del ejercicio 13 conviene hacerlo con el Si alternativo.
+El Si del ejercicio 13 (última negra del primer compás) conviene hacerlo con la posición del Si alternativo (ver lección 6).
 
 Audio para acompañar los ejercicios 13 y 14 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065625&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Armonización y edición audios: R.Páez Perza
+**Armonización y edición de audios**: R.Páez Perza
 
 
 

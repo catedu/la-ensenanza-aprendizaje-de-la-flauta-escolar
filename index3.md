@@ -6,7 +6,7 @@ MÓDULO IV
 - **Lección 12**.- Arpegios tríadas y cuatríadas en Do mayor
 - **Lección 13**.- El paso a la octava aguda
 - **Lección 14**.- La octava aguda
-- **Selección de temas y canciones** para flauta escolar
+- **Lección 15**.- Selección de temas y canciones para flauta escolar
 - Fin
 
 ## Objetivos

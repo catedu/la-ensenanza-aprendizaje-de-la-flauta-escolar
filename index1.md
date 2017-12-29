@@ -3,10 +3,10 @@
 
 MÓDULO II
 
-- Movimientos melódicos por grados conjuntos: 2as
-- El Do3 o nota más grave de la flauta escolar
-- Pasajes de ciertas dificultades con las notas Si3, Do4 y Re4
-- Movimientos melódicos por grados disjuntos: 3as, 4as, 5as, etc.
+- **Lección 4**.- Movimientos melódicos por grados conjuntos: 2as
+- **Lección 5**.- El Do3 o nota más grave de la flauta escolar
+- **Lección 6**.- Pasajes de ciertas dificultades con las notas Si3, Do4 y Re4
+- **Lección 7**.- Movimientos melódicos por grados disjuntos: 3as, 4as, 5as, etc.
 
 ## Objetivos
 

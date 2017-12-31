@@ -21,8 +21,7 @@ En cuanto a las características del registro agudo es conveniente saber que:
 - En caso de emplear este registro, seleccionar solo a dos o tres alumnos-as que tengan facilidad y dominio de estas notas. 
 - Como orientación, indicar que no conviene ir más allá del Mi4 como ocurre en los temas "Titanic", "La vida es bella", "El oboe de Gabriel", vistos parcialmente en las lecciones 9, 10 y 11 y que aparecen completos en la lección 15.
 
-![](/assets/L14_PosicionesFlautaOctavaAlta.gif)
-
+![](/assets/L14_Posiciones_8alta.gif)
 
 ## Ejercicios
 Forma de realización:

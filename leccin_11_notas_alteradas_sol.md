@@ -1,7 +1,7 @@
 
 # Lección 11.- "Notas alteradas: Sol#"
 
-![](img/Posicion_Sol_num_.gif)
+![](/assets/L11_Posicion_SolSost3.gif)
 
 **EJERCICIOS**
 

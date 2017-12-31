@@ -1,7 +1,7 @@
 
 # Lección 6.- "Pasajes con las notas Si3, Do4 y Re4"
 
-<img src="img/Posicion_Si-Do-Re.gif" height="262" alt="Posiciones Si-Do-Re" title="Posiciones Si-Do-Re" />
+![](/assets/L6_Posiciones_Si3-Do4-Re4.gif)
 
 La relación entre Si3-Do4 y Do4-Re4, o bien las tres notas juntas en cualquier combinación melódica, ofrece ciertas dificultades técnicas de realización que deben ser practicadas y superadas. Estas dificultades hacen referencia a determinados movimientos de los dedos índice y medio, así como al movimiento inusual del pulgar de la mano izquierda. En el primer caso (Si->Do o viceversa) la dificultad está en que los dedos índice (Si3) y medio (Do4) deben alternarse, tapando sus respectivos orificios de manera muy precisa ya que de lo contrario aparecerán sonidos "intrusos" (La3 o Do#4) debido precisamente a la falta de precisión de dichos dedos ya que mientras uno abre el otro debe tapar o viceversa. 
 

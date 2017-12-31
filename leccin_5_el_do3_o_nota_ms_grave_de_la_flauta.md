@@ -1,7 +1,7 @@
 
 # Lección 5.- "El Do3 o nota más grave de la flauta"
 
-<img src="img/Posicion_Do3.gif" height="227" alt="Posición Do3 " title="Posición Do3 " />
+![](/assets/L5_Posicion_Do3.gif)
 
 La nota Do3 o nota más grave de la flauta escolar ofrece ciertas dificultades que hay que superar para que podamos emplearla con comodidad en las actividades que se propongan. Las dificultades que presenta son las siguientes.
 

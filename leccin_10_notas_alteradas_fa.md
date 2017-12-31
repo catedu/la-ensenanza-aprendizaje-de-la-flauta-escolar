@@ -1,7 +1,7 @@
 
 # Lección 10.- "Notas alteradas: Fa#3"
 
-![](img/Posicion_Fa_num_.gif)
+![](/assets/L10_Posicion_FaSost.gif)
 
 **EJERCICIOS**
 

@@ -1,7 +1,7 @@
 
 # Lección 4.- "Movimientos melódicos por grados conjuntos: 2as (Do3 a Re4)"
 
-<img src="img/Posiciones_EscDo_DEo3-Re4.gif" alt="Posiciones flauta escala DoM (Do3 -&gt; Re4)" title="Posiciones flauta escala DoM (Do3 -&gt; Re4)" height="210" />
+![](/assets/L4_Posiciones_EscDoM_Do3_Re4.gif)
 
 Evolucionar melódicamente por grados conjuntos significa ir desde una nota a la contigua o más cercana, tanto ascendente como descendentemente. Por ejemplo Do-Re / Re-Mi / Mi-Fa / ... (o viceversa) son grados conjuntos o contiguos. Do-Re-Mi-Fa-Sol también. Do-Mi-La no son grados conjuntos.
 

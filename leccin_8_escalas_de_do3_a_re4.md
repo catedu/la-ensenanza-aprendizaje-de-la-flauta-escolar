@@ -1,7 +1,8 @@
 
 # Lección 8.- "Escalas de Do3 a Re4"
 
-Debido al ámbito melódico tan reducido que hemos visto hasta ahora (Do3-Re4), las escalas y arpegios se estudiarán de manera fragmentada, y las escalas comenzarán por las notas Do y Re.
+Debido al ámbito melódico tan reducido que hemos visto hasta ahora (Do3-Re4), las escalas y arpegios se estudiarán de manera fragmentada. Ver arpegios en la lección 12.
+El estudio de escalas y arpegios forma parte de la técnica básica de todos los instrumentos musicales.
 
 ### Escalas
 

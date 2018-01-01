@@ -72,25 +72,19 @@ Acompañamiento del ejercicio 7 (clicar y tocar)<br /> Armonización y edición 
 
 ## Realiza / Interpreta
 
-<img src="img/L11_VidaBella_(flauta)_GRIS.gif" height="355" alt="'La vida es bella' (parte de flauta)" title="'La vida es bella' (parte de flauta)" />
+![](/assets/L11_VidaBella.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090305&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Arreglo y edición audio: R. Páez Perza.<br />Ver este tema completo en la lección 15.
 
-
-
-
 ## ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1 **
-
-<img src="img/EjerFla_VitaBella_18jul15.gif" alt='Ejercicios del tema "La vida es bella"' title='Ejercicios del tema "La vida es bella"' />
-
+![](/assets/L11_EjerFla_VitaBella.gif)
 
 **Actividad de ampliación 2**
-
-<img src="img/Ampliacion_Sol_num_.gif" alt="Ampliación (Sol#)" title="Ampliación (Sol#)" />
+![](/assets/L11_Ampliacion_Sol.gif)
 
 **Actividad de ampliación 3**
 

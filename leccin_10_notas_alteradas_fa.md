@@ -44,8 +44,7 @@ Acompañamiento del ejercicio 4 (clicar y tocar)
 Acompañamiento del ejercicio 5 (clicar y tocar)<br /> Armonización y edición audios: R.Páez Perza<br />
 
 ## Realiza
-
-<img src="img/L10_OboeGabriel_Fla_GRIS.gif" height="492" alt="'Oboe de Gabriel' (parte de flauta)" title="'Oboe de Gabriel' (parte de flauta)" />
+![](/assets/L10_OboeGabriel.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090301&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -56,14 +55,11 @@ Arreglo y edición audio: R.Páez Perza<br />Ver este tema completo en la lecci�
 
 **Actividad de ampliación 1**
 Estudia y realiza los ejercicios siguientes:
-
-<img src="img/EjerFla_ObGabriel.gif" alt='Ejercicios del tema "El oboe de Gabriel"' title='Ejercicios del tema "El oboe de Gabriel"' />
+![](/assets/L10_EjerFla_Ampli1_ObGab.gif)
 
 **Actividad de ampliación 2**
 Estudia y realiza los ejercicios siguientes:
-
-<img src="img/Ampliacion_Fa_num_.1.gif" height="388" alt="Activ. ampliación Fa#" title="Activ. ampliación Fa#" />
-
+![](/assets/L10_EjerFla_Ampli2_FaSost.gif)
 
 **Actividad de ampliación 3**
 

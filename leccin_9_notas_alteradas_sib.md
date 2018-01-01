@@ -49,8 +49,7 @@ Audio del ejercicio 5
 
 Aquí tienes el tema central de la película "Titanic" (ver tema completo en la lección 15) del compositor H. Horner: "My heart will go on" en un arreglo para flauta escolar con acompañamiento. Debes empezar a tocar en la casilla de 2ª de la primera repetición (compás 11).
 
-<img src="img/L8_Titanic_Sib5_GRIS.gif" height="336" alt="'Titanic' (partitura flauta)" title="'Titanic' (partitura flauta)" />
-
+![](/assets/L9_Titanic_Sib.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090304&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 CLICAR Y TOCAR (¡Ojo! Comienza en compás 11, casilla de 2ª)<br /> Arreglo y edición audio: R.Páez Perza
@@ -60,12 +59,10 @@ CLICAR Y TOCAR (¡Ojo! Comienza en compás 11, casilla de 2ª)<br /> Arreglo y e
 **Actividad de ampliación 1**
 
 Realizar solo los que incluyen el Sib
-
-<img src="img/EjerFla_Titanic.gif" alt='Ejercicios del tema "Titanic"' title='Ejercicios del tema "Titanic"' />
+![](/assets/L9_EjerFla_Ampli1_Titanic.gif)
 
 **Actividad de ampliación 2**
-<img src="img/Ampliacion_Sib.gif" alt="Ejercicios ampliación Sib" title="Ejercicios ampliación Sib" />
-
+![](/assets/L9_EjerFla_Ampli2_Sib.gif)
 
 **Actividad de ampliación 3**
 

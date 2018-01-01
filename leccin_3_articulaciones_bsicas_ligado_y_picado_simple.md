@@ -59,6 +59,8 @@ OBJETIVOS
 - Coordinarse con el audio (tempo).
 
 **Actividades de ampliación 2**
+Se trata de realizar uno de los tres itinerarios (los tres si se realiza en grupo) aplicando el picado simple según el diseño rítmico y la secuencia armónica elegida. En principio hay que realizar el ejercicio que se propone según se indica en la primera imagen, donde la secuencia de acordes es siempre la misma (Do - Fa - Sol - Do). En cambio, el diseño rítmico a aplicar puede elegirse de entre los cinco propuestos. 
+En la segunda imagen aparecen diferentes secuencias armónicas sobre las que aplicar el diseño rítmico elegido.
 
 **<img src="img/Picado_simple_3.gif" alt="Picado simple - Acordes" title="Picado simple - Acordes" height="730" />**
 

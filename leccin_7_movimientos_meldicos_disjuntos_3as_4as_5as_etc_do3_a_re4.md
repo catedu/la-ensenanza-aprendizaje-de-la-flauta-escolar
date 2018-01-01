@@ -22,17 +22,6 @@ Se entiende por movimiento disjunto a la aparición de intervalos superiores al�
  - Puede ser conveniente la utilización de un metrónomo para asegurar el tempo.
 
 
-
-### Ejercicio
-
-![Grados disjuntos 3as y 4as](img/EjerFla_GradosDisj_3as_4as.gif)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090259&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-Armonización y edición audio: R. Páez Perza
-
-
-
 ### Ejercicios 1 y 2
 
 ![](/assets/L7_GraDisjEjer2_1-2.gif)
@@ -91,6 +80,12 @@ El Si del ejercicio 13 (última negra del primer compás) conviene hacerlo con l
 Audio para acompañar los ejercicios 13 y 14 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065625&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+### Ejercicio 15
+
+![Grados disjuntos 3as y 4as](img/EjerFla_GradosDisj_3as_4as.gif)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090259&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 **Armonización y edición de audios**: R.Páez Perza
 

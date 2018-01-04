@@ -5,9 +5,8 @@
 
 
 
-# Lección 13.- "El paso a la octava aguda"
-
-En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u octava aguda. El Mi4 es la primera nota perteneciente a la 8ª alta o aguda (sin tener encuenta el Re#4/Mib4, nota alterada que no se estudia en este curso). Para emitir correctamente las notas de esta octava hay que abrir parcialmente el orificio del pulgar (un cuarto o un tercio aproximadamente tal como se ve en la imagen) y enviar el aire con algo más de presión pero con cuidado, ya que en esta octava las notas suenan con mucha más intensidad y es fácil desafinar (quedan altas si se sopla demasiado fuerte). La posición de los dedos es la misma que para el Mi3 de la primera octava, por lo tanto, solo tenemos que abrir el orificio del pulgar y enviar algo más de presión para que el Mi3 salte al Mi4 y viceversa.
+# Lección 13.- "El paso hasta el Mi4, primera nota de la octava aguda".
+En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u octava aguda. El Mi4 es la primera nota perteneciente a la 8ª alta o aguda (sin tener encuenta el Re#4/Mib4, nota alterada que no se estudia en este curso).<br />Para emitir correctamente las notas de esta octava hay que abrir parcialmente el orificio del pulgar (un cuarto o un tercio aproximadamente tal como se ve en la imagen) y enviar el aire con algo más de presión pero con cuidado, ya que en esta octava las notas suenan con mucha más intensidad y es fácil desafinar (quedan altas si se sopla demasiado fuerte). La posición de los dedos es la misma que para el Mi3 de la primera octava, por lo tanto, solo tenemos que abrir el orificio del pulgar y enviar algo más de presión para que el Mi3 salte al Mi4 y viceversa.
 <br />
 
 ![](/assets/L13_Pulgar_flauta.gif)

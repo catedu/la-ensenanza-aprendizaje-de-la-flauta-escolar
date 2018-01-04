@@ -1,12 +1,12 @@
 
-# MÓDULO II "Ejercicios y melodías en la primera octava (Do3 a Re4)"
-
+# 2. "La primera octava del Do3 al Re4"
+### Contenidos
 - **Lección 4**.- Movimientos melódicos por grados conjuntos: 2as
 - **Lección 5**.- El Do3 o nota más grave de la flauta escolar
 - **Lección 6**.- Pasajes de ciertas dificultades con las notas Si3, Do4 y Re4
 - **Lección 7**.- Movimientos melódicos por grados disjuntos: 3as, 4as, 5as, etc.
 
-## Objetivos
+### Objetivos
 
 1. Trabajar los movimientos melódicos conjuntos y disjuntos desde Do3 a Re4.
 
@@ -14,7 +14,7 @@
 
 3. Conocer la posición alternativa del Si3 y sus posibilidades de empleo.
 
-## Conocimientos previos
+### Conocimientos previos
 
 1. Leer partituras rítmicas y melódicas sencillas (nivel elemental) que incluyan:
 

@@ -1,6 +1,7 @@
 
-# MÓDULO IV "Ejercicios y melodías que alcanzan la segunda octava (hasta Do5)"
+# 4. "La segunda octava hasta el Do5"
 
+### Contenidos
 - **Lección 12**.- Arpegios tríadas y cuatríadas en Do mayor
 - **Lección 13**.- El paso a la octava aguda
 - **Lección 14**.- La octava aguda

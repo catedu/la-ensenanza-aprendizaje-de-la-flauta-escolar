@@ -1,18 +1,18 @@
 
-# MÓDULO III "Ejercicios y melodías que incluyen Sib, Fa# y/o Sol# (Do3 a Re4)"
-
+# 3. "Las notas alteradas: Sib, Fa# y/o Sol# (Do3 a Re4)"
+### Contenidos
 - **Lección 8**.- Fragmentos de escalas dentro del ámbito Do3 - Re4
 - **Lección 9**.- Notas alteradas: Sib
 - **Lección 10**.- Notas alteradas: Fa#
 - **Lección 11**.- Notas alteradas: Sol#
 
-## Objetivos
+### Objetivos
 
 1. Conocer las tres notas alteradas que se emplearán en los temas y melodías escolares: Sib, Fa# y Sol#.
 
 2. Adquirir técnica con fragmentos de escalas por grados conjuntos entre Do3 y Re4 en las tonalidades de DoM, FaM, SolM y Lam.
 
-## Conocimientos previos
+### Conocimientos previos
 
 1. Saber leer partituras rítmicas y melódicas sencillas (nivel elemental) que incluyan:
 

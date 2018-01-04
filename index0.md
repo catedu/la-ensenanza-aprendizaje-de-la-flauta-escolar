@@ -1,9 +1,7 @@
 
 # MÓDULO I "Primera toma de contacto con la flauta escolar o de pico"
 
-MÓDULO I
-
-- Introducción
+- **Introducción**
 - **Lección 1**.- La embocadura, la respiración y la colocación de las manos
 - **Lección 2**.- La emisión, prolongación y final del sonido con notas largas. Primeras notas: Sol, La, Si
 - **Lección 3**.- Articulaciones básicas (ligado y picado)

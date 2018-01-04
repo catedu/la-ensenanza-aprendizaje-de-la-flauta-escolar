@@ -10,7 +10,7 @@ La relación entre Si3-Do4 y Do4-Re4, o bien las tres notas juntas en cualquier 
 En el paso del Do4 al Re4 la dificultad obedece al movimiento del dedo pulgar, necesario para obtener el Re4 cuando venimos de la nota inferior (o viceversa). Este movimiento del pulgar resulta bastante torpe cuando no se tiene práctica.
 
 
-EJERCICIOS
+#### EJERCICIOS
 
 <img src="img/L7_Pasajes_con_Si3-Do4-Re4.gif" alt="Pasajes con Si-Do-Re" title="Pasajes con Si-Do-Re" />
 

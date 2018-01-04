@@ -1,10 +1,10 @@
 
-# Lección 8.- "Fragmentos de escalas y escala de Do M (Do3 a Re4)"
+# Lección 8.- "La escala de Do mayor por grados conjuntos (Do3 a Re4)"
 
 Debido al ámbito melódico tan reducido que hemos visto hasta ahora (Do3-Re4), las escalas y arpegios se estudiarán de manera fragmentada. Ver arpegios en la lección 12.
 El estudio de escalas y arpegios forma parte de la técnica básica de todos los instrumentos musicales.
 
-### Fragmentos de escalas y escala de Do M
+### Ejercicios basados en la escala de Do mayor
 
 <img src="img/Escalas_Do3-Re4.gif" alt="Escalas fragmentadas Do3-Re4" title="Escalas fragmentadas Do3-Re4" />
 

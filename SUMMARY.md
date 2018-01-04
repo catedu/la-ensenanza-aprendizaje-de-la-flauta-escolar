@@ -21,7 +21,7 @@
 ## 3. Primeras alteraciones
 
 * [Ejercicios y melodías con la inclusión de algunas alteraciones \(Do3 a Re4\)](index2.md)
-* [Lección 8.- "Escalas de Do3 a Re4"](leccin_8_escalas_de_do3_a_re4.md)
+* [Lección 8.- "La escala de Do mayor por grados conjuntos \(Do3 a Re4\)"](leccin_8_escalas_de_do3_a_re4.md)
 * [Lección 9.- "Notas alteradas: Sib"](leccin_9_notas_alteradas_sib.md)
 * [Lección 10.- "Notas alteradas: Fa\#"](leccin_10_notas_alteradas_fa.md)
 * [Lección 11.- "Notas alteradas: Sol\#"](leccin_11_notas_alteradas_sol.md)

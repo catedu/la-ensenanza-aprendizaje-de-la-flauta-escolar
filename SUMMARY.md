@@ -30,8 +30,8 @@
 
 * ["Ejercicios y melodías que alcanzan la segunda octava"](index3.md)
 * [Lección 12.- "Arpegios en la tonalidad de Do mayor \(Do3 - Re4\)"](leccin_12_arpegios_en_la_tonalidad_de_do_mayor_do3__re4.md)
-* [Lección 13.- "El paso hasta la primera nota de la octava aguda"](leccin_13_el_paso_a_la_octava_aguda.md)
-* [Lección 14.- "La octava aguda"](leccin_14_la_octava_aguda.md)
+* [Lección 13.- "El paso hasta el Mi4, primera nota de la octava aguda"](leccin_13_el_paso_a_la_octava_aguda.md)
+* [Lección 14.- "La octava aguda hasta el Do5"](leccin_14_la_octava_aguda.md)
 * [Lección 15.- "Selección de temas y canciones escolares para flauta"](leccin_15_seleccin_de_temas_y_canciones_escolares_para_flauta.md)
 * [Fin](fin.md)
 

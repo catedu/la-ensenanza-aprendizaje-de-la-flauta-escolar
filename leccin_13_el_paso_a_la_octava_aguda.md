@@ -11,9 +11,10 @@ En esta lección estudiaremos cómo llegar hasta el Mi4 de la segunda octava u o
 
 ![](/assets/L13_Pulgar_flauta.gif)
 
-**EJERCICIOS**
 
-**Forma de realización**
+
+
+**Forma de realización de los ejercicios**
 
 - Estudiar primero sin audio.
 

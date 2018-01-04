@@ -1,5 +1,5 @@
 
-# 1."Primera toma de contacto con la flauta escolar o de pico"
+# 1."Primera toma de contacto con la flauta escolar"
 ### Contenidos
 - **Introducción**
 - **Lección 1**.- La embocadura, la respiración y la colocación de las manos

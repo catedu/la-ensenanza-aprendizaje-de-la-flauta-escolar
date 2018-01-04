@@ -5,9 +5,7 @@
 El empleo de notas alteradas en la flauta dulce o de pico, complica bastante la realización melódica. 
 Como puede comprobarse la posición del Sib es similar a la posición del Fa natural pero sin el dedo medio de la mano izquierda, lo que complica el paso por grado conjunto a la nota superior (Do4) e inferior (La3). No obstante, las dificultades técnicas se superan con la práctica regular de ejercicios y melodías que contengan el Sib.
 
-### EJERCICIOS
-
-**Forma de realización**
+**Forma de realización de los ejercicios**
 - Estudiar primero sin audio.
 - Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.
 - Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.

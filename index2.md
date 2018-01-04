@@ -3,7 +3,7 @@
 
 MÓDULO III
 
-- **Lección 8**.- Escalas dentro del ámbito Do3 - Re4
+- **Lección 8**.- Fragmentos de escalas dentro del ámbito Do3 - Re4
 - **Lección 9**.- Notas alteradas: Sib
 - **Lección 10**.- Notas alteradas: Fa#
 - **Lección 11**.- Notas alteradas: Sol#

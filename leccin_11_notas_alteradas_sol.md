@@ -3,9 +3,7 @@
 
 ![](/assets/L11_Posicion_SolSost3.gif)
 
-##EJERCICIOS
-
-**Forma de realización**
+**Forma de realización de los ejercicios**
 
 - Estudiar primero sin audio.
 

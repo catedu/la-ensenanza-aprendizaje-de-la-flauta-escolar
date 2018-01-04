@@ -3,7 +3,7 @@
 
 ![](/assets/L11_Posicion_SolSost3.gif)
 
-**EJERCICIOS**
+##EJERCICIOS
 
 **Forma de realización**
 
@@ -70,7 +70,7 @@ Acompañamiento del ejercicio 7 (clicar y tocar)<br /> Armonización y edición 
 
 
 
-## Realiza / Interpreta
+### Realiza
 
 ![](/assets/L11_VidaBella.gif)
 
@@ -78,7 +78,7 @@ Acompañamiento del ejercicio 7 (clicar y tocar)<br /> Armonización y edición 
 
 Arreglo y edición audio: R. Páez Perza.<br />Ver este tema completo en la lección 15.
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1 **
 ![](/assets/L11_EjerFla_VitaBella.gif)

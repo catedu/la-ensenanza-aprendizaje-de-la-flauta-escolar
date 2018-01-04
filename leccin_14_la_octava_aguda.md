@@ -1,5 +1,5 @@
 
-# Lección 14.- "La octava aguda"
+# Lección 14.- "La octava aguda hasta el Do5"
 
 En la lección anterior estudiamos como llegar hasta la nota Mi4, primera nota de la octava alta de la flauta escolar. En esta lección aprenderemos el resto de posiciones, incluyendo las notas alteradas, hasta llegar al Do5, última nota de la flauta escolar.
 
@@ -23,8 +23,8 @@ En cuanto a las características del registro agudo es conveniente saber que:
 
 ![](/assets/L14_Posiciones_8ªalta.gif)
 
-## Ejercicios
-Forma de realización:<br />a) **Sin audio**.<br />b) **Con audio de acompañamiento**.<br />En este caso habrá que respetar el 'tempo' marcado por la secuencia o audio digital.<br />Los audios de acompañamiento de cada ejercicio aparecen al final, después del ejercicio 16.
+
+FORMA DE REALIZACIÓN DE LOS EJERCICIOS:<br />a) **Sin audio**.<br />b) **Con audio de acompañamiento**.<br />En este caso habrá que respetar el 'tempo' marcado por la secuencia o audio digital.<br />Los audios de acompañamiento de cada ejercicio aparecen al final, después del ejercicio 16.
 
 ![](/assets/L14_Ejer1_OctAlta.gif)
 <br />

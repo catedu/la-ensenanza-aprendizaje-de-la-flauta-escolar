@@ -6,7 +6,7 @@
 Se denomina arpegio a la realización melódico de un acorde. Los arpegios que se estudiarán a continuación pertenecen todos a la tonalidad de Do mayor y no superan el Re4. Se trata de acordes que se forman sobre cada una de las notas de la escala de Do mayor.
 En las actividades de ampliación opcionales se explica como transformar estos mismos arpegios a las tonalidades de SolM, FaM y Lam.
 
-FORMA DE REALIZACIÓN
+**Forma de realización de los ejercicios**
 - Con la articulación que aparece en partitura (ligaduras) o bien con todas las notas sueltas (picadas).
 - Conviene estudiar-practicar primero los ejercicios sin audio y activar el audio solo cuando se dominen. 
 - Recordar las directrices que sobre el estudio instrumental se dieron en la "Introducción" del bloque o módulo 1 "Primera toma de contacto".

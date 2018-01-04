@@ -1,7 +1,7 @@
 
 # MÓDULO IV "Ejercicios y melodías que alcanzan la segunda octava (Do3 a Do5)"
 
-MÓDULO IV
+### MÓDULO IV
 
 - **Lección 12**.- Arpegios tríadas y cuatríadas en Do mayor
 - **Lección 13**.- El paso a la octava aguda
@@ -9,7 +9,7 @@ MÓDULO IV
 - **Lección 15**.- Selección de temas y canciones para flauta escolar
 - Fin
 
-## Objetivos
+### Objetivos
 
 1. Aprender la técnica necesaria para realizar el paso a la 8ª aguda.
 
@@ -17,7 +17,7 @@ MÓDULO IV
 
 3. Conocer temas escolares (selección) procedentes de diferentes fuentes: folclore, cine, etc. 
 
-## Conocimientos previos
+### Conocimientos previos
 
 1. Saber leer partituras rítmicas y melódicas sencillas (nivel elemental) que incluyan:
 

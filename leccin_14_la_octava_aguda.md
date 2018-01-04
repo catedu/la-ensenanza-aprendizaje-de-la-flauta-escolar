@@ -24,7 +24,7 @@ En cuanto a las características del registro agudo es conveniente saber que:
 ![](/assets/L14_Posiciones_8ªalta.gif)
 
 
-FORMA DE REALIZACIÓN DE LOS EJERCICIOS:<br />a) **Sin audio**.<br />b) **Con audio de acompañamiento**.<br />En este caso habrá que respetar el 'tempo' marcado por la secuencia o audio digital.<br />Los audios de acompañamiento de cada ejercicio aparecen al final, después del ejercicio 16.
+FORMA DE REALIZACIÓN DE LOS EJERCICIOS<br />a) **Sin audio**.<br />b) **Con audio de acompañamiento**.<br />En este caso habrá que respetar el 'tempo' marcado por la secuencia o audio digital.<br />Los audios de acompañamiento de cada ejercicio aparecen al final, después del ejercicio 16.
 
 ![](/assets/L14_Ejer1_OctAlta.gif)
 <br />

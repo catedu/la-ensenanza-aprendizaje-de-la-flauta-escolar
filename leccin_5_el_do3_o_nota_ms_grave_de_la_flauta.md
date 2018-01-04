@@ -8,8 +8,6 @@ La nota Do3 o nota más grave de la flauta escolar ofrece ciertas dificultades q
 1. Es la nota más débil de la flauta, la de menor intensidad.<br />Para emitirla y prolongarla con seguridad requiere un flujo de aire mucho más reducido que el resto notas. Si no enviamos la cantidad precisa de aire, que no debe ser mucho, o bien no sonará, sonará mal o 'saltará' al Do4. 
 1. Al evolucionar hacia otras notas, especialmente por grados disjuntos (intervalos superiores al de 2ª), hay que mover los dedos anular y meñique de manera simultánea (por ejemplo Do->Re, Do->Mi), dedos considerados como los "más torpes" de movimiento y por tanto de mayor dificultad para los alumnos.
 
-### EJERCICIOS
-
 #### Ejercicios 1 a 4
 
 Recordar las indicaciones que sobre el estudio instrumental se dieron en la "Introducción" del Módulo I.

@@ -1,5 +1,5 @@
 
-# 3. "Las notas alteradas: Sib, Fa# y/o Sol# (Do3 a Re4)"
+# 3. "Las notas alteradas Sib, Fa# y Sol# (Do3 a Re4)"
 ### Contenidos
 - **Lección 8**.- Fragmentos de escalas dentro del ámbito Do3 - Re4
 - **Lección 9**.- Notas alteradas: Sib

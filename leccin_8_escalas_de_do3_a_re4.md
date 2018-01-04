@@ -4,7 +4,7 @@
 Debido al ámbito melódico tan reducido que hemos visto hasta ahora (Do3-Re4), las escalas y arpegios se estudiarán de manera fragmentada. Ver arpegios en la lección 12.
 El estudio de escalas y arpegios forma parte de la técnica básica de todos los instrumentos musicales.
 
-### Escalas (fragmentos)
+### Fragmentos de escalas y escala de Do M
 
 <img src="img/Escalas_Do3-Re4.gif" alt="Escalas fragmentadas Do3-Re4" title="Escalas fragmentadas Do3-Re4" />
 

@@ -1,8 +1,6 @@
 
 # MÓDULO III "Ejercicios y melodías con la inclusión de algunas alteraciones (Do3 a Re4)"
 
-MÓDULO III
-
 - **Lección 8**.- Fragmentos de escalas dentro del ámbito Do3 - Re4
 - **Lección 9**.- Notas alteradas: Sib
 - **Lección 10**.- Notas alteradas: Fa#

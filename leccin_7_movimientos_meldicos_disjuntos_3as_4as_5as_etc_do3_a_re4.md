@@ -4,7 +4,6 @@
 Se entiende por movimiento disjunto a la aparición de intervalos superiores al de 2ª en la melodía, o sea, los de 3ª, 4ª, 5ª, etc. Los saltos melódicos amplios (5ª, 6ª, 7ª) son raros en los temas escolares. De los temas seleccionados para este curso solo aparece uno con estas características y no se trata de una canción escolar sino de un tema de cine: "Moon River". Este tema aparece de forma parcial en la actividad de ampliación 2 (ver completo en la lección 15).
 
 ### EJERCICIOS
-
 **Forma de realización con audio de acompañamiento** 
 
  - Estudiar primero sin audio.
@@ -22,7 +21,7 @@ Se entiende por movimiento disjunto a la aparición de intervalos superiores al�
  - Puede ser conveniente la utilización de un metrónomo para asegurar el tempo.
 
 
-### Ejercicios 1 y 2
+#### Ejercicios 1 y 2
 
 ![](/assets/L7_GraDisjEjer2_1-2.gif)
 
@@ -30,7 +29,7 @@ Audio para acompañar los ejercicios 1 y 2
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065643&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### Ejercicios 3 y 4
+#### Ejercicios 3 y 4
 
 ![](/assets/L7_GraDisjEjer2_3-4.gif)
 El Si del ejercicio 3 puede realizarse con el Si alternativo (bordadura o floreo inferior del Do).
@@ -39,7 +38,7 @@ Audio para acompañar los ejercicios 3 y 4
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065640&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### Ejercicios 5 y 6
+#### Ejercicios 5 y 6
 
 ![](/assets/L7_GraDisjEjer2_5-6.gif)
 El Si del ejercicio 6 puede realizarse tanto con el Si normal como con el Si alternativo.
@@ -48,7 +47,7 @@ Audio para acompañar los ejercicios 5 y 6
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065637&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### Ejercicios 7 y 8
+#### Ejercicios 7 y 8
 ![](/assets/L7_Ejer7-8_ARM.gif)
 El Si del ejercicio 7 (última negra del primer compás) conviene hacerlo con la posición del Si alternativo (ver lección 6).
 
@@ -56,7 +55,7 @@ Audio para acompañar los ejercicios 7 y 8
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065634&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### Ejercicios 9 y 10
+#### Ejercicios 9 y 10
 
 ![](/assets/L7_GraDisjEjer2_9-10.gif)
 
@@ -64,7 +63,7 @@ Audio para acompañar los ejercicios 9 y 10
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065631&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### Ejercicios 11 y 12
+#### Ejercicios 11 y 12
 
 ![](/assets/L7_GraDisjEjer2_11-12.gif)
 
@@ -72,7 +71,7 @@ Audio para acompañar los ejercicios 11 y 12
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065628&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### Ejercicios 13 y 14
+#### Ejercicios 13 y 14
 
 ![](/assets/L7_GraDisj2_13-14.gif)
 El Si del ejercicio 13 (última negra del primer compás) conviene hacerlo con la posición del Si alternativo (ver lección 6).
@@ -81,7 +80,7 @@ Audio para acompañar los ejercicios 13 y 14
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065625&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### Ejercicio 15
+#### Ejercicio 15
 
 ![Grados disjuntos 3as y 4as](img/EjerFla_GradosDisj_3as_4as.gif)
 

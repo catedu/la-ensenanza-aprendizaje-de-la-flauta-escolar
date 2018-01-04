@@ -3,9 +3,7 @@
 
 ![](/assets/L10_Posicion_FaSost.gif)
 
-**EJERCICIOS**
-
-**Forma de realización**
+**Forma de realización de los ejercicios**
 
 - Estudiar primero sin audio.
 

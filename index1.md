@@ -1,8 +1,6 @@
 
 # MÓDULO II "Ejercicios y melodías en la primera octava (Do3 a Re4)"
 
-MÓDULO II
-
 - **Lección 4**.- Movimientos melódicos por grados conjuntos: 2as
 - **Lección 5**.- El Do3 o nota más grave de la flauta escolar
 - **Lección 6**.- Pasajes de ciertas dificultades con las notas Si3, Do4 y Re4

@@ -17,6 +17,7 @@ Estos pasajes de especial dificultad se verán en las lecciones 6 y 7.
 <br />
 **¡IMPORTANTE!**<br />Si observáis al comenzar los ejercicios de la lección 4 que tenéis dificultades para emitir el Do grave (Do3), comenzad este bloque II de contenidos por la lección 5.
 <br />
+<br />
 **Forma de realización de los ejercicios**
 - Estudiar primero sin audio.
 

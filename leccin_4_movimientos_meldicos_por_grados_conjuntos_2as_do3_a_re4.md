@@ -11,9 +11,10 @@ En este tipo de movimiento melódico y dentro del ámbito más habitual de la fl
  - La relación entre Si3-Do4 y Do4-Re4 ofrece algunas dificultades de digitación que se comprobarán al realizar los ejercicios.
 
 Estos pasajes de especial dificultad se verán en las lecciones 6 y 7.
-<br />**¡IMPORTANTE!
-Si observáis al comenzar los ejercicios de la lección 4 que tenéis dificultades para emitir el Do grave (Do3), comenzad este bloque II de contenidos por la lección 5.**
-<br />**Forma de realización de los ejercicios**
+<br />
+**¡IMPORTANTE!<br />Si observáis al comenzar los ejercicios de la lección 4 que tenéis dificultades para emitir el Do grave (Do3), comenzad este bloque II de contenidos por la lección 5.**
+<br />
+**Forma de realización de los ejercicios**
 - Estudiar primero sin audio.
 
 - Una vez aprendido clicar sobre el audio y tocar con él adecuándose al 'tempo' establecido.

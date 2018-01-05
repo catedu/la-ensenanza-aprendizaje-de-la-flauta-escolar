@@ -1,5 +1,12 @@
 
-# 4. "La segunda octava hasta el Do5"
+# IV. "LA SEGUNDA OCTAVA HASTA EL Do5"
+
+### Objetivos
+1. Aprender la técnica necesaria para realizar ejercicios y melodías en la 8ª aguda (Mi4 -> Do5).
+
+2. Conocer las características sonoras de la 8ª alta o aguda de la flauta escolar (muy poco empleada).
+
+3. Conocer y practicar todo lo aprendido en el curso con una selección de temas escolares procedentes de fuentes diversas: folclore, cine, etc.
 
 ### Contenidos
 - **Lección 12**.- Arpegios tríadas y cuatríadas en Do mayor
@@ -8,16 +15,8 @@
 - **Lección 15**.- Selección de temas y canciones para flauta escolar
 - Fin
 
-### Objetivos
-
-1. Aprender la técnica necesaria para realizar el paso a la 8ª aguda.
-
-2. Conocer la 8ª aguda (poco empleada en temas escolares).
-
-3. Conocer temas escolares (selección) procedentes de diferentes fuentes: folclore, cine, etc. 
 
 ### Conocimientos previos
-
 1. Saber leer partituras rítmicas y melódicas sencillas (nivel elemental) que incluyan:
 
 - Ritmos básicos en compás de 2, 3 y 4 tiempos (redondas, blancas, negras, corcheas, semicorcheas, figuras con puntillo y ligaduras de prolongación).

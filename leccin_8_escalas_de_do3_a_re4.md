@@ -10,7 +10,7 @@ El estudio de escalas y arpegios forma parte de la técnica básica de todos los
 
 
 
-### ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 
 Modifica las articulaciones de los ejercicios anteriores. Por ejemplo:

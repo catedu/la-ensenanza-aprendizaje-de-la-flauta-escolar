@@ -49,7 +49,7 @@ Acompañamiento del ejercicio 5 (clicar y tocar)<br /> Armonización y edición 
 Arreglo y edición audio: R.Páez Perza<br />Ver este tema completo en la lección 15.
 
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
 Estudia y realiza los ejercicios siguientes:

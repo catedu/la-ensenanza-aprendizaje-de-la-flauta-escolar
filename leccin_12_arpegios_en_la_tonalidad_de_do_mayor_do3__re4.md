@@ -98,7 +98,7 @@ Audio para acompañar los arpegios en Mi-
 **Armonización y edición audios**: R. Páez Perza
 
 
-### ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
 

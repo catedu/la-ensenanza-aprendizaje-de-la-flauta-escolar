@@ -34,6 +34,6 @@ Armonización y edición audios: R. Páez Perza
 
 La práctica de notas largas debe ser un trabajo habitual en el estudio de la flauta. Aunque parezca una práctica simple, forma parte del trabajo diario de los instrumentistas profesionales para conseguir **calidad sonora**. Evidentemente introducen algunas variables: diferentes intensidades, "crescendo y diminuendo", vibrato, diferentes tipos de ataque al emitir la nota, etc.
 
-## ACTIVIDAD DE AMPLIACIÓN (opcional)
+#### ACTIVIDAD DE AMPLIACIÓN (opcional)
 
 Practicar con notas largas sobre otras notas prestando atención al ataque o emisión (TU), a la prolongación del sonido y a su final. Es conveniente alargar la nota todo lo que se pueda, pero sin llegar a agotar completamente el aire disponible.

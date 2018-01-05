@@ -1,9 +1,7 @@
 
 # Lección 1.- "La embocadura, la respiración y la colocación de las manos"
 
-### 
-
-EMBOCADURA
+LA EMBOCADURA
 
 Se denomina así a la forma y colocación de los labios sobre sobre la boquilla. La colocación de los labios sobre la boquilla debe ser natural, sin ningún tipo de tensión. Dado que se trata de un instrumento que no requiere esfuerzo alguno, precisamente lo contrario, los labios deben situarse alrededor de la boquilla de la manera más natural posible. La boquilla de la flauta debe introducirse en la boca más o menos un centímetro. 
 
@@ -36,7 +34,7 @@ La mejor manera de estudiar la técnica respiratoria es observar a los grandes 
 
 <br /> 
 
-## Observa como respiran los intérpretes
+### Observa como respiran los intérpretes
 
 {% youtube %}https://www.youtube.com/watch?v=0XiHU8To1d0&feature=youtu.be{% endyoutube %}
 

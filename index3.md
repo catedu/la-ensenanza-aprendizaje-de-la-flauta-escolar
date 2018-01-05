@@ -1,5 +1,5 @@
 
-# IV. "LA SEGUNDA OCTAVA HASTA EL Do5"
+# IV. "LA SEGUNDA OCTAVA (Mi4 -> Do5)"
 
 ### Objetivos
 1. Aprender la técnica necesaria para realizar ejercicios y melodías en la 8ª aguda (Mi4 -> Do5).

@@ -1,5 +1,5 @@
 
-# I."Primera toma de contacto con la flauta escolar"
+# I."PRIMERA TOMA DE CONTACTO. ALGUNAS CONSIDERACIONES ANTES DE COMENZAR"
 
 ### Objetivos 
 

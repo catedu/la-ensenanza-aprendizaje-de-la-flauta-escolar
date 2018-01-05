@@ -1,10 +1,5 @@
 
-# 1."Primera toma de contacto con la flauta escolar"
-### Contenidos
-- **Introducción**
-- **Lección 1**.- La embocadura, la respiración y la colocación de las manos
-- **Lección 2**.- La emisión, prolongación y final del sonido con notas largas. Primeras notas: Sol, La, Si
-- **Lección 3**.- Articulaciones básicas (ligado y picado)
+# I."Primera toma de contacto con la flauta escolar"
 
 ### Objetivos 
 
@@ -14,8 +9,14 @@
 
 3. Conocer las dos articulaciones básicas: ligado y picado
 
-### Conocimientos previos
+### Contenidos
+- **Introducción**
+- **Lección 1**.- La embocadura, la respiración y la colocación de las manos
+- **Lección 2**.- La emisión, prolongación y final del sonido con notas largas. Primeras notas: Sol, La, Si
+- **Lección 3**.- Articulaciones básicas (ligado y picado)
 
+
+### Conocimientos previos
 1. Saber leer partituras rítmicas y melódicas sencillas (nivel elemental) que incluyan:
 
 - Ritmos básicos en compás de 2, 3 y 4 tiempos (redondas, blancas, negras, corcheas, semicorcheas, figuras con puntillo y ligaduras de prolongación).

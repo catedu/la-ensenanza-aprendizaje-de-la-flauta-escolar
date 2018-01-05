@@ -43,7 +43,7 @@ Audio de acompañamiento para los ejercicios 1, 2 y 3
 Metrónomo opcional para los ejercicios 4 al 12 (90 p/m)<br /> Armonización y edición audios: R.Páez Perza
 <br />
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Nota.- **Dado que estos ejercicios y actividades emplean notas que todavía no se han practicado, parece conveniente realizarlos después de haber completado la lección 6. No obstante, sí pueden practicarse los ejercicios que empleen las notas Sol, La, Si.
 

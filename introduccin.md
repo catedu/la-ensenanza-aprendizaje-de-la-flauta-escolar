@@ -44,7 +44,7 @@ Diferencias entre la flauta barroca y la escolar (moderna)
 
 En cuanto a su **tesitura**, la flauta escolar (soprano) es un instrumento transpositor a la 8ª, es decir, que sus sonidos reales suenan una 8ª más agudos de como aparecen escritos en partitura. No obstante, siempre que se haga referencia a la altura de una determinada nota se emplearán los subíndices sonoros en relación a su posición en el pentagrama y no a su sonido real. Por ejemplo, si se menciona Do3 se hace referencia a la nota inicial de la flauta escolar (soprano) y no a su sonido real (Do4).
 
-En el Módulo IV (Lección 15) aparece una serie de temas muy conocidos que han sido seleccionados de diferentes fuentes (folclore, temas de cine, etc.) y que nos dan una idea bastante aproximada de las dificultades técnicas que deberemos superar.
+En la lección 15 del módulo o bloque IV aparecen una serie de temas muy conocidos que han sido seleccionados de diferentes fuentes (folclore, temas de cine, etc.) y que nos dan una idea bastante aproximada de las dificultades técnicas que deberemos superar.
 
 Indicar por último, que la mayoría de los ejercicios se podrán realizar con su correspondiente acompañamiento rítmico-armónico en formato Mp3, de manera que el alumno-a aprenderá la técnica básica de la flauta escolar como si estuviera inmerso en un grupo de cámara. Estos acompañamientos han sido arreglados, armonizados, instrumentados y editados expresamente con este fin. Solo hay que clicar sobre el audio y realizar el ejercicio o actividad que corresponda. Los ejercicios así realizados son mucho más amenos, divertidos y motivadores.
 

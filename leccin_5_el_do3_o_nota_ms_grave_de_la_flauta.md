@@ -46,6 +46,6 @@ Audio para los ejercicios 14 a 16
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065670&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-### ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 Practicar notas largas con Do3 (mantener el sonido 8-10 segundos). Si no sale correctamente, volver a realizar los ejercicios 1 a 4. Es importante recordar que es la nota más débil de la flauta, la que requiere menor flujo y presión de aire.

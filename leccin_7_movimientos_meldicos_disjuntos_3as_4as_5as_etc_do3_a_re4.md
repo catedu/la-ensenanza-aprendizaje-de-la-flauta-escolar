@@ -90,7 +90,7 @@ Audio para acompañar los ejercicios 13 y 14
 
 
 
-### ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
 

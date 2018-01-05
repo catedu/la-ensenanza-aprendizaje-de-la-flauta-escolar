@@ -52,7 +52,7 @@ Aquí tienes el tema central de la película "Titanic" (ver tema completo en la 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344090304&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 CLICAR Y TOCAR (¡Ojo! Comienza en compás 11, casilla de 2ª)<br /> Arreglo y edición audio: R.Páez Perza
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
 

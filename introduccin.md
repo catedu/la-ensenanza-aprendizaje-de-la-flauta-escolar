@@ -21,7 +21,7 @@ Las razones para emplear la flauta dulce o de pico en el ámbito escolar, desde
 
 3. Su fácil manejo para melodías sencillas de ámbito reducido en Do mayor.
 
-En este primer módulo (Lecciones 1, 2 y 3) comenzaremos con el aprendizaje de los conceptos básicos sobre embocadura, emisión, respiración, etc., que aplicaremos a las notas Sol - La - Si, de fácil emisión y digitación. En los módulos II, III y IV iremos profundizando en otros aspectos técnico-instrumentales necesarios para poder realizar melodías y temas escolares sencillos en DoM, FaM (Sib), SolM (Fa#) y Lam (Sol#).
+En este primer módulo o bloque de contenidos (Lecciones 1, 2 y 3) comenzaremos con el aprendizaje de los conceptos básicos sobre embocadura, emisión, respiración, etc., que aplicaremos a las notas Sol - La - Si, de fácil emisión y digitación. En los módulos II, III y IV iremos profundizando en otros aspectos técnico-instrumentales necesarios para poder realizar melodías y temas escolares sencillos en DoM, FaM (Sib), SolM (Fa#) y Lam (Sol#).
 
 La mayor parte de los temas escolares están en do mayor, no obstante, en ocasiones aparecen temas en alguno de los tonos vecinos (SolM, FaM, Lam) por lo que es necesario el aprendizaje de sus respectivas notas alteradas: Fa#, Sib y Sol#. La realización melódica más allá de estas tonalidades vecinas resulta prácticamente imposible en el ámbito escolar. La aparición de notas alteradas complica bastante la realización melódica. El mayor o menor grado de complejidad y/o dificultad en la flauta escolar viene dado por (de menor a mayor):
 

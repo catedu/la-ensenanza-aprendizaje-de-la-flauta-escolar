@@ -85,7 +85,7 @@ FORMA DE REALIZACIÓN DE LOS EJERCICIOS<br />a) **Sin audio**.<br />b) **Con aud
 
 Armonía y edición audios: R. Páez Perza
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**<br /> Realiza, estudia, interpreta la siguiente frase melódica junto con su acompañamiento armónico (audio digital):
 

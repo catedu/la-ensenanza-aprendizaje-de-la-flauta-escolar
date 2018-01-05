@@ -1,10 +1,5 @@
 
-# 2. "La primera octava del Do3 al Re4"
-### Contenidos
-- **Lección 4**.- Movimientos melódicos por grados conjuntos: 2as
-- **Lección 5**.- El Do3 o nota más grave de la flauta escolar
-- **Lección 6**.- Pasajes de ciertas dificultades con las notas Si3, Do4 y Re4
-- **Lección 7**.- Movimientos melódicos por grados disjuntos: 3as, 4as, 5as, etc.
+# II. "LA PRIMERA OCTAVA (Do3 -> Re4)"
 
 ### Objetivos
 
@@ -13,6 +8,13 @@
 2. Practicar de manera específica los pasajes de mayor dificultad en Do mayor: Do3 (nota más grave) y Si3, Do4 y Re4.
 
 3. Conocer la posición alternativa del Si3 y sus posibilidades de empleo.
+
+### Contenidos
+- **Lección 4**.- Movimientos melódicos por grados conjuntos: 2as
+- **Lección 5**.- El Do3 o nota más grave de la flauta escolar
+- **Lección 6**.- Pasajes de ciertas dificultades con las notas Si3, Do4 y Re4
+- **Lección 7**.- Movimientos melódicos por grados disjuntos: 3as, 4as, 5as, etc.
+
 
 ### Conocimientos previos
 

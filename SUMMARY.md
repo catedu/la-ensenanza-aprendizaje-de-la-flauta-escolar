@@ -10,7 +10,7 @@
 * [Lección 2.- "La emisión, prolongación y final del sonido \(notas largas\). Primeras notas: Sol, La, Si"](leccin_2_la_emisin_prolongacin_y_final_del_sonido_notas_largas_primeras_notas_sol_la_si.md)
 * [Lección 3.- "Articulaciones básicas: ligado y picado simple"](leccin_3_articulaciones_bsicas_ligado_y_picado_simple.md)
 
-## II. LA PRIMERA OCTAVA DEL DO3 AL RE4\)
+## II. LA PRIMERA OCTAVA DEL DO3 AL RE4
 
 * [Objetivos, contenidos y conocimientos previos](index1.md)
 * [Lección 4.- "Movimientos melódicos por grados conjuntos: 2as \(Do3 a Re4\)"](leccin_4_movimientos_meldicos_por_grados_conjuntos_2as_do3_a_re4.md)

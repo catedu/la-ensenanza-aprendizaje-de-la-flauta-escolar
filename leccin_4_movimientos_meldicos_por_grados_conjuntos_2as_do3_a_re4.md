@@ -83,7 +83,7 @@ Acompañamiento ejercicio 6 -&gt; CLICAR Y TOCAR
 Acompañamiento ejercicio 7 -&gt; CLICAR Y TOCAR<br /> Armonización y edición audios: R.Páez Perza
 <br />
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
 

@@ -52,7 +52,7 @@ Acompañamiento del ejercicio 3 (clicar y tocar)
 
 Acompañamiento del ejercicio 4 (clicar y tocar)<br /> **Armonización y edición de audios**: R. Páez Perza
 
-## ACTIVIDADES DE AMPLIACIÓN (opcionales)
+#### ACTIVIDADES DE AMPLIACIÓN (opcionales)
 
 **Actividad de ampliación 1**
 

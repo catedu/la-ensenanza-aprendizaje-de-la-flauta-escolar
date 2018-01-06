@@ -18,7 +18,7 @@ A estas alturas del curso, si todas las lecciones se han practicado correctament
 
 
 **1. "FRERE JACQUES"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5 y 7
+Conocimientos previos: lecciones 1, 2, 3, 4, 5 y 7
 
 ![](/assets/L15_FrereJacques_.gif)
 
@@ -37,7 +37,7 @@ Armonización y edición audio: R. Páez Perza
 
 
 **2. "ROMANCE DE LA REINA MERCEDES"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5 y 7
+Conocimientos previos: lecciones 1, 2, 3, 4, 5 y 7
 
 ![](/assets/L15_RomanceReinaMercedes_.gif)
 
@@ -49,7 +49,7 @@ Audio para acompañar "Romance de la reina Mercedes" // Armonización y edición
 
 
 **3. "CARROS DE FUEGO"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6 y 7
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6 y 7
 
 ![](/assets/L15_Carros de fuego_.gif)
 
@@ -63,7 +63,7 @@ Audio para acompañar "Carros de fuego" // Arreglo y edición audio: R. Páez Pe
 
 
 **4. "MUSIC ALONE"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7, 10 y 13 para la parte superior. Para la parte inferior no es necesaria la lección 13.
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7, 10 y 13 para la parte superior. Para la parte inferior no es necesaria la lección 13.
 
 ![](/assets/L15_MusicAlone_.gif)
 
@@ -74,7 +74,7 @@ Audio para acompañar "Music alone" // Armonización y edición audio: R. Páez 
 <br />
 
 **5. WHEN THE SAINTS**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5 y 7 para la melodía principal. Para los contrapuntos es necesaria, además, la lección 6.
+Conocimientos previos: lecciones 1, 2, 3, 4, 5 y 7 para la melodía principal. Para los contrapuntos es necesaria, además, la lección 6.
 
 ![](/assets/L15_WhenTheSaints_.gif)
 
@@ -85,7 +85,7 @@ Audio para acompañar "Oh When the Saints" // Armonización y edición audio: R.
 <br />
 
 **6. "PRIMAVERA" (Vivaldi)**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5 y 7
+Conocimientos previos: lecciones 1, 2, 3, 4, 5 y 7
 
 ![](/assets/L15_Primavera_Vivaldi_.gif)
 
@@ -102,7 +102,7 @@ Arreglo y edición audio: R. Páez Perza
 <br />
 
 **7. "LA DEL MANTÓN DE MANILA"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7 y 10
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7 y 10
 
 ![](/assets/L15_MantonManila_.gif)
 
@@ -119,7 +119,7 @@ Arreglo y edición audio: R. Páez Perza
 
 
 **8. "SANCTA MARIA STRELA DO DIA"** 
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6 y 7
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6 y 7
 ![](/assets/L15_SanctaMaria_.gif)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356065517&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
@@ -132,7 +132,7 @@ Audio para acompañar "Sancta Maria strela do dia" // Arreglo y edición audio: 
 
 
 **9. "MOON RIVER"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7 y 12 (arpegio de DoM).
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7 y 12 (arpegio de DoM).
 
 ![](/assets/L15_MoonRiver_.gif)
 
@@ -149,7 +149,7 @@ Arreglo y edición audio: R. Páez Perza
 <br />
 
 **10. "TITANIC"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7, 9 y 13 si elegimos la voz o parte más aguda (Mi4).
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7, 9 y 13 si elegimos la voz o parte más aguda (Mi4).
 
 ![](/assets/L15_Titanic_.gif)
 
@@ -162,7 +162,7 @@ Audio para acompañar "Titanic" // Arreglo y edición audio: R. Páez Perza
 <br />
 
 **11. "EL OBOE DE GABRIEL"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7, 10 y 13 si elegimos la voz o parte más aguda.
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7, 10 y 13 si elegimos la voz o parte más aguda.
 
 ![](/assets/L15_OboeGabriel_.gif)
 
@@ -183,7 +183,7 @@ Arreglo y edición audio: R. Páez Perza
 
 
 **12. "LA VIDA ES BELLA"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7, 11, 13 y 14 si elegimos la voz o parte más aguda. Si realizamos la parte más grave, las lecciones 13 y 14 no serian necesarias.
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7, 11, 13 y 14 si elegimos la voz o parte más aguda. Si realizamos la parte más grave, las lecciones 13 y 14 no serian necesarias.
 
 ![](/assets/L15_VidaBella_.gif)
 
@@ -196,7 +196,7 @@ Audio para acompañar "La vida es bella" // Arreglo y edición audio: R. Páez P
 <br />
 
 **13. "LA LAMBADA"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7, 8 y 13. 
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7, 8 y 13. 
 
 ![](/assets/L15_Lambada_.gif)
 
@@ -207,7 +207,7 @@ Audio para acompañar "La lambada" // Arreglo y edición audio: R. Páez Perza<b
 OBSERVACIÓN.- Evidentemente hay que realizar la voz o parte principal (pentagrama superior).<br />
 
 **14. "MINUETTO (J.S. Bach)"**
-Conocimientos mínimos: lecciones 1, 2, 3, 4, 5, 6, 7, 8, 10, 13 y 14. 
+Conocimientos previos: lecciones 1, 2, 3, 4, 5, 6, 7, 8, 10, 13 y 14. 
 
 ![](/assets/L15_MinuettoBach_.gif)
 

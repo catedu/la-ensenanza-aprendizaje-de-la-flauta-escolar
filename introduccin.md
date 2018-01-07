@@ -3,7 +3,9 @@
 
 El presente curso va dirigido a docentes que deseen incluir la flauta escolar como actividad musical. Se trata de un curso de nivel básico, cuyos contenidos permitirán alcanzar el dominio técnico necesario para afrontar con éxito todo tipo de melodías escolares en las tonalidades de DoM, FaM, SolM y Lam.
 
-Todos los ejercicios y actividades que se plantean en este curso pueden a su vez ser reutilizados con alumnos y alumnas de primer ciclo de E.S.O. (13-14 años) e incluso con alumnos-as de Primaria puesto que partimos desde cero (alumnos-as sin ninguna experiencia con este instrumento) con el fin de evitar cometer errores técnicos de base. Asimismo, permite integrar a alumnos-as que ya se hayan iniciado en el aprendizaje de melodías con flauta escolar, sea cual sea su curso y nivel,
+Todos los ejercicios y actividades que se plantean en este curso pueden a su vez ser reutilizados con alumnos y alumnas de primer ciclo de E.S.O. (13-14 años) e incluso con alumnos-as de Primaria puesto que iniciamos el estudio partiendo de cero (alumnos-as sin ninguna experiencia con este instrumento) con el fin de evitar cometer errores técnicos de base. 
+
+Asimismo, los contenidos de este curso permiten integrar a alumnos-as que ya se hayan iniciado en el aprendizaje con flauta escolar (melodías, ejercicios técnicos), sea cual sea su curso y nivel.
 
 La flauta de pico fue empleada hasta la época barroca (Bach, Haendel, Vivaldi). Posteriormente fue sustituida por la flauta travesera de mejor sonoridad y con mejores posibilidades técnico-interpretativas. 
 

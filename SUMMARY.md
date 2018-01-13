@@ -33,5 +33,5 @@
 * [Lección 13.- "El paso hasta el Mi4, primera nota de la octava aguda"](leccin_13_el_paso_a_la_octava_aguda.md)
 * [Lección 14.- "La octava aguda hasta el Do5"](leccin_14_la_octava_aguda.md)
 * [Lección 15.- "Selección de temas y canciones escolares para flauta"](leccin_15_seleccin_de_temas_y_canciones_escolares_para_flauta.md)
-* [Fin](fin.md)
+* [Y aquí se acaba el curso](fin.md)
 

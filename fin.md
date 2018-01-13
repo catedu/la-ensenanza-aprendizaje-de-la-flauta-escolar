@@ -1,6 +1,5 @@
 
 
-
 Con este sencillo curso hemos aprendido los aspectos básicos de la técnica para flauta escolar (dulce o de pico), lo cual nos permitirá afrontar con éxito el aprendizaje de muchísimos temas y canciones. No obstante, aun queda mucho por aprender, este curso no es más que el comienzo. La base técnica ha sido establecida aunque hay que tener muy claro que en el aprendizaje de cualquier instrumento musical lo importante es la constancia, el dedicar un tiempo diario al estudio.
 
 Espero que este curso os haya sido útil.

@@ -42,6 +42,6 @@ Giovanni Antonini (Concierto para flautín en Do mayor de Vivaldi)
 
 {% youtube %}https://www.youtube.com/watch?v=CZhMAUJuYZc&feature=youtu.be{% endyoutube %}
 
-Flautas de pico poco frecuentes en estilo clásico y contemporáneo (13'25'' a 22'02'')
-
+Flautas de pico poco frecuentes en estilo clásico y contemporáneo (ver estilo contemporáneo del 13'25'' a 22'02''). El Cuarteto emplea más de 30 flautas de pico diferentes.
+El 14 de mayo de 2011 el programa nocturno de la Noche de los Museos en el Centro de Artes Cafesjian presentó un concierto del 'Quartet New Generation' (alemán) organizado en colaboración con el Instituto Goethe y la Embajada de Alemania en Armenia. 
 

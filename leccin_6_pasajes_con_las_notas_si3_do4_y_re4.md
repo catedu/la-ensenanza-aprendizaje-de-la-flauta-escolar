@@ -5,7 +5,7 @@
 
 La relación entre Si3-Do4 y Do4-Re4, o bien las tres notas juntas en cualquier combinación melódica, ofrece ciertas dificultades técnicas de realización que deben ser practicadas y superadas. Estas dificultades hacen referencia a determinados movimientos de los dedos índice y medio, así como al movimiento inusual del pulgar de la mano izquierda. En el primer caso (Si->Do o viceversa) la dificultad está en que los dedos índice (Si3) y medio (Do4) deben alternarse, tapando sus respectivos orificios de manera muy precisa ya que de lo contrario aparecerán sonidos "intrusos" (La3 o Do#4) debido precisamente a la falta de precisión de dichos dedos ya que mientras uno abre el otro debe tapar o viceversa. 
 
-![](/assets/L6_Sonidos_intrusos.gif)
+![](/assets/L6_Sonido_intruso.gif)
 
 En el paso del Do4 al Re4 la dificultad obedece al movimiento del dedo pulgar, necesario para obtener el Re4 cuando venimos de la nota inferior (o viceversa). Este movimiento del pulgar resulta bastante torpe cuando no se tiene práctica.
 

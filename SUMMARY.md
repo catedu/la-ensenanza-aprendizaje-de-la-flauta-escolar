@@ -34,4 +34,5 @@
 * [Lección 14.- "La octava aguda hasta el Do5"](leccin_14_la_octava_aguda.md)
 * [Lección 15.- "Selección de temas y canciones escolares para flauta"](leccin_15_seleccin_de_temas_y_canciones_escolares_para_flauta.md)
 * [Y aquí se acaba el curso](fin.md)
+* [Créditos](creditos.md)
 

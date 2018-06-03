@@ -12,7 +12,7 @@ Los ejercicios y actividades de este curso pueden ser empleados también con vue
 - Amplificación para escuchar los audios.
 - Pantalla de vídeo para visualizar las imágenes de las partituras (ejercicios, temas) o bien disponer de ellas en papel.
 
-<br /> **RafaelPaezPerza**<br /> Profesor Música I.E.S. "La Llitera"<br /> Tamarite de Litera (Huesca)
+<br /> **R.PaezPerza**<br /> Profesor Música I.E.S. "La Llitera"<br /> Tamarite de Litera (Huesca)
 
 <strong style="font-size: medium; text-align: center;">
 
